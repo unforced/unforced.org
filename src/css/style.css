@@ -322,6 +322,25 @@ section {
   color: var(--forest);
 }
 
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-md);
+  margin-top: var(--space-md);
+}
+
+.social-link {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.social-link:hover {
+  color: var(--forest);
+}
+
 /* ========================================
    Touchstone Quote
    ======================================== */
