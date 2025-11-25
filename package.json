@@ -1,0 +1,12 @@
+{
+  "name": "unforced-org",
+  "version": "1.0.0",
+  "description": "Aaron G Neyer's personal hub - Exploring what it means to live well",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

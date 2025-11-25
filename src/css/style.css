@@ -1,0 +1,395 @@
+/* ========================================
+   Unforced.org — Nature-Inspired Styles
+   ======================================== */
+
+:root {
+  /* Colors — Natural palette */
+  --forest: #40695B;
+  --turquoise: #4a9a99;
+  --earth: #8B7355;
+  --sky: #B8D4E3;
+  --stone: #9CA3AF;
+  --cream: #FDFBF7;
+  --warm-white: #FFFEFA;
+  --text: #111827;
+  --text-light: #1f2937;
+  --text-muted: #374151;
+
+  /* Typography */
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Spacing — Generous, breathing */
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 2rem;
+  --space-lg: 4rem;
+  --space-xl: 6rem;
+  --space-2xl: 10rem;
+
+  /* Layout */
+  --max-width: 42rem;
+  --max-width-wide: 56rem;
+}
+
+/* ========================================
+   Base Styles
+   ======================================== */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--text);
+  background-color: var(--warm-white);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ========================================
+   Typography
+   ======================================== */
+
+h1, h2, h3 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--text);
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: var(--space-md);
+  color: var(--forest);
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: var(--space-sm);
+}
+
+p {
+  margin-bottom: var(--space-sm);
+}
+
+a {
+  color: var(--forest);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--turquoise);
+}
+
+blockquote {
+  font-style: italic;
+  color: var(--text-light);
+  border-left: 2px solid var(--turquoise);
+  padding-left: var(--space-md);
+  margin: var(--space-md) 0;
+}
+
+/* ========================================
+   Layout
+   ======================================== */
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--space-lg) var(--space-md);
+}
+
+section {
+  margin-bottom: var(--space-2xl);
+}
+
+/* ========================================
+   Opening Section — Hero
+   ======================================== */
+
+.opening {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: var(--space-xl) 0;
+}
+
+.opening__name {
+  font-size: 3rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  margin-bottom: var(--space-xs);
+  color: var(--text);
+}
+
+.opening__word {
+  font-size: 1.25rem;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--turquoise);
+  margin-bottom: var(--space-lg);
+}
+
+.opening__tagline {
+  font-size: 1.15rem;
+  font-style: italic;
+  color: var(--text-light);
+  max-width: 28rem;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+.opening__scroll {
+  margin-top: var(--space-xl);
+  color: var(--stone);
+  font-size: 0.85rem;
+  font-family: var(--font-sans);
+  letter-spacing: 0.1em;
+}
+
+/* ========================================
+   Content Sections
+   ======================================== */
+
+.section-title {
+  font-size: 0.85rem;
+  font-family: var(--font-sans);
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--turquoise);
+  margin-bottom: var(--space-md);
+}
+
+.prose {
+  font-size: 1.1rem;
+  line-height: 1.85;
+  color: var(--text);
+  font-weight: 450;
+}
+
+.prose p {
+  margin-bottom: var(--space-md);
+}
+
+.prose p:last-child {
+  margin-bottom: 0;
+}
+
+/* ========================================
+   Projects Section
+   ======================================== */
+
+.projects {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+}
+
+.project {
+  padding-bottom: var(--space-lg);
+  border-bottom: 1px solid rgba(64, 105, 91, 0.1);
+}
+
+.project:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.project__name {
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: var(--text);
+  margin-bottom: var(--space-xs);
+}
+
+.project__description {
+  color: var(--text);
+  margin-bottom: var(--space-sm);
+}
+
+.project__link {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+}
+
+/* ========================================
+   Sharing Section
+   ======================================== */
+
+.channels {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.channel {
+  padding: var(--space-md);
+  background: var(--cream);
+  border-radius: 4px;
+}
+
+.channel__type {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--turquoise);
+  margin-bottom: var(--space-xs);
+}
+
+.channel__name {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: var(--space-xs);
+}
+
+.channel__description {
+  font-size: 0.95rem;
+  color: var(--text-light);
+  font-style: italic;
+}
+
+.essays {
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px solid rgba(64, 105, 91, 0.1);
+}
+
+.essays__title {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin-bottom: var(--space-sm);
+}
+
+.essays__list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+.essays__list li {
+  font-size: 0.95rem;
+}
+
+/* ========================================
+   Connect Section
+   ======================================== */
+
+.connect {
+  text-align: center;
+  padding: var(--space-xl) 0;
+}
+
+.connect__message {
+  font-size: 1.1rem;
+  max-width: 32rem;
+  margin: 0 auto var(--space-md);
+}
+
+.connect__email {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  color: var(--forest);
+}
+
+/* ========================================
+   Touchstone Quote
+   ======================================== */
+
+.touchstone {
+  text-align: center;
+  padding: var(--space-xl) 0;
+  margin-top: var(--space-xl);
+  border-top: 1px solid rgba(64, 105, 91, 0.1);
+}
+
+.touchstone__quote {
+  font-size: 1.3rem;
+  font-style: italic;
+  color: var(--forest);
+  margin-bottom: var(--space-xs);
+}
+
+.touchstone__attribution {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+/* ========================================
+   Responsive — Mobile First
+   ======================================== */
+
+@media (max-width: 640px) {
+  html {
+    font-size: 16px;
+  }
+
+  main {
+    padding: var(--space-md) var(--space-sm);
+  }
+
+  .opening {
+    min-height: 70vh;
+    padding: var(--space-lg) 0;
+  }
+
+  .opening__name {
+    font-size: 2.2rem;
+  }
+
+  section {
+    margin-bottom: var(--space-xl);
+  }
+}
+
+/* ========================================
+   Subtle Animations
+   ======================================== */
+
+@media (prefers-reduced-motion: no-preference) {
+  .opening {
+    animation: fadeIn 1.2s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
