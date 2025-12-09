@@ -73,7 +73,7 @@ A media project exploring a different relationship with technology — looking a
 
 ### Tai Ji
 
-I'm a student of Tai Ji, and occasionally a teacher of it. This practice connects me to embodiment and flow, and to my dad who first taught me to dance this way. I study with Chungliang Al Huang and practice with my stepmom Laurie, continuing a lineage of movement and presence.
+I'm a student of Tai Ji, and occasionally a teacher of it. This practice is about listening, opening, and exploring — the interwoven dance of opposites. It connects me to embodiment and flow, and to my dad who first taught me to move this way. I study with Chungliang Al Huang and practice with my stepmom Laurie, continuing a lineage of movement and presence. [Practicing Unforced →](https://unforced.substack.com/p/practicing-unforced)
 
 </article>
 
@@ -105,6 +105,7 @@ I'm a student of Tai Ji, and occasionally a teacher of it. This practice connect
 - [Happy Birthday Joe](https://unforced.substack.com/p/happy-birthday-joe) — On lineage and inheritance
 - [Growing Technology, Boulder and Beyond](https://unforced.substack.com/p/growing-technology-boulder-and-beyond) — On vision for technology
 - [Finding Balance with Technology](https://unforced.substack.com/p/finding-balance-with-technology) — On practice and tools
+- [Practicing Unforced](https://unforced.substack.com/p/practicing-unforced) — On Taiji, structure, and flow
 
 </div>
 </div>
