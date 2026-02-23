@@ -11,6 +11,12 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  // Drafts collection — built as pages at /drafts/, not listed in posts
+  eleventyConfig.addCollection("drafts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/drafts/*.md")
+      .sort((a, b) => b.date - a.date);
+  });
+
   // Date formatting filters
   eleventyConfig.addFilter("formatDate", (date) => {
     const d = new Date(date);

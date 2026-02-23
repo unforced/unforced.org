@@ -740,3 +740,33 @@ section {
     font-size: 1.8rem;
   }
 }
+
+/* ========================================
+   Draft Banner
+   ======================================== */
+
+.draft-banner {
+  max-width: var(--max-width);
+  margin: 0 auto var(--space-md);
+  padding: 0.75rem 1.25rem;
+  background: #fef9ec;
+  border-left: 3px solid var(--earth);
+  color: var(--text-muted);
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.draft-banner__label {
+  display: inline-block;
+  background: var(--earth);
+  color: white;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.1rem 0.4rem;
+  border-radius: 2px;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
