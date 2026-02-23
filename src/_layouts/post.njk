@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+<article class="post">
+  <header class="post__header">
+    <time class="post__date" datetime="{{ date | isoDate }}">{{ date | formatDateFull }}</time>
+    <h1 class="post__title">{{ title }}</h1>
+    {% if subtitle %}<p class="post__subtitle">{{ subtitle }}</p>{% endif %}
+  </header>
+
+  <div class="post__content prose">
+    {{ content | safe }}
+  </div>
+
+  <footer class="post__footer">
+    <a href="/writing/" class="post__back">&larr; All Writing</a>
+  </footer>
+</article>

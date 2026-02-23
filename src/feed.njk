@@ -1,0 +1,26 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Unforced</title>
+  <subtitle>Essays on technology, practice, and what it means to live well.</subtitle>
+  <link href="https://unforced.org/feed.xml" rel="self"/>
+  <link href="https://unforced.org/"/>
+  <updated>{{ collections.posts[0].date | isoDate }}</updated>
+  <id>https://unforced.org/</id>
+  <author>
+    <name>Aaron G Neyer</name>
+    <email>ag@unforced.org</email>
+  </author>
+  {%- for post in collections.posts | limit(20) %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="https://unforced.org{{ post.url }}"/>
+    <updated>{{ post.date | isoDate }}</updated>
+    <id>https://unforced.org{{ post.url }}</id>
+    <content type="html">{{ post.templateContent | escape }}</content>
+  </entry>
+  {%- endfor %}
+</feed>
