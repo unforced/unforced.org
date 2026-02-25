@@ -16,6 +16,10 @@ permalink: /joe/
   </div>
   <div class="joe-hero__actions">
     <a href="/too-much-fun-dying-to-stop-now.epub" class="joe-download" download>Download Free (epub)</a>
+    <button class="joe-listen-btn hidden" id="joe-listen-btn" onclick="JoeReader.startListening()">
+      <svg class="joe-listen-btn__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 0 18A9 9 0 0 0 12 3zm-1 13V8l6 4-6 4z"/></svg>
+      Listen to Joe Read His Book
+    </button>
     <a href="/writing/happy-birthday-joe/" class="joe-link">Read &ldquo;Happy Birthday Joe&rdquo; by Aaron &rarr;</a>
   </div>
 </section>
@@ -776,10 +780,358 @@ permalink: /joe/
     </div>
   </section>
 
-  <section id="note-about-unforced" class="joe-chapter">
+  <section id=”note-about-unforced” class=”joe-chapter”>
     <h2 class=”joe-chapter__title”>A Note About <em>Unforced</em></h2>
     <div class=”joe-chapter__text prose”>
       <p>We've chosen to highlight the word <em>unforced</em> in italics throughout this book to represent the importance of that particular word to Joe as a way to describe his life approach and day-to-day acceptance of his world.</p>
     </div>
   </section>
 </article>
+
+<!-- ======================================================
+     Joe Audio Player
+     ====================================================== -->
+<div class=”joe-player” id=”joe-player” role=”region” aria-label=”Joe reads his book”>
+  <div class=”joe-player__progress-bar” id=”joe-progress-bar”>
+    <div class=”joe-player__progress-fill” id=”joe-progress-fill”></div>
+  </div>
+  <div class=”joe-player__body”>
+    <div class=”joe-player__avatar” id=”joe-player-avatar”>
+      <img src=”/images/joe/joelistentodad.png” alt=”Joe Neyer” width=”44” height=”44”>
+    </div>
+    <div class=”joe-player__controls”>
+      <button class=”joe-player__btn” id=”joe-prev-btn” aria-label=”Previous chapter” onclick=”JoeReader.prevChapter()”>
+        <svg width=”16” height=”16” viewBox=”0 0 24 24” fill=”currentColor”><path d=”M6 6h2v12H6zm3.5 6 8.5 6V6z”/></svg>
+      </button>
+      <button class=”joe-player__btn joe-player__btn--play” id=”joe-play-btn” aria-label=”Play” onclick=”JoeReader.togglePlay()”>
+        <svg id=”joe-play-icon” width=”20” height=”20” viewBox=”0 0 24 24” fill=”currentColor”><path d=”M8 5v14l11-7z”/></svg>
+      </button>
+      <button class=”joe-player__btn” id=”joe-next-btn” aria-label=”Next chapter” onclick=”JoeReader.nextChapter()”>
+        <svg width=”16” height=”16” viewBox=”0 0 24 24” fill=”currentColor”><path d=”M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z”/></svg>
+      </button>
+    </div>
+    <div class=”joe-player__info”>
+      <div class=”joe-player__chapter-name” id=”joe-player-chapter”>Joe Neyer</div>
+      <div class=”joe-player__time”><span id=”joe-time-current”>0:00</span> / <span id=”joe-time-total”>0:00</span></div>
+    </div>
+    <button class=”joe-player__btn joe-player__close” aria-label=”Close player” onclick=”JoeReader.close()”>
+      <svg width=”16” height=”16” viewBox=”0 0 24 24” fill=”currentColor”><path d=”M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z”/></svg>
+    </button>
+  </div>
+</div>
+
+<script>
+const JoeReader = (() => {
+  let chapters = [];
+  let currentChapter = null;
+  let timestamps = null;
+  let audio = null;
+  let activePara = null;
+  let userScrolling = false;
+  let scrollTimer = null;
+  let initialized = false;
+
+  // ---- Initialization ----
+
+  async function init() {
+    if (initialized) return;
+    initialized = true;
+
+    audio = new Audio();
+    audio.addEventListener('timeupdate', onTimeUpdate);
+    audio.addEventListener('ended', onChapterEnded);
+    audio.addEventListener('loadedmetadata', () => {
+      document.getElementById('joe-time-total').textContent = fmtTime(audio.duration);
+    });
+
+    // Detect user scrolling so we pause auto-scroll during it
+    window.addEventListener('scroll', () => {
+      userScrolling = true;
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(() => { userScrolling = false; }, 2000);
+    }, { passive: true });
+
+    // Progress bar seek
+    document.getElementById('joe-progress-bar').addEventListener('click', onSeek);
+
+    // Paragraph click-to-seek
+    document.querySelectorAll('.joe-chapter__text p').forEach(el => {
+      el.addEventListener('click', onParagraphClick);
+      el.style.cursor = 'text';
+    });
+
+    // Load chapter index
+    try {
+      const resp = await fetch('/audio/joe/index.json');
+      const index = await resp.json();
+      chapters = index.filter(c => c.status === 'ready');
+      if (chapters.length > 0) {
+        document.getElementById('joe-listen-btn')?.classList.remove('hidden');
+      }
+    } catch (e) {
+      console.log('Joe audio not available yet');
+    }
+  }
+
+  // ---- Public API ----
+
+  function startListening() {
+    if (chapters.length === 0) return;
+    showPlayer();
+    // Find the chapter the user is currently looking at
+    const visibleChapter = getVisibleChapter();
+    const target = visibleChapter || chapters[0];
+    playChapter(target.id);
+  }
+
+  function togglePlay() {
+    if (!audio) return;
+    audio.paused ? resumePlay() : pause();
+  }
+
+  function prevChapter() {
+    if (!currentChapter) return;
+    const idx = chapters.findIndex(c => c.id === currentChapter.id);
+    if (idx > 0) playChapter(chapters[idx - 1].id);
+  }
+
+  function nextChapter() {
+    if (!currentChapter) return;
+    const idx = chapters.findIndex(c => c.id === currentChapter.id);
+    if (idx < chapters.length - 1) playChapter(chapters[idx + 1].id);
+  }
+
+  function close() {
+    pause();
+    hidePlayer();
+    clearHighlights();
+  }
+
+  // ---- Playback ----
+
+  async function playChapter(chapterId) {
+    const ch = chapters.find(c => c.id === chapterId);
+    if (!ch) return;
+
+    if (!currentChapter || currentChapter.id !== chapterId) {
+      clearHighlights();
+      activePara = null;
+      currentChapter = ch;
+
+      // Load timestamps
+      timestamps = null;
+      try {
+        const resp = await fetch(ch.timestamps);
+        timestamps = await resp.json();
+      } catch (e) { /* no timestamps */ }
+
+      audio.src = ch.audio;
+      document.getElementById('joe-player-chapter').textContent = ch.title;
+      document.getElementById('joe-time-current').textContent = '0:00';
+      document.getElementById('joe-time-total').textContent = '0:00';
+      document.getElementById('joe-progress-fill').style.width = '0%';
+      updateChapterNav(chapterId);
+    }
+
+    audio.play();
+    setPlaying(true);
+  }
+
+  function resumePlay() {
+    if (!currentChapter && chapters.length > 0) {
+      playChapter(chapters[0].id);
+      return;
+    }
+    audio.play();
+    setPlaying(true);
+  }
+
+  function pause() {
+    audio?.pause();
+    setPlaying(false);
+  }
+
+  function setPlaying(playing) {
+    const playIcon = document.getElementById('joe-play-icon');
+    const avatar = document.getElementById('joe-player-avatar');
+    if (playing) {
+      playIcon.innerHTML = '<path d=”M6 19h4V5H6v14zm8-14v14h4V5h-4z”/>';
+      avatar.classList.add('is-speaking');
+    } else {
+      playIcon.innerHTML = '<path d=”M8 5v14l11-7z”/>';
+      avatar.classList.remove('is-speaking');
+    }
+  }
+
+  // ---- Time update & highlighting ----
+
+  function onTimeUpdate() {
+    if (!audio) return;
+    const t = audio.currentTime;
+    const dur = audio.duration || 0;
+
+    document.getElementById('joe-time-current').textContent = fmtTime(t);
+    document.getElementById('joe-progress-fill').style.width = dur ? ((t / dur) * 100) + '%' : '0%';
+
+    if (!timestamps || !currentChapter) return;
+
+    const para = timestamps.paragraphs.find(p => t >= p.start && t < p.end);
+    if (para && para !== activePara) {
+      activePara = para;
+      highlightParagraph(para);
+    }
+  }
+
+  function highlightParagraph(para) {
+    const section = document.getElementById(currentChapter.id);
+    if (!section) return;
+
+    const paraIdx = timestamps.paragraphs.indexOf(para);
+    const els = section.querySelectorAll('.joe-chapter__text p');
+
+    // Mark text block active (dims was-spoken paragraphs)
+    section.querySelector('.joe-chapter__text')?.classList.add('is-active');
+
+    els.forEach((el, i) => {
+      el.classList.remove('is-speaking');
+      if (i < paraIdx) {
+        el.classList.add('was-spoken');
+      } else {
+        el.classList.remove('was-spoken');
+      }
+    });
+
+    if (els[paraIdx]) {
+      els[paraIdx].classList.add('is-speaking');
+      if (!userScrolling) {
+        els[paraIdx].scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+  }
+
+  function clearHighlights() {
+    document.querySelectorAll('.joe-chapter__text p').forEach(el => {
+      el.classList.remove('is-speaking', 'was-spoken');
+    });
+    document.querySelectorAll('.joe-chapter__text').forEach(el => {
+      el.classList.remove('is-active');
+    });
+  }
+
+  function onChapterEnded() {
+    const idx = chapters.findIndex(c => c.id === currentChapter?.id);
+    if (idx >= 0 && idx < chapters.length - 1) {
+      playChapter(chapters[idx + 1].id);
+    } else {
+      setPlaying(false);
+    }
+  }
+
+  // ---- Seeking ----
+
+  function onSeek(e) {
+    if (!audio || !audio.duration) return;
+    const bar = e.currentTarget;
+    const pct = e.offsetX / bar.offsetWidth;
+    audio.currentTime = pct * audio.duration;
+  }
+
+  function onParagraphClick(e) {
+    if (!timestamps || !currentChapter) return;
+    const section = e.target.closest('.joe-chapter');
+    if (!section) return;
+    const chapterId = section.id;
+
+    // Find paragraph index
+    const els = Array.from(section.querySelectorAll('.joe-chapter__text p'));
+    const paraIdx = els.indexOf(e.target);
+    if (paraIdx < 0) return;
+
+    // If different chapter, load and play from this paragraph
+    if (currentChapter.id !== chapterId) {
+      playChapter(chapterId).then(() => seekToParagraph(paraIdx));
+    } else {
+      seekToParagraph(paraIdx);
+    }
+  }
+
+  function seekToParagraph(idx) {
+    if (!timestamps?.paragraphs[idx]) return;
+    audio.currentTime = timestamps.paragraphs[idx].start;
+    if (audio.paused) audio.play();
+    setPlaying(true);
+  }
+
+  // ---- Chapter nav ----
+
+  function getVisibleChapter() {
+    const sections = document.querySelectorAll('.joe-chapter');
+    for (const section of sections) {
+      const rect = section.getBoundingClientRect();
+      if (rect.top < window.innerHeight * 0.6 && rect.bottom > 0) {
+        const ch = chapters.find(c => c.id === section.id);
+        if (ch) return ch;
+      }
+    }
+    return null;
+  }
+
+  function updateChapterNav(chapterId) {
+    document.querySelectorAll('.joe-chapters-nav__list a').forEach(a => {
+      const href = a.getAttribute('href');
+      if (href === '#' + chapterId) {
+        a.classList.add('is-playing');
+      } else {
+        a.classList.remove('is-playing');
+      }
+    });
+  }
+
+  // ---- Player visibility ----
+
+  function showPlayer() {
+    document.getElementById('joe-player').classList.add('is-visible');
+    document.body.classList.add('joe-player-open');
+  }
+
+  function hidePlayer() {
+    document.getElementById('joe-player').classList.remove('is-visible');
+    document.body.classList.remove('joe-player-open');
+  }
+
+  // ---- Utilities ----
+
+  function fmtTime(s) {
+    if (isNaN(s)) return '0:00';
+    const m = Math.floor(s / 60);
+    const sec = Math.floor(s % 60);
+    return `${m}:${sec.toString().padStart(2, '0')}`;
+  }
+
+  // ---- Intersection observer to auto-switch chapters ----
+  function setupChapterObserver() {
+    if (!('IntersectionObserver' in window)) return;
+    const obs = new IntersectionObserver((entries) => {
+      if (!audio || audio.paused) return;
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        const chapterId = entry.target.id;
+        const ch = chapters.find(c => c.id === chapterId);
+        if (ch && currentChapter && ch.id !== currentChapter.id) {
+          // User scrolled ahead manually while audio playing — load that chapter's audio
+          // Only switch if the chapter has audio
+        }
+      });
+    }, { threshold: 0.5 });
+
+    document.querySelectorAll('.joe-chapter').forEach(s => obs.observe(s));
+  }
+
+  // Auto-init on page load
+  document.addEventListener('DOMContentLoaded', () => {
+    init().then(setupChapterObserver);
+  });
+
+  return { startListening, togglePlay, prevChapter, nextChapter, close };
+})();
+</script>
