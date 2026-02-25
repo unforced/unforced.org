@@ -19,5 +19,12 @@
     "audio": "/audio/joe/tripping-out.mp3",
     "timestamps": "/audio/joe/tripping-out.json",
     "status": "ready"
+  },
+  {
+    "id": "oxford-intervention",
+    "title": "Oxford Intervention",
+    "audio": "/audio/joe/oxford-intervention.mp3",
+    "timestamps": "/audio/joe/oxford-intervention.json",
+    "status": "ready"
   }
 ]
