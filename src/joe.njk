@@ -852,7 +852,7 @@ const JoeReader = (() => {
     }, { passive: true });
 
     // Progress bar seek
-    document.getElementById('joe-progress-bar').addEventListener('click', onSeek);
+    document.getElementById('joe-progress-bar')?.addEventListener('click', onSeek);
 
     // Paragraph click-to-seek
     document.querySelectorAll('.joe-chapter__text p').forEach(el => {
@@ -1090,12 +1090,18 @@ const JoeReader = (() => {
   // ---- Player visibility ----
 
   function showPlayer() {
-    document.getElementById('joe-player').classList.add('is-visible');
+    const player = document.getElementById('joe-player');
+    player.style.display = 'block';
+    // Trigger reflow so transition fires
+    player.getBoundingClientRect();
+    player.classList.add('is-visible');
     document.body.classList.add('joe-player-open');
   }
 
   function hidePlayer() {
-    document.getElementById('joe-player').classList.remove('is-visible');
+    const player = document.getElementById('joe-player');
+    player.classList.remove('is-visible');
+    setTimeout(() => { player.style.display = 'none'; }, 400);
     document.body.classList.remove('joe-player-open');
   }
 
@@ -1127,10 +1133,9 @@ const JoeReader = (() => {
     document.querySelectorAll('.joe-chapter').forEach(s => obs.observe(s));
   }
 
-  // Auto-init on page load
-  document.addEventListener('DOMContentLoaded', () => {
-    init().then(setupChapterObserver);
-  });
+  // Script is at bottom of DOM — init directly rather than waiting for DOMContentLoaded
+  // (DOMContentLoaded may already have fired by the time this inline script runs)
+  init().then(setupChapterObserver);
 
   return { startListening, togglePlay, prevChapter, nextChapter, close };
 })();
