@@ -12,5 +12,12 @@
     "audio": "/audio/joe/dropping-out.mp3",
     "timestamps": "/audio/joe/dropping-out.json",
     "status": "ready"
+  },
+  {
+    "id": "tripping-out",
+    "title": "Tripping Out",
+    "audio": "/audio/joe/tripping-out.mp3",
+    "timestamps": "/audio/joe/tripping-out.json",
+    "status": "ready"
   }
 ]
