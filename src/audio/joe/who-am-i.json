@@ -2,659 +2,717 @@
   "id": "who-am-i",
   "title": "Who Am I?",
   "audio": "/audio/joe/who-am-i.mp3",
-  "duration": 46.66,
+  "duration": 37.74,
   "paragraphs": [
     {
-      "text": "Loaded question, if ever there is one…",
+      "text": "Who Am I?",
       "start": 0.0,
-      "end": 2.9,
+      "end": 0.76,
+      "words": [
+        {
+          "word": "Who",
+          "start": 0.0,
+          "end": 0.26
+        },
+        {
+          "word": "am",
+          "start": 0.26,
+          "end": 0.46
+        },
+        {
+          "word": "I?",
+          "start": 0.46,
+          "end": 0.76
+        }
+      ],
+      "is_title": true
+    },
+    {
+      "text": "Loaded question, if ever there is one…",
+      "start": 1.28,
+      "end": 3.36,
       "words": [
         {
           "word": "Loaded",
-          "start": 0.0,
-          "end": 0.68
+          "start": 1.28,
+          "end": 1.52
         },
         {
-          "word": "question,",
-          "start": 0.68,
-          "end": 1.26
+          "word": "question.",
+          "start": 1.52,
+          "end": 1.94
         },
         {
-          "word": "if",
-          "start": 1.74,
-          "end": 1.92
+          "word": "If",
+          "start": 2.4,
+          "end": 2.5
         },
         {
           "word": "ever",
-          "start": 1.92,
-          "end": 2.24
+          "start": 2.5,
+          "end": 2.72
         },
         {
           "word": "there",
-          "start": 2.24,
-          "end": 2.42
+          "start": 2.72,
+          "end": 2.88
         },
         {
           "word": "is",
-          "start": 2.42,
-          "end": 2.66
+          "start": 2.88,
+          "end": 3.04
         },
         {
           "word": "one.",
-          "start": 2.66,
-          "end": 2.9
+          "start": 3.04,
+          "end": 3.36
         }
       ]
     },
     {
       "text": "Let’s start by saying, for this story, I am the dying guy, a guy who has gone through many experiences, some joyful and some sorrowful, like almost all people do. I was diagnosed with Glioblastoma Multiforme IV in November of 2012, the deadliest, most aggressive form of brain cancer there is. Life can be like that, in its universal unfolding. All form goes through change, decay and death. None of us is exempt from the forces of interaction. Life seems to be impersonal and consistent this way. Here I am sharing a story of what has shaped my life and what continues to shape it today, allowing for a book title as audacious as Too Much Fun Dying to Stop Now to feel normal and natural to me.",
-      "start": 3.54,
-      "end": 46.66,
+      "start": 4.02,
+      "end": 37.74,
       "words": [
         {
           "word": "Let's",
-          "start": 3.54,
-          "end": 3.76
+          "start": 4.02,
+          "end": 4.18
         },
         {
           "word": "start",
-          "start": 3.76,
-          "end": 3.94
+          "start": 4.18,
+          "end": 4.32
         },
         {
           "word": "by",
-          "start": 3.94,
-          "end": 4.16
+          "start": 4.32,
+          "end": 4.46
         },
         {
-          "word": "saying,",
-          "start": 4.16,
-          "end": 4.5
+          "word": "saying",
+          "start": 4.46,
+          "end": 4.7
         },
         {
           "word": "for",
-          "start": 4.86,
+          "start": 4.7,
           "end": 4.88
         },
         {
           "word": "this",
           "start": 4.88,
-          "end": 5.06
+          "end": 4.98
         },
         {
           "word": "story,",
-          "start": 5.06,
-          "end": 5.48
+          "start": 4.98,
+          "end": 5.34
         },
         {
           "word": "I",
-          "start": 5.94,
-          "end": 5.98
+          "start": 5.52,
+          "end": 5.58
         },
         {
           "word": "am",
-          "start": 5.98,
-          "end": 6.12
+          "start": 5.58,
+          "end": 5.7
         },
         {
           "word": "the",
-          "start": 6.12,
-          "end": 6.24
+          "start": 5.7,
+          "end": 5.82
         },
         {
           "word": "dying",
-          "start": 6.24,
-          "end": 6.5
+          "start": 5.82,
+          "end": 6.08
         },
         {
           "word": "guy,",
-          "start": 6.5,
-          "end": 6.82
+          "start": 6.08,
+          "end": 6.4
         },
         {
           "word": "a",
-          "start": 7.16,
-          "end": 7.24
+          "start": 6.68,
+          "end": 6.76
         },
         {
           "word": "guy",
-          "start": 7.24,
-          "end": 7.4
+          "start": 6.76,
+          "end": 6.88
         },
         {
           "word": "who",
-          "start": 7.4,
-          "end": 7.58
+          "start": 6.88,
+          "end": 7.02
         },
         {
           "word": "has",
-          "start": 7.58,
-          "end": 7.7
+          "start": 7.02,
+          "end": 7.1
         },
         {
           "word": "gone",
-          "start": 7.7,
-          "end": 7.86
+          "start": 7.1,
+          "end": 7.26
         },
         {
           "word": "through",
-          "start": 7.86,
-          "end": 8.1
+          "start": 7.26,
+          "end": 7.44
         },
         {
           "word": "many",
-          "start": 8.1,
-          "end": 8.4
+          "start": 7.44,
+          "end": 7.62
         },
         {
           "word": "experiences,",
-          "start": 8.4,
-          "end": 9.08
+          "start": 7.62,
+          "end": 8.16
         },
         {
           "word": "some",
-          "start": 9.34,
-          "end": 9.48
+          "start": 8.38,
+          "end": 8.5
         },
         {
           "word": "joyful",
-          "start": 9.48,
-          "end": 9.84
+          "start": 8.5,
+          "end": 8.78
         },
         {
           "word": "and",
-          "start": 9.84,
-          "end": 10.12
+          "start": 8.78,
+          "end": 8.98
         },
         {
           "word": "some",
-          "start": 10.12,
-          "end": 10.34
+          "start": 8.98,
+          "end": 9.14
         },
         {
           "word": "sorrowful,",
-          "start": 10.34,
-          "end": 10.9
+          "start": 9.14,
+          "end": 9.6
         },
         {
           "word": "like",
-          "start": 11.06,
-          "end": 11.22
+          "start": 9.6,
+          "end": 9.68
         },
         {
           "word": "almost",
-          "start": 11.22,
-          "end": 11.58
+          "start": 9.68,
+          "end": 9.92
         },
         {
           "word": "all",
-          "start": 11.58,
-          "end": 11.84
+          "start": 9.92,
+          "end": 10.12
         },
         {
           "word": "people",
-          "start": 11.84,
-          "end": 12.14
+          "start": 10.12,
+          "end": 10.36
         },
         {
           "word": "do.",
-          "start": 12.14,
-          "end": 12.4
+          "start": 10.36,
+          "end": 10.6
         },
         {
           "word": "I",
-          "start": 13.48,
-          "end": 14.04
+          "start": 11.4,
+          "end": 11.48
         },
         {
           "word": "was",
-          "start": 14.04,
-          "end": 14.2
+          "start": 11.48,
+          "end": 11.58
         },
         {
           "word": "diagnosed",
-          "start": 14.2,
-          "end": 14.6
+          "start": 11.58,
+          "end": 11.86
         },
         {
           "word": "with",
-          "start": 14.6,
-          "end": 14.96
+          "start": 11.86,
+          "end": 12.12
         },
         {
           "word": "glioblastoma",
-          "start": 14.96,
-          "end": 15.7
+          "start": 12.12,
+          "end": 12.68
         },
         {
-          "word": "multi",
-          "start": 15.7,
-          "end": 16.0
+          "word": "multiformy",
+          "start": 12.68,
+          "end": 13.22
         },
         {
-          "word": "-formy",
-          "start": 16.0,
-          "end": 16.42
-        },
-        {
-          "word": "IV",
-          "start": 16.42,
-          "end": 16.72
+          "word": "4",
+          "start": 13.22,
+          "end": 13.44
         },
         {
           "word": "in",
-          "start": 16.72,
-          "end": 17.02
+          "start": 13.44,
+          "end": 13.66
         },
         {
           "word": "November",
-          "start": 17.02,
-          "end": 17.46
+          "start": 13.66,
+          "end": 14.02
         },
         {
           "word": "of",
-          "start": 17.46,
-          "end": 17.66
+          "start": 14.02,
+          "end": 14.22
         },
         {
           "word": "2012,",
-          "start": 17.66,
-          "end": 18.46
+          "start": 14.22,
+          "end": 14.84
         },
         {
           "word": "the",
-          "start": 18.46,
-          "end": 18.9
+          "start": 15.1,
+          "end": 15.16
         },
         {
           "word": "deadliest,",
-          "start": 18.9,
-          "end": 19.36
+          "start": 15.16,
+          "end": 15.54
         },
         {
           "word": "most",
-          "start": 19.48,
-          "end": 19.7
+          "start": 15.64,
+          "end": 15.84
         },
         {
           "word": "aggressive",
-          "start": 19.7,
-          "end": 20.16
+          "start": 15.84,
+          "end": 16.16
         },
         {
           "word": "form",
-          "start": 20.16,
-          "end": 20.46
+          "start": 16.16,
+          "end": 16.44
         },
         {
           "word": "of",
-          "start": 20.46,
-          "end": 20.64
+          "start": 16.44,
+          "end": 16.56
         },
         {
           "word": "brain",
-          "start": 20.64,
-          "end": 20.84
+          "start": 16.56,
+          "end": 16.76
         },
         {
           "word": "cancer",
-          "start": 20.84,
-          "end": 21.22
+          "start": 16.76,
+          "end": 17.08
         },
         {
           "word": "there",
-          "start": 21.22,
-          "end": 21.46
+          "start": 17.08,
+          "end": 17.28
         },
         {
           "word": "is.",
-          "start": 21.46,
-          "end": 21.78
+          "start": 17.28,
+          "end": 17.6
         },
         {
           "word": "Life",
-          "start": 22.12,
-          "end": 22.26
+          "start": 18.04,
+          "end": 18.2
         },
         {
           "word": "can",
-          "start": 22.26,
-          "end": 22.46
+          "start": 18.2,
+          "end": 18.38
         },
         {
           "word": "be",
-          "start": 22.46,
-          "end": 22.6
+          "start": 18.38,
+          "end": 18.5
         },
         {
           "word": "like",
-          "start": 22.6,
-          "end": 22.78
+          "start": 18.5,
+          "end": 18.64
         },
         {
           "word": "that",
-          "start": 22.78,
-          "end": 23.02
+          "start": 18.64,
+          "end": 18.84
         },
         {
           "word": "in",
-          "start": 23.02,
-          "end": 23.3
+          "start": 18.84,
+          "end": 19.02
         },
         {
           "word": "its",
-          "start": 23.3,
-          "end": 23.48
+          "start": 19.02,
+          "end": 19.16
         },
         {
           "word": "universal",
-          "start": 23.48,
-          "end": 24.02
+          "start": 19.16,
+          "end": 19.62
         },
         {
           "word": "unfolding.",
-          "start": 24.02,
-          "end": 24.5
+          "start": 19.62,
+          "end": 20.08
+        },
+        {
+          "word": "All",
+          "start": 20.4,
+          "end": 20.5
+        },
+        {
+          "word": "form",
+          "start": 20.5,
+          "end": 20.78
+        },
+        {
+          "word": "goes",
+          "start": 20.78,
+          "end": 20.94
+        },
+        {
+          "word": "through",
+          "start": 20.94,
+          "end": 21.12
+        },
+        {
+          "word": "change,",
+          "start": 21.12,
+          "end": 21.42
+        },
+        {
+          "word": "decay,",
+          "start": 21.88,
+          "end": 22.08
+        },
+        {
+          "word": "and",
+          "start": 22.5,
+          "end": 22.58
+        },
+        {
+          "word": "death.",
+          "start": 22.58,
+          "end": 22.92
         },
         {
           "word": "None",
-          "start": 27.88,
-          "end": 28.36
+          "start": 23.34,
+          "end": 23.56
         },
         {
           "word": "of",
-          "start": 28.36,
-          "end": 28.52
+          "start": 23.56,
+          "end": 23.72
         },
         {
           "word": "us",
-          "start": 28.52,
-          "end": 28.7
+          "start": 23.72,
+          "end": 23.82
         },
         {
           "word": "is",
-          "start": 28.7,
-          "end": 28.88
+          "start": 23.82,
+          "end": 23.96
         },
         {
           "word": "exempt",
-          "start": 28.88,
-          "end": 29.2
+          "start": 23.96,
+          "end": 24.26
         },
         {
           "word": "from",
-          "start": 29.2,
-          "end": 29.44
+          "start": 24.26,
+          "end": 24.46
         },
         {
           "word": "the",
-          "start": 29.44,
-          "end": 29.56
+          "start": 24.46,
+          "end": 24.58
         },
         {
           "word": "forces",
-          "start": 29.56,
-          "end": 29.88
+          "start": 24.58,
+          "end": 24.84
         },
         {
           "word": "of",
-          "start": 29.88,
-          "end": 30.1
+          "start": 24.84,
+          "end": 25.04
         },
         {
           "word": "interaction.",
-          "start": 30.1,
-          "end": 30.58
+          "start": 25.04,
+          "end": 25.42
         },
         {
           "word": "Life",
-          "start": 31.38,
-          "end": 31.54
+          "start": 26.02,
+          "end": 26.18
         },
         {
           "word": "seems",
-          "start": 31.54,
-          "end": 31.8
+          "start": 26.18,
+          "end": 26.4
         },
         {
           "word": "to",
-          "start": 31.8,
-          "end": 32.0
+          "start": 26.4,
+          "end": 26.56
         },
         {
           "word": "be",
-          "start": 32.0,
-          "end": 32.12
+          "start": 26.56,
+          "end": 26.64
         },
         {
           "word": "impersonal",
-          "start": 32.12,
-          "end": 32.98
+          "start": 26.64,
+          "end": 27.12
         },
         {
           "word": "and",
-          "start": 32.98,
-          "end": 33.1
+          "start": 27.12,
+          "end": 27.2
         },
         {
           "word": "consistent",
-          "start": 33.1,
-          "end": 33.66
+          "start": 27.2,
+          "end": 27.54
         },
         {
           "word": "this",
-          "start": 33.66,
-          "end": 33.98
+          "start": 27.54,
+          "end": 27.8
         },
         {
           "word": "way.",
-          "start": 33.98,
-          "end": 34.2
+          "start": 27.8,
+          "end": 27.98
         },
         {
           "word": "Here",
-          "start": 34.98,
-          "end": 35.3
+          "start": 27.98,
+          "end": 28.56
         },
         {
           "word": "I",
-          "start": 35.3,
-          "end": 35.46
+          "start": 28.56,
+          "end": 28.72
         },
         {
           "word": "am",
-          "start": 35.46,
-          "end": 35.62
+          "start": 28.72,
+          "end": 28.84
         },
         {
           "word": "sharing",
-          "start": 35.62,
-          "end": 35.9
+          "start": 28.84,
+          "end": 29.06
         },
         {
           "word": "a",
-          "start": 35.9,
-          "end": 36.12
+          "start": 29.06,
+          "end": 29.26
         },
         {
           "word": "story",
-          "start": 36.12,
-          "end": 36.42
+          "start": 29.26,
+          "end": 29.5
         },
         {
           "word": "of",
-          "start": 36.42,
-          "end": 36.6
+          "start": 29.5,
+          "end": 29.68
         },
         {
           "word": "what",
-          "start": 36.6,
-          "end": 36.7
+          "start": 29.68,
+          "end": 29.76
         },
         {
           "word": "has",
-          "start": 36.7,
-          "end": 36.82
+          "start": 29.76,
+          "end": 29.86
         },
         {
           "word": "shaped",
-          "start": 36.82,
-          "end": 37.1
+          "start": 29.86,
+          "end": 30.06
         },
         {
           "word": "my",
-          "start": 37.1,
-          "end": 37.32
+          "start": 30.06,
+          "end": 30.24
         },
         {
           "word": "life",
-          "start": 37.32,
-          "end": 37.62
+          "start": 30.24,
+          "end": 30.56
         },
         {
           "word": "and",
-          "start": 37.62,
-          "end": 37.92
+          "start": 30.56,
+          "end": 30.96
         },
         {
           "word": "what",
-          "start": 37.92,
-          "end": 38.08
+          "start": 30.96,
+          "end": 31.04
         },
         {
           "word": "continues",
-          "start": 38.08,
-          "end": 38.58
+          "start": 31.04,
+          "end": 31.4
         },
         {
           "word": "to",
-          "start": 38.58,
-          "end": 38.8
+          "start": 31.4,
+          "end": 31.62
         },
         {
           "word": "shape",
-          "start": 38.8,
-          "end": 39.04
+          "start": 31.62,
+          "end": 31.82
         },
         {
           "word": "it",
-          "start": 39.04,
-          "end": 39.16
+          "start": 31.82,
+          "end": 31.94
         },
         {
           "word": "today,",
-          "start": 39.16,
-          "end": 39.5
+          "start": 31.94,
+          "end": 32.24
         },
         {
           "word": "allowing",
-          "start": 40.16,
-          "end": 40.34
+          "start": 32.6,
+          "end": 32.88
         },
         {
           "word": "for",
-          "start": 40.34,
-          "end": 40.64
+          "start": 32.88,
+          "end": 33.12
         },
         {
           "word": "a",
-          "start": 40.64,
-          "end": 40.72
+          "start": 33.12,
+          "end": 33.22
         },
         {
           "word": "book",
-          "start": 40.72,
-          "end": 40.88
+          "start": 33.22,
+          "end": 33.36
         },
         {
           "word": "title",
-          "start": 40.88,
-          "end": 41.22
+          "start": 33.36,
+          "end": 33.66
         },
         {
           "word": "as",
-          "start": 41.22,
-          "end": 41.5
+          "start": 33.66,
+          "end": 33.86
         },
         {
           "word": "audacious",
-          "start": 41.5,
-          "end": 41.94
+          "start": 33.86,
+          "end": 34.24
         },
         {
           "word": "as",
-          "start": 41.94,
-          "end": 42.26
+          "start": 34.24,
+          "end": 34.44
         },
         {
           "word": "too",
-          "start": 42.26,
-          "end": 42.5
+          "start": 34.44,
+          "end": 34.6
         },
         {
           "word": "much",
-          "start": 42.5,
-          "end": 42.72
+          "start": 34.6,
+          "end": 34.78
         },
         {
           "word": "fun,",
-          "start": 42.72,
-          "end": 43.12
+          "start": 34.78,
+          "end": 35.08
         },
         {
           "word": "dying",
-          "start": 43.76,
-          "end": 44.02
+          "start": 35.24,
+          "end": 35.42
         },
         {
           "word": "to",
-          "start": 44.02,
-          "end": 44.22
+          "start": 35.42,
+          "end": 35.56
         },
         {
           "word": "stop",
-          "start": 44.22,
-          "end": 44.52
+          "start": 35.56,
+          "end": 35.72
         },
         {
           "word": "now",
-          "start": 44.52,
-          "end": 44.84
+          "start": 35.72,
+          "end": 35.98
         },
         {
           "word": "to",
-          "start": 44.84,
-          "end": 45.04
+          "start": 35.98,
+          "end": 36.12
         },
         {
           "word": "feel",
-          "start": 45.04,
-          "end": 45.22
+          "start": 36.12,
+          "end": 36.26
         },
         {
           "word": "normal",
-          "start": 45.22,
-          "end": 45.62
+          "start": 36.26,
+          "end": 36.62
         },
         {
           "word": "and",
-          "start": 45.62,
-          "end": 45.88
+          "start": 36.62,
+          "end": 37.1
         },
         {
           "word": "natural",
-          "start": 45.88,
-          "end": 46.26
+          "start": 37.1,
+          "end": 37.42
         },
         {
           "word": "to",
-          "start": 46.26,
-          "end": 46.48
+          "start": 37.42,
+          "end": 37.6
         },
         {
           "word": "me.",
-          "start": 46.48,
-          "end": 46.66
+          "start": 37.6,
+          "end": 37.74
         }
       ]
     }

@@ -5,47 +5,5 @@
     "audio": "/audio/joe/who-am-i.mp3",
     "timestamps": "/audio/joe/who-am-i.json",
     "status": "ready"
-  },
-  {
-    "id": "dropping-out",
-    "title": "Dropping Out",
-    "audio": "/audio/joe/dropping-out.mp3",
-    "timestamps": "/audio/joe/dropping-out.json",
-    "status": "ready"
-  },
-  {
-    "id": "tripping-out",
-    "title": "Tripping Out",
-    "audio": "/audio/joe/tripping-out.mp3",
-    "timestamps": "/audio/joe/tripping-out.json",
-    "status": "ready"
-  },
-  {
-    "id": "oxford-intervention",
-    "title": "Oxford Intervention",
-    "audio": "/audio/joe/oxford-intervention.mp3",
-    "timestamps": "/audio/joe/oxford-intervention.json",
-    "status": "ready"
-  },
-  {
-    "id": "on-the-road",
-    "title": "On The Road",
-    "audio": "/audio/joe/on-the-road.mp3",
-    "timestamps": "/audio/joe/on-the-road.json",
-    "status": "ready"
-  },
-  {
-    "id": "becky",
-    "title": "Becky\u2026",
-    "audio": "/audio/joe/becky.mp3",
-    "timestamps": "/audio/joe/becky.json",
-    "status": "ready"
-  },
-  {
-    "id": "oregon",
-    "title": "Oregon, 1991",
-    "audio": "/audio/joe/oregon.mp3",
-    "timestamps": "/audio/joe/oregon.json",
-    "status": "ready"
   }
 ]
