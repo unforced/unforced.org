@@ -40,5 +40,12 @@
     "audio": "/audio/joe/becky.mp3",
     "timestamps": "/audio/joe/becky.json",
     "status": "ready"
+  },
+  {
+    "id": "oregon",
+    "title": "Oregon, 1991",
+    "audio": "/audio/joe/oregon.mp3",
+    "timestamps": "/audio/joe/oregon.json",
+    "status": "ready"
   }
 ]
