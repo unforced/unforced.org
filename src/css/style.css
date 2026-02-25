@@ -1198,6 +1198,19 @@ body.joe-player-open {
   padding-bottom: 80px;
 }
 
+/* Chapter nav audio availability indicator */
+.joe-chapters-nav__list a.has-audio::after {
+  content: '';
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--earth);
+  margin-left: 6px;
+  vertical-align: middle;
+  opacity: 0.6;
+}
+
 /* Chapter nav playing indicator */
 .joe-chapters-nav__list a.is-playing {
   color: var(--forest);
@@ -1207,6 +1220,10 @@ body.joe-player-open {
 .joe-chapters-nav__list a.is-playing::before {
   content: '♪ ';
   font-size: 0.7em;
+}
+
+.joe-chapters-nav__list a.is-playing::after {
+  display: none;
 }
 
 @media (max-width: 640px) {

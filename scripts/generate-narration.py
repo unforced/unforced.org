@@ -307,20 +307,22 @@ def main():
         sys.exit(1)
 
     print(f"Extracting chapters from {NJK_FILE}...")
-    chapters = extract_chapters(NJK_FILE)
-    print(f"Found {len(chapters)} chapters.")
+    all_chapters = extract_chapters(NJK_FILE)
+    print(f"Found {len(all_chapters)} chapters.")
 
+    chapters_to_process = all_chapters
     if args.chapter:
-        chapters = [c for c in chapters if c["id"] == args.chapter]
-        if not chapters:
+        chapters_to_process = [c for c in all_chapters if c["id"] == args.chapter]
+        if not chapters_to_process:
             print(f"ERROR: Chapter '{args.chapter}' not found.")
             sys.exit(1)
 
-    for chapter in chapters:
+    for chapter in chapters_to_process:
         process_chapter(chapter, reference_audio, dry_run=args.dry_run)
 
     if not args.dry_run:
-        build_index(chapters)
+        # Always build index from all chapters so order is correct and new files are included
+        build_index(all_chapters)
 
 
 if __name__ == "__main__":

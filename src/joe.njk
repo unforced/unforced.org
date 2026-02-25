@@ -860,6 +860,30 @@ const JoeReader = (() => {
       el.style.cursor = 'text';
     });
 
+    // Keyboard shortcuts
+    document.addEventListener('keydown', e => {
+      // Ignore if focus is in an input/textarea
+      if (['INPUT','TEXTAREA','SELECT'].includes(e.target.tagName)) return;
+      if (e.key === ' ' && chapters.length > 0) {
+        e.preventDefault();
+        const player = document.getElementById('joe-player');
+        if (!player.classList.contains('is-visible')) {
+          startListening();
+        } else {
+          togglePlay();
+        }
+      } else if (e.key === 'ArrowLeft' && currentChapter) {
+        e.preventDefault();
+        prevChapter();
+      } else if (e.key === 'ArrowRight' && currentChapter) {
+        e.preventDefault();
+        nextChapter();
+      } else if (e.key === 'Escape' && currentChapter) {
+        e.preventDefault();
+        close();
+      }
+    });
+
     // Load chapter index
     try {
       const resp = await fetch('/audio/joe/index.json');
@@ -867,10 +891,22 @@ const JoeReader = (() => {
       chapters = index.filter(c => c.status === 'ready');
       if (chapters.length > 0) {
         document.getElementById('joe-listen-btn')?.classList.remove('hidden');
+        markAvailableChapters();
       }
     } catch (e) {
       console.log('Joe audio not available yet');
     }
+  }
+
+  function markAvailableChapters() {
+    const availableIds = new Set(chapters.map(c => c.id));
+    document.querySelectorAll('.joe-chapters-nav__list a').forEach(a => {
+      const href = a.getAttribute('href');
+      const id = href?.replace('#', '');
+      if (id && availableIds.has(id)) {
+        a.classList.add('has-audio');
+      }
+    });
   }
 
   // ---- Public API ----
@@ -892,13 +928,26 @@ const JoeReader = (() => {
   function prevChapter() {
     if (!currentChapter) return;
     const idx = chapters.findIndex(c => c.id === currentChapter.id);
-    if (idx > 0) playChapter(chapters[idx - 1].id);
+    if (idx > 0) {
+      playChapter(chapters[idx - 1].id);
+      scrollToChapter(chapters[idx - 1].id);
+    }
   }
 
   function nextChapter() {
     if (!currentChapter) return;
     const idx = chapters.findIndex(c => c.id === currentChapter.id);
-    if (idx < chapters.length - 1) playChapter(chapters[idx + 1].id);
+    if (idx < chapters.length - 1) {
+      playChapter(chapters[idx + 1].id);
+      scrollToChapter(chapters[idx + 1].id);
+    }
+  }
+
+  function scrollToChapter(chapterId) {
+    const section = document.getElementById(chapterId);
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
   }
 
   function close() {
