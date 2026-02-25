@@ -33,5 +33,12 @@
     "audio": "/audio/joe/on-the-road.mp3",
     "timestamps": "/audio/joe/on-the-road.json",
     "status": "ready"
+  },
+  {
+    "id": "becky",
+    "title": "Becky\u2026",
+    "audio": "/audio/joe/becky.mp3",
+    "timestamps": "/audio/joe/becky.json",
+    "status": "ready"
   }
 ]

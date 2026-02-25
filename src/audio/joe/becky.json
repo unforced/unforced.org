@@ -1,0 +1,2043 @@
+{
+  "id": "becky",
+  "title": "Becky…",
+  "audio": "/audio/joe/becky.mp3",
+  "duration": 97.58,
+  "paragraphs": [
+    {
+      "text": "Becky…",
+      "start": 0.0,
+      "end": 0.42,
+      "words": [
+        {
+          "word": "Becky.",
+          "start": 0.0,
+          "end": 0.42
+        }
+      ],
+      "is_title": true
+    },
+    {
+      "text": "We met in 1985, Becky and I, her first year at Miami. She lived in the same dorm as my girlfriend, Marcie. Marcie’s roommate, Julie, asphyxiated herself in her garage that first winter of their freshman year. I drove Gina, Marcie, and Becky to the funeral. It seems this was the first major interaction for Gina, Becky, and me, this somber drive as young adults trying to make sense of what had happened with our friend Julie. We were friends already, but this experience cut through to a different level and bonded us in a different way. The rain was light yet steady on the drive back to Oxford and the image of the water droplets moving oddly up the window and the deep silence in the car remain etched into my memory today.",
+      "start": 0.82,
+      "end": 34.12,
+      "words": [
+        {
+          "word": "We",
+          "start": 0.82,
+          "end": 1.22
+        },
+        {
+          "word": "met",
+          "start": 1.22,
+          "end": 1.38
+        },
+        {
+          "word": "in",
+          "start": 1.38,
+          "end": 1.48
+        },
+        {
+          "word": "1985,",
+          "start": 1.48,
+          "end": 2.14
+        },
+        {
+          "word": "Becky",
+          "start": 2.64,
+          "end": 2.86
+        },
+        {
+          "word": "and",
+          "start": 2.86,
+          "end": 3.0
+        },
+        {
+          "word": "I,",
+          "start": 3.0,
+          "end": 3.12
+        },
+        {
+          "word": "her",
+          "start": 3.28,
+          "end": 3.38
+        },
+        {
+          "word": "first",
+          "start": 3.38,
+          "end": 3.64
+        },
+        {
+          "word": "year",
+          "start": 3.64,
+          "end": 3.72
+        },
+        {
+          "word": "at",
+          "start": 3.72,
+          "end": 3.86
+        },
+        {
+          "word": "Miami.",
+          "start": 3.86,
+          "end": 4.14
+        },
+        {
+          "word": "She",
+          "start": 4.42,
+          "end": 4.52
+        },
+        {
+          "word": "had",
+          "start": 4.52,
+          "end": 4.6
+        },
+        {
+          "word": "been",
+          "start": 4.6,
+          "end": 4.74
+        },
+        {
+          "word": "the",
+          "start": 4.74,
+          "end": 4.86
+        },
+        {
+          "word": "same",
+          "start": 4.86,
+          "end": 5.02
+        },
+        {
+          "word": "dorm",
+          "start": 5.02,
+          "end": 5.26
+        },
+        {
+          "word": "as",
+          "start": 5.26,
+          "end": 5.42
+        },
+        {
+          "word": "my",
+          "start": 5.42,
+          "end": 5.56
+        },
+        {
+          "word": "girlfriend",
+          "start": 5.56,
+          "end": 5.82
+        },
+        {
+          "word": "Marcy.",
+          "start": 5.82,
+          "end": 6.26
+        },
+        {
+          "word": "Marcy's",
+          "start": 6.56,
+          "end": 6.92
+        },
+        {
+          "word": "roommate",
+          "start": 6.92,
+          "end": 7.1
+        },
+        {
+          "word": "Julie",
+          "start": 7.1,
+          "end": 7.44
+        },
+        {
+          "word": "is",
+          "start": 7.44,
+          "end": 7.86
+        },
+        {
+          "word": "fixated",
+          "start": 7.86,
+          "end": 8.24
+        },
+        {
+          "word": "herself",
+          "start": 8.24,
+          "end": 8.56
+        },
+        {
+          "word": "and",
+          "start": 8.56,
+          "end": 8.76
+        },
+        {
+          "word": "her",
+          "start": 8.76,
+          "end": 8.88
+        },
+        {
+          "word": "garage",
+          "start": 8.88,
+          "end": 9.1
+        },
+        {
+          "word": "that",
+          "start": 9.1,
+          "end": 9.32
+        },
+        {
+          "word": "first",
+          "start": 9.32,
+          "end": 9.58
+        },
+        {
+          "word": "winter",
+          "start": 9.58,
+          "end": 9.82
+        },
+        {
+          "word": "of",
+          "start": 9.82,
+          "end": 9.94
+        },
+        {
+          "word": "their",
+          "start": 9.94,
+          "end": 10.02
+        },
+        {
+          "word": "freshman",
+          "start": 10.02,
+          "end": 10.3
+        },
+        {
+          "word": "year.",
+          "start": 10.3,
+          "end": 10.58
+        },
+        {
+          "word": "I",
+          "start": 11.08,
+          "end": 11.14
+        },
+        {
+          "word": "drove",
+          "start": 11.14,
+          "end": 11.28
+        },
+        {
+          "word": "Gina,",
+          "start": 11.28,
+          "end": 11.58
+        },
+        {
+          "word": "Marcy",
+          "start": 11.62,
+          "end": 11.92
+        },
+        {
+          "word": "and",
+          "start": 11.92,
+          "end": 12.02
+        },
+        {
+          "word": "Becky",
+          "start": 12.02,
+          "end": 12.18
+        },
+        {
+          "word": "to",
+          "start": 12.18,
+          "end": 12.34
+        },
+        {
+          "word": "the",
+          "start": 12.34,
+          "end": 12.44
+        },
+        {
+          "word": "funeral.",
+          "start": 12.44,
+          "end": 12.68
+        },
+        {
+          "word": "It",
+          "start": 13.18,
+          "end": 13.28
+        },
+        {
+          "word": "seems",
+          "start": 13.28,
+          "end": 13.48
+        },
+        {
+          "word": "this",
+          "start": 13.48,
+          "end": 13.66
+        },
+        {
+          "word": "was",
+          "start": 13.66,
+          "end": 13.76
+        },
+        {
+          "word": "the",
+          "start": 13.76,
+          "end": 13.9
+        },
+        {
+          "word": "first",
+          "start": 13.9,
+          "end": 14.1
+        },
+        {
+          "word": "major",
+          "start": 14.1,
+          "end": 14.52
+        },
+        {
+          "word": "interaction",
+          "start": 14.52,
+          "end": 15.08
+        },
+        {
+          "word": "for",
+          "start": 15.08,
+          "end": 15.3
+        },
+        {
+          "word": "Gina,",
+          "start": 15.3,
+          "end": 15.58
+        },
+        {
+          "word": "Becky,",
+          "start": 15.7,
+          "end": 15.92
+        },
+        {
+          "word": "and",
+          "start": 16.04,
+          "end": 16.08
+        },
+        {
+          "word": "me.",
+          "start": 16.08,
+          "end": 16.24
+        },
+        {
+          "word": "This",
+          "start": 16.7,
+          "end": 16.78
+        },
+        {
+          "word": "somber",
+          "start": 16.78,
+          "end": 17.16
+        },
+        {
+          "word": "drive",
+          "start": 17.16,
+          "end": 17.4
+        },
+        {
+          "word": "is",
+          "start": 17.4,
+          "end": 17.62
+        },
+        {
+          "word": "Yannadol's",
+          "start": 17.62,
+          "end": 18.08
+        },
+        {
+          "word": "trying",
+          "start": 18.08,
+          "end": 18.24
+        },
+        {
+          "word": "to",
+          "start": 18.24,
+          "end": 18.36
+        },
+        {
+          "word": "make",
+          "start": 18.36,
+          "end": 18.44
+        },
+        {
+          "word": "sense",
+          "start": 18.44,
+          "end": 18.68
+        },
+        {
+          "word": "of",
+          "start": 18.68,
+          "end": 18.86
+        },
+        {
+          "word": "what",
+          "start": 18.86,
+          "end": 18.96
+        },
+        {
+          "word": "had",
+          "start": 18.96,
+          "end": 19.02
+        },
+        {
+          "word": "happened",
+          "start": 19.02,
+          "end": 19.28
+        },
+        {
+          "word": "with",
+          "start": 19.28,
+          "end": 19.46
+        },
+        {
+          "word": "our",
+          "start": 19.46,
+          "end": 19.52
+        },
+        {
+          "word": "friend",
+          "start": 19.52,
+          "end": 19.72
+        },
+        {
+          "word": "Julie.",
+          "start": 19.72,
+          "end": 19.96
+        },
+        {
+          "word": "We",
+          "start": 20.58,
+          "end": 20.76
+        },
+        {
+          "word": "were",
+          "start": 20.76,
+          "end": 20.86
+        },
+        {
+          "word": "friends",
+          "start": 20.86,
+          "end": 21.08
+        },
+        {
+          "word": "already,",
+          "start": 21.08,
+          "end": 21.5
+        },
+        {
+          "word": "but",
+          "start": 21.94,
+          "end": 22.14
+        },
+        {
+          "word": "this",
+          "start": 22.14,
+          "end": 22.28
+        },
+        {
+          "word": "experience",
+          "start": 22.28,
+          "end": 22.72
+        },
+        {
+          "word": "cut",
+          "start": 22.72,
+          "end": 22.98
+        },
+        {
+          "word": "through",
+          "start": 22.98,
+          "end": 23.22
+        },
+        {
+          "word": "to",
+          "start": 23.22,
+          "end": 23.32
+        },
+        {
+          "word": "a",
+          "start": 23.32,
+          "end": 23.38
+        },
+        {
+          "word": "different",
+          "start": 23.38,
+          "end": 23.58
+        },
+        {
+          "word": "level",
+          "start": 23.58,
+          "end": 23.92
+        },
+        {
+          "word": "and",
+          "start": 23.92,
+          "end": 24.12
+        },
+        {
+          "word": "bonded",
+          "start": 24.12,
+          "end": 24.42
+        },
+        {
+          "word": "us",
+          "start": 24.42,
+          "end": 24.62
+        },
+        {
+          "word": "in",
+          "start": 24.62,
+          "end": 24.74
+        },
+        {
+          "word": "a",
+          "start": 24.74,
+          "end": 24.8
+        },
+        {
+          "word": "different",
+          "start": 24.8,
+          "end": 25.0
+        },
+        {
+          "word": "way.",
+          "start": 25.0,
+          "end": 25.3
+        },
+        {
+          "word": "The",
+          "start": 25.84,
+          "end": 26.14
+        },
+        {
+          "word": "rain",
+          "start": 26.14,
+          "end": 26.3
+        },
+        {
+          "word": "was",
+          "start": 26.3,
+          "end": 26.48
+        },
+        {
+          "word": "light",
+          "start": 26.48,
+          "end": 26.66
+        },
+        {
+          "word": "yet",
+          "start": 26.66,
+          "end": 26.86
+        },
+        {
+          "word": "steady",
+          "start": 26.86,
+          "end": 27.12
+        },
+        {
+          "word": "on",
+          "start": 27.12,
+          "end": 27.34
+        },
+        {
+          "word": "the",
+          "start": 27.34,
+          "end": 27.42
+        },
+        {
+          "word": "drive",
+          "start": 27.42,
+          "end": 27.62
+        },
+        {
+          "word": "back",
+          "start": 27.62,
+          "end": 27.8
+        },
+        {
+          "word": "to",
+          "start": 27.8,
+          "end": 28.02
+        },
+        {
+          "word": "Oxford",
+          "start": 28.02,
+          "end": 28.34
+        },
+        {
+          "word": "and",
+          "start": 28.34,
+          "end": 28.92
+        },
+        {
+          "word": "the",
+          "start": 28.92,
+          "end": 29.0
+        },
+        {
+          "word": "image",
+          "start": 29.0,
+          "end": 29.16
+        },
+        {
+          "word": "of",
+          "start": 29.16,
+          "end": 29.28
+        },
+        {
+          "word": "the",
+          "start": 29.28,
+          "end": 29.38
+        },
+        {
+          "word": "water",
+          "start": 29.38,
+          "end": 29.58
+        },
+        {
+          "word": "droplets",
+          "start": 29.58,
+          "end": 29.88
+        },
+        {
+          "word": "moving",
+          "start": 29.88,
+          "end": 30.22
+        },
+        {
+          "word": "oddly",
+          "start": 30.22,
+          "end": 30.54
+        },
+        {
+          "word": "up",
+          "start": 30.54,
+          "end": 30.7
+        },
+        {
+          "word": "the",
+          "start": 30.7,
+          "end": 30.84
+        },
+        {
+          "word": "window",
+          "start": 30.84,
+          "end": 31.1
+        },
+        {
+          "word": "and",
+          "start": 31.1,
+          "end": 31.24
+        },
+        {
+          "word": "the",
+          "start": 31.24,
+          "end": 31.32
+        },
+        {
+          "word": "deep",
+          "start": 31.32,
+          "end": 31.52
+        },
+        {
+          "word": "silence",
+          "start": 31.52,
+          "end": 31.9
+        },
+        {
+          "word": "in",
+          "start": 31.9,
+          "end": 32.08
+        },
+        {
+          "word": "the",
+          "start": 32.08,
+          "end": 32.18
+        },
+        {
+          "word": "car",
+          "start": 32.18,
+          "end": 32.46
+        },
+        {
+          "word": "remained",
+          "start": 32.46,
+          "end": 32.8
+        },
+        {
+          "word": "etched",
+          "start": 32.8,
+          "end": 33.24
+        },
+        {
+          "word": "into",
+          "start": 33.24,
+          "end": 33.4
+        },
+        {
+          "word": "my",
+          "start": 33.4,
+          "end": 33.52
+        },
+        {
+          "word": "memory",
+          "start": 33.52,
+          "end": 33.78
+        },
+        {
+          "word": "today.",
+          "start": 33.78,
+          "end": 34.12
+        }
+      ]
+    },
+    {
+      "text": "In that year, Gina and Becky became fast friends who came over to our apartment with regularity. We had a group of eight to twelve on any given night in those days and Gina and Becky were nearly always part of the core group we passed our evenings with. To this day, much of this group of friends still get together. Those early bonds endure through shared experience.",
+      "start": 34.8,
+      "end": 50.66,
+      "words": [
+        {
+          "word": "In",
+          "start": 34.8,
+          "end": 34.94
+        },
+        {
+          "word": "that",
+          "start": 34.94,
+          "end": 35.1
+        },
+        {
+          "word": "year,",
+          "start": 35.1,
+          "end": 35.38
+        },
+        {
+          "word": "Gina",
+          "start": 35.5,
+          "end": 35.64
+        },
+        {
+          "word": "and",
+          "start": 35.64,
+          "end": 35.82
+        },
+        {
+          "word": "Becky",
+          "start": 35.82,
+          "end": 35.98
+        },
+        {
+          "word": "became",
+          "start": 35.98,
+          "end": 36.34
+        },
+        {
+          "word": "fast",
+          "start": 36.34,
+          "end": 36.7
+        },
+        {
+          "word": "friends",
+          "start": 36.7,
+          "end": 36.98
+        },
+        {
+          "word": "who",
+          "start": 36.98,
+          "end": 37.14
+        },
+        {
+          "word": "came",
+          "start": 37.14,
+          "end": 37.3
+        },
+        {
+          "word": "over",
+          "start": 37.3,
+          "end": 37.5
+        },
+        {
+          "word": "to",
+          "start": 37.5,
+          "end": 37.6
+        },
+        {
+          "word": "our",
+          "start": 37.6,
+          "end": 37.7
+        },
+        {
+          "word": "apartment",
+          "start": 37.7,
+          "end": 38.0
+        },
+        {
+          "word": "with",
+          "start": 38.0,
+          "end": 38.18
+        },
+        {
+          "word": "regularity.",
+          "start": 38.18,
+          "end": 38.8
+        },
+        {
+          "word": "We",
+          "start": 39.32,
+          "end": 39.52
+        },
+        {
+          "word": "had",
+          "start": 39.52,
+          "end": 39.58
+        },
+        {
+          "word": "a",
+          "start": 39.58,
+          "end": 39.64
+        },
+        {
+          "word": "group",
+          "start": 39.64,
+          "end": 39.78
+        },
+        {
+          "word": "of",
+          "start": 39.78,
+          "end": 39.9
+        },
+        {
+          "word": "8",
+          "start": 39.9,
+          "end": 40.06
+        },
+        {
+          "word": "to",
+          "start": 40.06,
+          "end": 40.16
+        },
+        {
+          "word": "12",
+          "start": 40.16,
+          "end": 40.4
+        },
+        {
+          "word": "on",
+          "start": 40.4,
+          "end": 40.6
+        },
+        {
+          "word": "any",
+          "start": 40.6,
+          "end": 40.74
+        },
+        {
+          "word": "given",
+          "start": 40.74,
+          "end": 40.94
+        },
+        {
+          "word": "night",
+          "start": 40.94,
+          "end": 41.16
+        },
+        {
+          "word": "in",
+          "start": 41.16,
+          "end": 41.3
+        },
+        {
+          "word": "those",
+          "start": 41.3,
+          "end": 41.42
+        },
+        {
+          "word": "days",
+          "start": 41.42,
+          "end": 41.66
+        },
+        {
+          "word": "and",
+          "start": 41.66,
+          "end": 41.98
+        },
+        {
+          "word": "Gina",
+          "start": 41.98,
+          "end": 42.2
+        },
+        {
+          "word": "and",
+          "start": 42.2,
+          "end": 42.34
+        },
+        {
+          "word": "Becky",
+          "start": 42.34,
+          "end": 42.6
+        },
+        {
+          "word": "were",
+          "start": 42.6,
+          "end": 42.78
+        },
+        {
+          "word": "nearly",
+          "start": 42.78,
+          "end": 43.0
+        },
+        {
+          "word": "always",
+          "start": 43.0,
+          "end": 43.4
+        },
+        {
+          "word": "part",
+          "start": 43.4,
+          "end": 43.64
+        },
+        {
+          "word": "of",
+          "start": 43.64,
+          "end": 43.74
+        },
+        {
+          "word": "the",
+          "start": 43.74,
+          "end": 43.82
+        },
+        {
+          "word": "core",
+          "start": 43.82,
+          "end": 44.02
+        },
+        {
+          "word": "group",
+          "start": 44.02,
+          "end": 44.28
+        },
+        {
+          "word": "we",
+          "start": 44.28,
+          "end": 44.4
+        },
+        {
+          "word": "passed",
+          "start": 44.4,
+          "end": 44.6
+        },
+        {
+          "word": "our",
+          "start": 44.6,
+          "end": 44.78
+        },
+        {
+          "word": "evenings",
+          "start": 44.78,
+          "end": 45.0
+        },
+        {
+          "word": "with.",
+          "start": 45.0,
+          "end": 45.36
+        },
+        {
+          "word": "To",
+          "start": 45.92,
+          "end": 46.08
+        },
+        {
+          "word": "this",
+          "start": 46.08,
+          "end": 46.24
+        },
+        {
+          "word": "day,",
+          "start": 46.24,
+          "end": 46.46
+        },
+        {
+          "word": "much",
+          "start": 46.58,
+          "end": 46.7
+        },
+        {
+          "word": "of",
+          "start": 46.7,
+          "end": 46.8
+        },
+        {
+          "word": "this",
+          "start": 46.8,
+          "end": 46.92
+        },
+        {
+          "word": "group",
+          "start": 46.92,
+          "end": 47.06
+        },
+        {
+          "word": "of",
+          "start": 47.06,
+          "end": 47.18
+        },
+        {
+          "word": "friends",
+          "start": 47.18,
+          "end": 47.4
+        },
+        {
+          "word": "still",
+          "start": 47.4,
+          "end": 47.62
+        },
+        {
+          "word": "get",
+          "start": 47.62,
+          "end": 47.72
+        },
+        {
+          "word": "together.",
+          "start": 47.72,
+          "end": 48.12
+        },
+        {
+          "word": "Those",
+          "start": 48.62,
+          "end": 48.74
+        },
+        {
+          "word": "early",
+          "start": 48.74,
+          "end": 49.06
+        },
+        {
+          "word": "bonds",
+          "start": 49.06,
+          "end": 49.32
+        },
+        {
+          "word": "endure",
+          "start": 49.32,
+          "end": 49.66
+        },
+        {
+          "word": "through",
+          "start": 49.66,
+          "end": 49.9
+        },
+        {
+          "word": "shared",
+          "start": 49.9,
+          "end": 50.16
+        },
+        {
+          "word": "experience.",
+          "start": 50.16,
+          "end": 50.66
+        }
+      ]
+    },
+    {
+      "text": "I was in a couple different relationships over the next year or so as Becky and I continued to develop a wonderful friendship. We had such fun together. Beck was a real trooper and would go on hikes and river runs with anyone at a moment’s notice, and then pour or serve the drinks in the evenings at the local establishment.",
+      "start": 51.18,
+      "end": 64.28,
+      "words": [
+        {
+          "word": "I",
+          "start": 51.18,
+          "end": 51.38
+        },
+        {
+          "word": "was",
+          "start": 51.38,
+          "end": 51.5
+        },
+        {
+          "word": "in",
+          "start": 51.5,
+          "end": 51.58
+        },
+        {
+          "word": "a",
+          "start": 51.58,
+          "end": 51.66
+        },
+        {
+          "word": "couple",
+          "start": 51.66,
+          "end": 51.84
+        },
+        {
+          "word": "different",
+          "start": 51.84,
+          "end": 52.02
+        },
+        {
+          "word": "relationships",
+          "start": 52.02,
+          "end": 52.46
+        },
+        {
+          "word": "over",
+          "start": 52.46,
+          "end": 52.82
+        },
+        {
+          "word": "the",
+          "start": 52.82,
+          "end": 52.92
+        },
+        {
+          "word": "next",
+          "start": 52.92,
+          "end": 53.1
+        },
+        {
+          "word": "year",
+          "start": 53.1,
+          "end": 53.3
+        },
+        {
+          "word": "or",
+          "start": 53.3,
+          "end": 53.4
+        },
+        {
+          "word": "so",
+          "start": 53.4,
+          "end": 53.58
+        },
+        {
+          "word": "as",
+          "start": 53.58,
+          "end": 53.8
+        },
+        {
+          "word": "Becky",
+          "start": 53.8,
+          "end": 53.98
+        },
+        {
+          "word": "and",
+          "start": 53.98,
+          "end": 54.14
+        },
+        {
+          "word": "I",
+          "start": 54.14,
+          "end": 54.22
+        },
+        {
+          "word": "continued",
+          "start": 54.22,
+          "end": 54.64
+        },
+        {
+          "word": "to",
+          "start": 54.64,
+          "end": 54.82
+        },
+        {
+          "word": "develop",
+          "start": 54.82,
+          "end": 55.06
+        },
+        {
+          "word": "a",
+          "start": 55.06,
+          "end": 55.24
+        },
+        {
+          "word": "wonderful",
+          "start": 55.24,
+          "end": 55.48
+        },
+        {
+          "word": "friendship.",
+          "start": 55.48,
+          "end": 55.92
+        },
+        {
+          "word": "We",
+          "start": 56.06,
+          "end": 56.12
+        },
+        {
+          "word": "had",
+          "start": 56.12,
+          "end": 56.2
+        },
+        {
+          "word": "such",
+          "start": 56.2,
+          "end": 56.4
+        },
+        {
+          "word": "fun",
+          "start": 56.4,
+          "end": 56.58
+        },
+        {
+          "word": "together.",
+          "start": 56.58,
+          "end": 56.92
+        },
+        {
+          "word": "Beck",
+          "start": 56.92,
+          "end": 57.52
+        },
+        {
+          "word": "was",
+          "start": 57.52,
+          "end": 57.72
+        },
+        {
+          "word": "a",
+          "start": 57.72,
+          "end": 57.82
+        },
+        {
+          "word": "real",
+          "start": 57.82,
+          "end": 57.98
+        },
+        {
+          "word": "trooper",
+          "start": 57.98,
+          "end": 58.3
+        },
+        {
+          "word": "and",
+          "start": 58.3,
+          "end": 58.52
+        },
+        {
+          "word": "would",
+          "start": 58.52,
+          "end": 58.66
+        },
+        {
+          "word": "go",
+          "start": 58.66,
+          "end": 58.86
+        },
+        {
+          "word": "on",
+          "start": 58.86,
+          "end": 59.0
+        },
+        {
+          "word": "hikes",
+          "start": 59.0,
+          "end": 59.26
+        },
+        {
+          "word": "and",
+          "start": 59.26,
+          "end": 59.42
+        },
+        {
+          "word": "river",
+          "start": 59.42,
+          "end": 59.6
+        },
+        {
+          "word": "runs",
+          "start": 59.6,
+          "end": 59.86
+        },
+        {
+          "word": "with",
+          "start": 59.86,
+          "end": 60.02
+        },
+        {
+          "word": "anyone",
+          "start": 60.02,
+          "end": 60.38
+        },
+        {
+          "word": "at",
+          "start": 60.38,
+          "end": 60.54
+        },
+        {
+          "word": "a",
+          "start": 60.54,
+          "end": 60.58
+        },
+        {
+          "word": "moment's",
+          "start": 60.58,
+          "end": 60.96
+        },
+        {
+          "word": "notice",
+          "start": 60.96,
+          "end": 61.24
+        },
+        {
+          "word": "and",
+          "start": 61.24,
+          "end": 61.68
+        },
+        {
+          "word": "then",
+          "start": 61.68,
+          "end": 61.8
+        },
+        {
+          "word": "pour",
+          "start": 61.8,
+          "end": 62.02
+        },
+        {
+          "word": "or",
+          "start": 62.02,
+          "end": 62.24
+        },
+        {
+          "word": "serve",
+          "start": 62.24,
+          "end": 62.42
+        },
+        {
+          "word": "the",
+          "start": 62.42,
+          "end": 62.58
+        },
+        {
+          "word": "drinks",
+          "start": 62.58,
+          "end": 62.76
+        },
+        {
+          "word": "in",
+          "start": 62.76,
+          "end": 62.94
+        },
+        {
+          "word": "the",
+          "start": 62.94,
+          "end": 63.0
+        },
+        {
+          "word": "evenings",
+          "start": 63.0,
+          "end": 63.28
+        },
+        {
+          "word": "at",
+          "start": 63.28,
+          "end": 63.5
+        },
+        {
+          "word": "the",
+          "start": 63.5,
+          "end": 63.56
+        },
+        {
+          "word": "local",
+          "start": 63.56,
+          "end": 63.72
+        },
+        {
+          "word": "establishment.",
+          "start": 63.72,
+          "end": 64.28
+        }
+      ]
+    },
+    {
+      "text": "Wedding Day, February 14, 1990",
+      "start": 64.7,
+      "end": 66.74,
+      "words": [
+        {
+          "word": "Wedding",
+          "start": 64.7,
+          "end": 64.96
+        },
+        {
+          "word": "day,",
+          "start": 64.96,
+          "end": 65.16
+        },
+        {
+          "word": "February",
+          "start": 65.34,
+          "end": 65.52
+        },
+        {
+          "word": "14,",
+          "start": 65.52,
+          "end": 65.98
+        },
+        {
+          "word": "1990.",
+          "start": 66.26,
+          "end": 66.74
+        }
+      ]
+    },
+    {
+      "text": "As others slowly began pairing up or moving on, Becky and I often found each other as cuddling partners at the Grateful Dead shows and other gatherings. We were both shy in this way, though, and cuddling was it for a long time, until the night her sister got married. Our friends, Joe and Maura, were also at the wedding and they had been pushing Beck and me to get together for a while. Once the wedding and reception were over, we all went back to the hotel room, and Becky was determined to get that goodnight kiss. She took that goodnight kiss, in fact, and more. We never looked back, and our oldest son Alex was conceived on New Year’s Eve 1989.",
+      "start": 67.34,
+      "end": 95.86,
+      "words": [
+        {
+          "word": "As",
+          "start": 67.34,
+          "end": 67.44
+        },
+        {
+          "word": "others",
+          "start": 67.44,
+          "end": 67.68
+        },
+        {
+          "word": "slowly",
+          "start": 67.68,
+          "end": 67.94
+        },
+        {
+          "word": "began",
+          "start": 67.94,
+          "end": 68.26
+        },
+        {
+          "word": "pairing",
+          "start": 68.26,
+          "end": 68.56
+        },
+        {
+          "word": "up",
+          "start": 68.56,
+          "end": 68.78
+        },
+        {
+          "word": "or",
+          "start": 68.78,
+          "end": 68.98
+        },
+        {
+          "word": "moving",
+          "start": 68.98,
+          "end": 69.2
+        },
+        {
+          "word": "on,",
+          "start": 69.2,
+          "end": 69.46
+        },
+        {
+          "word": "Becky",
+          "start": 69.94,
+          "end": 70.08
+        },
+        {
+          "word": "and",
+          "start": 70.08,
+          "end": 70.2
+        },
+        {
+          "word": "I",
+          "start": 70.2,
+          "end": 70.26
+        },
+        {
+          "word": "often",
+          "start": 70.26,
+          "end": 70.56
+        },
+        {
+          "word": "found",
+          "start": 70.56,
+          "end": 70.78
+        },
+        {
+          "word": "each",
+          "start": 70.78,
+          "end": 70.98
+        },
+        {
+          "word": "other's",
+          "start": 70.98,
+          "end": 71.3
+        },
+        {
+          "word": "cuddling",
+          "start": 71.3,
+          "end": 71.54
+        },
+        {
+          "word": "partners",
+          "start": 71.54,
+          "end": 71.88
+        },
+        {
+          "word": "at",
+          "start": 71.88,
+          "end": 72.0
+        },
+        {
+          "word": "the",
+          "start": 72.0,
+          "end": 72.1
+        },
+        {
+          "word": "Grateful",
+          "start": 72.1,
+          "end": 72.36
+        },
+        {
+          "word": "Dead",
+          "start": 72.36,
+          "end": 72.52
+        },
+        {
+          "word": "shows",
+          "start": 72.52,
+          "end": 72.76
+        },
+        {
+          "word": "and",
+          "start": 72.76,
+          "end": 73.0
+        },
+        {
+          "word": "other",
+          "start": 73.0,
+          "end": 73.14
+        },
+        {
+          "word": "gatherings.",
+          "start": 73.14,
+          "end": 73.52
+        },
+        {
+          "word": "We",
+          "start": 74.2,
+          "end": 74.4
+        },
+        {
+          "word": "were",
+          "start": 74.4,
+          "end": 74.46
+        },
+        {
+          "word": "both",
+          "start": 74.46,
+          "end": 74.64
+        },
+        {
+          "word": "shy",
+          "start": 74.64,
+          "end": 74.9
+        },
+        {
+          "word": "in",
+          "start": 74.9,
+          "end": 75.1
+        },
+        {
+          "word": "this",
+          "start": 75.1,
+          "end": 75.22
+        },
+        {
+          "word": "way,",
+          "start": 75.22,
+          "end": 75.4
+        },
+        {
+          "word": "though,",
+          "start": 75.42,
+          "end": 75.56
+        },
+        {
+          "word": "and",
+          "start": 75.84,
+          "end": 75.92
+        },
+        {
+          "word": "cuddling",
+          "start": 75.92,
+          "end": 76.26
+        },
+        {
+          "word": "was",
+          "start": 76.26,
+          "end": 76.44
+        },
+        {
+          "word": "it",
+          "start": 76.44,
+          "end": 76.54
+        },
+        {
+          "word": "for",
+          "start": 76.54,
+          "end": 76.72
+        },
+        {
+          "word": "a",
+          "start": 76.72,
+          "end": 76.8
+        },
+        {
+          "word": "long",
+          "start": 76.8,
+          "end": 76.94
+        },
+        {
+          "word": "time",
+          "start": 76.94,
+          "end": 77.22
+        },
+        {
+          "word": "until",
+          "start": 77.22,
+          "end": 77.64
+        },
+        {
+          "word": "the",
+          "start": 77.64,
+          "end": 77.78
+        },
+        {
+          "word": "night",
+          "start": 77.78,
+          "end": 77.88
+        },
+        {
+          "word": "her",
+          "start": 77.88,
+          "end": 78.0
+        },
+        {
+          "word": "sister",
+          "start": 78.0,
+          "end": 78.22
+        },
+        {
+          "word": "got",
+          "start": 78.22,
+          "end": 78.42
+        },
+        {
+          "word": "married.",
+          "start": 78.42,
+          "end": 78.7
+        },
+        {
+          "word": "Our",
+          "start": 79.22,
+          "end": 79.62
+        },
+        {
+          "word": "friends",
+          "start": 79.62,
+          "end": 79.86
+        },
+        {
+          "word": "Joe",
+          "start": 79.86,
+          "end": 80.12
+        },
+        {
+          "word": "and",
+          "start": 80.12,
+          "end": 80.24
+        },
+        {
+          "word": "Moira",
+          "start": 80.24,
+          "end": 80.5
+        },
+        {
+          "word": "were",
+          "start": 80.5,
+          "end": 80.74
+        },
+        {
+          "word": "all",
+          "start": 80.74,
+          "end": 80.84
+        },
+        {
+          "word": "with",
+          "start": 80.84,
+          "end": 81.0
+        },
+        {
+          "word": "the",
+          "start": 81.0,
+          "end": 81.12
+        },
+        {
+          "word": "wedding",
+          "start": 81.12,
+          "end": 81.32
+        },
+        {
+          "word": "and",
+          "start": 81.32,
+          "end": 81.74
+        },
+        {
+          "word": "they'd",
+          "start": 81.74,
+          "end": 81.86
+        },
+        {
+          "word": "been",
+          "start": 81.86,
+          "end": 81.98
+        },
+        {
+          "word": "pushing",
+          "start": 81.98,
+          "end": 82.2
+        },
+        {
+          "word": "Beck",
+          "start": 82.2,
+          "end": 82.44
+        },
+        {
+          "word": "and",
+          "start": 82.44,
+          "end": 82.58
+        },
+        {
+          "word": "me",
+          "start": 82.58,
+          "end": 82.66
+        },
+        {
+          "word": "to",
+          "start": 82.66,
+          "end": 82.78
+        },
+        {
+          "word": "get",
+          "start": 82.78,
+          "end": 82.86
+        },
+        {
+          "word": "together",
+          "start": 82.86,
+          "end": 83.1
+        },
+        {
+          "word": "for",
+          "start": 83.1,
+          "end": 83.32
+        },
+        {
+          "word": "a",
+          "start": 83.32,
+          "end": 83.42
+        },
+        {
+          "word": "while.",
+          "start": 83.42,
+          "end": 83.54
+        },
+        {
+          "word": "Once",
+          "start": 83.92,
+          "end": 84.28
+        },
+        {
+          "word": "the",
+          "start": 84.28,
+          "end": 84.5
+        },
+        {
+          "word": "wedding",
+          "start": 84.5,
+          "end": 84.68
+        },
+        {
+          "word": "and",
+          "start": 84.68,
+          "end": 84.82
+        },
+        {
+          "word": "reception",
+          "start": 84.82,
+          "end": 85.06
+        },
+        {
+          "word": "were",
+          "start": 85.06,
+          "end": 85.32
+        },
+        {
+          "word": "over,",
+          "start": 85.32,
+          "end": 85.52
+        },
+        {
+          "word": "we",
+          "start": 85.66,
+          "end": 85.7
+        },
+        {
+          "word": "all",
+          "start": 85.7,
+          "end": 85.82
+        },
+        {
+          "word": "went",
+          "start": 85.82,
+          "end": 85.92
+        },
+        {
+          "word": "back",
+          "start": 85.92,
+          "end": 86.1
+        },
+        {
+          "word": "to",
+          "start": 86.1,
+          "end": 86.28
+        },
+        {
+          "word": "the",
+          "start": 86.28,
+          "end": 86.36
+        },
+        {
+          "word": "hotel",
+          "start": 86.36,
+          "end": 86.54
+        },
+        {
+          "word": "room",
+          "start": 86.54,
+          "end": 86.86
+        },
+        {
+          "word": "and",
+          "start": 86.86,
+          "end": 87.34
+        },
+        {
+          "word": "Becky",
+          "start": 87.34,
+          "end": 87.52
+        },
+        {
+          "word": "was",
+          "start": 87.52,
+          "end": 87.7
+        },
+        {
+          "word": "determined",
+          "start": 87.7,
+          "end": 88.04
+        },
+        {
+          "word": "to",
+          "start": 88.04,
+          "end": 88.2
+        },
+        {
+          "word": "get",
+          "start": 88.2,
+          "end": 88.3
+        },
+        {
+          "word": "that",
+          "start": 88.3,
+          "end": 88.46
+        },
+        {
+          "word": "good",
+          "start": 88.46,
+          "end": 88.62
+        },
+        {
+          "word": "night",
+          "start": 88.62,
+          "end": 88.78
+        },
+        {
+          "word": "kiss.",
+          "start": 88.78,
+          "end": 89.02
+        },
+        {
+          "word": "She",
+          "start": 89.48,
+          "end": 89.68
+        },
+        {
+          "word": "took",
+          "start": 89.68,
+          "end": 89.82
+        },
+        {
+          "word": "that",
+          "start": 89.82,
+          "end": 89.98
+        },
+        {
+          "word": "good",
+          "start": 89.98,
+          "end": 90.12
+        },
+        {
+          "word": "night",
+          "start": 90.12,
+          "end": 90.26
+        },
+        {
+          "word": "kiss,",
+          "start": 90.26,
+          "end": 90.48
+        },
+        {
+          "word": "in",
+          "start": 90.5,
+          "end": 90.66
+        },
+        {
+          "word": "fact,",
+          "start": 90.66,
+          "end": 90.84
+        },
+        {
+          "word": "and",
+          "start": 91.1,
+          "end": 91.18
+        },
+        {
+          "word": "more.",
+          "start": 91.18,
+          "end": 91.38
+        },
+        {
+          "word": "We",
+          "start": 92.08,
+          "end": 92.32
+        },
+        {
+          "word": "never",
+          "start": 92.32,
+          "end": 92.48
+        },
+        {
+          "word": "looked",
+          "start": 92.48,
+          "end": 92.62
+        },
+        {
+          "word": "back",
+          "start": 92.62,
+          "end": 92.94
+        },
+        {
+          "word": "and",
+          "start": 92.94,
+          "end": 93.26
+        },
+        {
+          "word": "our",
+          "start": 93.26,
+          "end": 93.38
+        },
+        {
+          "word": "oldest",
+          "start": 93.38,
+          "end": 93.56
+        },
+        {
+          "word": "son",
+          "start": 93.56,
+          "end": 93.78
+        },
+        {
+          "word": "Alex",
+          "start": 93.78,
+          "end": 94.02
+        },
+        {
+          "word": "was",
+          "start": 94.02,
+          "end": 94.24
+        },
+        {
+          "word": "conceived",
+          "start": 94.24,
+          "end": 94.64
+        },
+        {
+          "word": "on",
+          "start": 94.64,
+          "end": 94.84
+        },
+        {
+          "word": "New",
+          "start": 94.84,
+          "end": 94.98
+        },
+        {
+          "word": "Year's",
+          "start": 94.98,
+          "end": 95.2
+        },
+        {
+          "word": "Eve",
+          "start": 95.2,
+          "end": 95.32
+        },
+        {
+          "word": "1989.",
+          "start": 95.32,
+          "end": 95.86
+        }
+      ]
+    },
+    {
+      "text": "I was not alone anymore...",
+      "start": 96.58,
+      "end": 97.58,
+      "words": [
+        {
+          "word": "I",
+          "start": 96.58,
+          "end": 96.74
+        },
+        {
+          "word": "was",
+          "start": 96.74,
+          "end": 96.86
+        },
+        {
+          "word": "not",
+          "start": 96.86,
+          "end": 97.0
+        },
+        {
+          "word": "alone",
+          "start": 97.0,
+          "end": 97.22
+        },
+        {
+          "word": "anymore.",
+          "start": 97.22,
+          "end": 97.58
+        }
+      ]
+    }
+  ]
+}
