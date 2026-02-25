@@ -1036,24 +1036,41 @@ const JoeReader = (() => {
     if (!section) return;
 
     const paraIdx = timestamps.paragraphs.indexOf(para);
+    const titleEl = section.querySelector('.joe-chapter__title');
     const els = section.querySelectorAll('.joe-chapter__text p');
 
     // Mark text block active (dims was-spoken paragraphs)
     section.querySelector('.joe-chapter__text')?.classList.add('is-active');
 
+    // Handle title highlight (first entry in timestamps has is_title flag)
+    if (para.is_title) {
+      titleEl?.classList.add('is-speaking');
+      els.forEach(el => el.classList.remove('is-speaking', 'was-spoken'));
+      if (!userScrolling && titleEl) {
+        titleEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+      return;
+    }
+
+    // Title is done speaking once we move to paragraphs
+    titleEl?.classList.remove('is-speaking');
+
+    // paraIdx includes title at [0], so text paragraphs start at index 1
+    const textIdx = paraIdx - 1;
+
     els.forEach((el, i) => {
       el.classList.remove('is-speaking');
-      if (i < paraIdx) {
+      if (i < textIdx) {
         el.classList.add('was-spoken');
       } else {
         el.classList.remove('was-spoken');
       }
     });
 
-    if (els[paraIdx]) {
-      els[paraIdx].classList.add('is-speaking');
+    if (els[textIdx]) {
+      els[textIdx].classList.add('is-speaking');
       if (!userScrolling) {
-        els[paraIdx].scrollIntoView({ behavior: 'smooth', block: 'center' });
+        els[textIdx].scrollIntoView({ behavior: 'smooth', block: 'center' });
       }
     }
   }
@@ -1061,6 +1078,9 @@ const JoeReader = (() => {
   function clearHighlights() {
     document.querySelectorAll('.joe-chapter__text p').forEach(el => {
       el.classList.remove('is-speaking', 'was-spoken');
+    });
+    document.querySelectorAll('.joe-chapter__title').forEach(el => {
+      el.classList.remove('is-speaking');
     });
     document.querySelectorAll('.joe-chapter__text').forEach(el => {
       el.classList.remove('is-active');
@@ -1105,8 +1125,10 @@ const JoeReader = (() => {
   }
 
   function seekToParagraph(idx) {
-    if (!timestamps?.paragraphs[idx]) return;
-    audio.currentTime = timestamps.paragraphs[idx].start;
+    // Timestamps have title at [0], text paragraphs start at [1]
+    const tsIdx = idx + 1;
+    if (!timestamps?.paragraphs[tsIdx]) return;
+    audio.currentTime = timestamps.paragraphs[tsIdx].start;
     if (audio.paused) audio.play();
     setPlaying(true);
   }

@@ -1013,6 +1013,14 @@ section {
   cursor: default;
 }
 
+.joe-chapter__title.is-speaking {
+  background: rgba(139, 115, 85, 0.12);
+  border-left: 3px solid var(--earth);
+  padding-left: 0.8rem;
+  margin-left: -0.4rem;
+  transition: background 0.3s;
+}
+
 .joe-chapter__text p.is-speaking {
   background: rgba(139, 115, 85, 0.12);
   border-left: 3px solid var(--earth);

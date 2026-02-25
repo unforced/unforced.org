@@ -112,6 +112,17 @@ def generate_audio_for_chapter(chapter: dict, reference_audio: Path, output_path
     all_wavs = []
     sr = model.sr
 
+    # Generate chapter title narration first
+    title_text = chapter["title"]
+    print(f"  Generating title: {title_text}")
+    title_wav = model.generate(
+        title_text,
+        audio_prompt_path=str(reference_audio),
+        exaggeration=0.45,
+        cfg_weight=0.5,
+    )
+    all_wavs.append(title_wav)
+
     for i, para in enumerate(chapter["paragraphs"]):
         print(f"  Generating paragraph {i+1}/{len(chapter['paragraphs'])}...")
         # Chatterbox handles moderate-length text; split very long paragraphs at sentences
@@ -175,17 +186,16 @@ def get_timestamps(wav_path: Path, chapter: dict) -> dict:
                 "end": round(w["end"], 3),
             })
 
-    # Assign words to paragraphs by walking through sequentially
-    # (Whisper transcribes the concatenated audio in order)
+    # Assign words to paragraphs by walking through sequentially.
+    # The audio starts with the chapter title, then paragraphs.
+    # Build a list: [title_text, para1, para2, ...] to align against.
+    all_texts = [chapter["title"]] + chapter["paragraphs"]
     total_words = len(all_words)
-    para_count = len(chapter["paragraphs"])
-    words_per_para = max(1, total_words // para_count)
 
     paragraphs_with_timing = []
     word_index = 0
-    for i, para_text in enumerate(chapter["paragraphs"]):
-        # Estimate how many words this paragraph has
-        para_word_count = len(para_text.split())
+    for i, text in enumerate(all_texts):
+        para_word_count = len(text.split())
         end_index = min(word_index + para_word_count, total_words)
 
         para_words = all_words[word_index:end_index]
@@ -195,16 +205,18 @@ def get_timestamps(wav_path: Path, chapter: dict) -> dict:
             start = para_words[0]["start"]
             end = para_words[-1]["end"]
         else:
-            # Fallback: use previous end or 0
             start = paragraphs_with_timing[-1]["end"] if paragraphs_with_timing else 0
             end = start + 3.0
 
-        paragraphs_with_timing.append({
-            "text": para_text,
+        entry = {
+            "text": text,
             "start": round(start, 3),
             "end": round(end, 3),
             "words": para_words,
-        })
+        }
+        if i == 0:
+            entry["is_title"] = True
+        paragraphs_with_timing.append(entry)
 
     duration = all_words[-1]["end"] if all_words else 0
 
