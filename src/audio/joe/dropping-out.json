@@ -1,0 +1,2192 @@
+{
+  "id": "dropping-out",
+  "title": "Dropping Out",
+  "audio": "/audio/joe/dropping-out.mp3",
+  "duration": 104.92,
+  "paragraphs": [
+    {
+      "text": "Dropping Out",
+      "start": 0.0,
+      "end": 0.56,
+      "words": [
+        {
+          "word": "wrapping",
+          "start": 0.0,
+          "end": 0.3
+        },
+        {
+          "word": "out.",
+          "start": 0.3,
+          "end": 0.56
+        }
+      ],
+      "is_title": true
+    },
+    {
+      "text": "The first day of being on a college campus in the fall of 1984, a goal quickly manifested. I had been raised in the Catholic tradition and educated in private, Catholic schools with the uniforms and all the rest of the repetitive practices. In my mind, I had been finished with school for years to the point that I suggested “Another Brick in the Wall” (We don’t need no education, we don’t need no thought control) by Pink Floyd as an 8th grade graduation song. The nuns did not take too kindly to my suggestion.",
+      "start": 1.04,
+      "end": 23.6,
+      "words": [
+        {
+          "word": "The",
+          "start": 1.04,
+          "end": 1.1
+        },
+        {
+          "word": "first",
+          "start": 1.1,
+          "end": 1.3
+        },
+        {
+          "word": "day",
+          "start": 1.3,
+          "end": 1.54
+        },
+        {
+          "word": "of",
+          "start": 1.54,
+          "end": 1.7
+        },
+        {
+          "word": "being",
+          "start": 1.7,
+          "end": 1.8
+        },
+        {
+          "word": "on",
+          "start": 1.8,
+          "end": 1.98
+        },
+        {
+          "word": "a",
+          "start": 1.98,
+          "end": 2.06
+        },
+        {
+          "word": "college",
+          "start": 2.06,
+          "end": 2.24
+        },
+        {
+          "word": "campus",
+          "start": 2.24,
+          "end": 2.58
+        },
+        {
+          "word": "in",
+          "start": 2.58,
+          "end": 2.74
+        },
+        {
+          "word": "the",
+          "start": 2.74,
+          "end": 2.84
+        },
+        {
+          "word": "fall",
+          "start": 2.84,
+          "end": 2.98
+        },
+        {
+          "word": "of",
+          "start": 2.98,
+          "end": 3.18
+        },
+        {
+          "word": "1984,",
+          "start": 3.18,
+          "end": 3.48
+        },
+        {
+          "word": "a",
+          "start": 3.86,
+          "end": 3.92
+        },
+        {
+          "word": "goal",
+          "start": 3.92,
+          "end": 4.08
+        },
+        {
+          "word": "quickly",
+          "start": 4.08,
+          "end": 4.44
+        },
+        {
+          "word": "manifested.",
+          "start": 4.44,
+          "end": 4.92
+        },
+        {
+          "word": "I",
+          "start": 5.48,
+          "end": 5.58
+        },
+        {
+          "word": "have",
+          "start": 5.58,
+          "end": 5.68
+        },
+        {
+          "word": "been",
+          "start": 5.68,
+          "end": 5.78
+        },
+        {
+          "word": "raised",
+          "start": 5.78,
+          "end": 6.0
+        },
+        {
+          "word": "in",
+          "start": 6.0,
+          "end": 6.18
+        },
+        {
+          "word": "the",
+          "start": 6.18,
+          "end": 6.24
+        },
+        {
+          "word": "Catholic",
+          "start": 6.24,
+          "end": 6.4
+        },
+        {
+          "word": "tradition",
+          "start": 6.4,
+          "end": 6.88
+        },
+        {
+          "word": "and",
+          "start": 6.88,
+          "end": 7.04
+        },
+        {
+          "word": "educated",
+          "start": 7.04,
+          "end": 7.44
+        },
+        {
+          "word": "in",
+          "start": 7.44,
+          "end": 7.64
+        },
+        {
+          "word": "private",
+          "start": 7.64,
+          "end": 7.96
+        },
+        {
+          "word": "Catholic",
+          "start": 7.96,
+          "end": 8.26
+        },
+        {
+          "word": "schools",
+          "start": 8.26,
+          "end": 8.7
+        },
+        {
+          "word": "with",
+          "start": 8.7,
+          "end": 8.94
+        },
+        {
+          "word": "the",
+          "start": 8.94,
+          "end": 9.02
+        },
+        {
+          "word": "uniforms",
+          "start": 9.02,
+          "end": 9.36
+        },
+        {
+          "word": "and",
+          "start": 9.36,
+          "end": 9.62
+        },
+        {
+          "word": "all",
+          "start": 9.62,
+          "end": 9.8
+        },
+        {
+          "word": "the",
+          "start": 9.8,
+          "end": 9.9
+        },
+        {
+          "word": "rest",
+          "start": 9.9,
+          "end": 10.1
+        },
+        {
+          "word": "of",
+          "start": 10.1,
+          "end": 10.2
+        },
+        {
+          "word": "the",
+          "start": 10.2,
+          "end": 10.28
+        },
+        {
+          "word": "repetitive",
+          "start": 10.28,
+          "end": 10.6
+        },
+        {
+          "word": "practices.",
+          "start": 10.6,
+          "end": 11.16
+        },
+        {
+          "word": "In",
+          "start": 11.92,
+          "end": 12.02
+        },
+        {
+          "word": "my",
+          "start": 12.02,
+          "end": 12.16
+        },
+        {
+          "word": "mind,",
+          "start": 12.16,
+          "end": 12.4
+        },
+        {
+          "word": "I",
+          "start": 12.4,
+          "end": 12.54
+        },
+        {
+          "word": "have",
+          "start": 12.54,
+          "end": 12.6
+        },
+        {
+          "word": "been",
+          "start": 12.6,
+          "end": 12.68
+        },
+        {
+          "word": "finished",
+          "start": 12.68,
+          "end": 12.92
+        },
+        {
+          "word": "for",
+          "start": 12.92,
+          "end": 13.06
+        },
+        {
+          "word": "school",
+          "start": 13.06,
+          "end": 13.26
+        },
+        {
+          "word": "for",
+          "start": 13.26,
+          "end": 13.42
+        },
+        {
+          "word": "years",
+          "start": 13.42,
+          "end": 13.68
+        },
+        {
+          "word": "to",
+          "start": 13.68,
+          "end": 13.92
+        },
+        {
+          "word": "the",
+          "start": 13.92,
+          "end": 13.98
+        },
+        {
+          "word": "point",
+          "start": 13.98,
+          "end": 14.14
+        },
+        {
+          "word": "that",
+          "start": 14.14,
+          "end": 14.28
+        },
+        {
+          "word": "I",
+          "start": 14.28,
+          "end": 14.38
+        },
+        {
+          "word": "suggested.",
+          "start": 14.38,
+          "end": 14.8
+        },
+        {
+          "word": "Another",
+          "start": 15.26,
+          "end": 15.42
+        },
+        {
+          "word": "brick",
+          "start": 15.42,
+          "end": 15.66
+        },
+        {
+          "word": "in",
+          "start": 15.66,
+          "end": 15.76
+        },
+        {
+          "word": "the",
+          "start": 15.76,
+          "end": 15.84
+        },
+        {
+          "word": "wall?",
+          "start": 15.84,
+          "end": 16.0
+        },
+        {
+          "word": "We",
+          "start": 16.58,
+          "end": 16.68
+        },
+        {
+          "word": "don't",
+          "start": 16.68,
+          "end": 16.82
+        },
+        {
+          "word": "need",
+          "start": 16.82,
+          "end": 16.96
+        },
+        {
+          "word": "no",
+          "start": 16.96,
+          "end": 17.12
+        },
+        {
+          "word": "education,",
+          "start": 17.12,
+          "end": 17.54
+        },
+        {
+          "word": "we",
+          "start": 17.8,
+          "end": 17.86
+        },
+        {
+          "word": "don't",
+          "start": 17.86,
+          "end": 17.96
+        },
+        {
+          "word": "need",
+          "start": 17.96,
+          "end": 18.1
+        },
+        {
+          "word": "no",
+          "start": 18.1,
+          "end": 18.24
+        },
+        {
+          "word": "thought",
+          "start": 18.24,
+          "end": 18.4
+        },
+        {
+          "word": "control",
+          "start": 18.4,
+          "end": 18.76
+        },
+        {
+          "word": "by",
+          "start": 18.76,
+          "end": 18.98
+        },
+        {
+          "word": "Pink",
+          "start": 18.98,
+          "end": 19.14
+        },
+        {
+          "word": "Floyd",
+          "start": 19.14,
+          "end": 19.42
+        },
+        {
+          "word": "as",
+          "start": 19.42,
+          "end": 19.58
+        },
+        {
+          "word": "an",
+          "start": 19.58,
+          "end": 19.68
+        },
+        {
+          "word": "eighth",
+          "start": 19.68,
+          "end": 19.82
+        },
+        {
+          "word": "grade",
+          "start": 19.82,
+          "end": 19.98
+        },
+        {
+          "word": "graduation",
+          "start": 19.98,
+          "end": 20.34
+        },
+        {
+          "word": "song.",
+          "start": 20.34,
+          "end": 20.82
+        },
+        {
+          "word": "The",
+          "start": 21.58,
+          "end": 21.66
+        },
+        {
+          "word": "nuns",
+          "start": 21.66,
+          "end": 21.94
+        },
+        {
+          "word": "did",
+          "start": 21.94,
+          "end": 22.0
+        },
+        {
+          "word": "not",
+          "start": 22.0,
+          "end": 22.16
+        },
+        {
+          "word": "take",
+          "start": 22.16,
+          "end": 22.36
+        },
+        {
+          "word": "too",
+          "start": 22.36,
+          "end": 22.56
+        },
+        {
+          "word": "kindly",
+          "start": 22.56,
+          "end": 22.9
+        },
+        {
+          "word": "to",
+          "start": 22.9,
+          "end": 23.04
+        },
+        {
+          "word": "my",
+          "start": 23.04,
+          "end": 23.14
+        },
+        {
+          "word": "suggestion.",
+          "start": 23.14,
+          "end": 23.6
+        }
+      ]
+    },
+    {
+      "text": "I was never cut out for uniformity or conformity despite both being important parts of the structures in which I was raised. There is nothing wrong with uniformity for many, but for me it was like a wool coat in August. I was ready to be finished with all of it, to shed that coat and feel the fresh breeze I knew was around me all those years. I knew this attitude was not going to sit well with my parents who wanted the best for me and felt college was of absolute importance. Rather than refuse to go, I took the easy way out and enrolled; I just checked out of going to classes. It was like trying to break up with a girlfriend you know is not the “one” and you never actually talk about it until it just erupts and is over. Yeah, a lot like that...",
+      "start": 24.12,
+      "end": 59.46,
+      "words": [
+        {
+          "word": "I",
+          "start": 24.12,
+          "end": 24.2
+        },
+        {
+          "word": "was",
+          "start": 24.2,
+          "end": 24.3
+        },
+        {
+          "word": "never",
+          "start": 24.3,
+          "end": 24.46
+        },
+        {
+          "word": "cut",
+          "start": 24.46,
+          "end": 24.68
+        },
+        {
+          "word": "out",
+          "start": 24.68,
+          "end": 24.82
+        },
+        {
+          "word": "for",
+          "start": 24.82,
+          "end": 24.98
+        },
+        {
+          "word": "uniformity",
+          "start": 24.98,
+          "end": 25.56
+        },
+        {
+          "word": "or",
+          "start": 25.56,
+          "end": 25.66
+        },
+        {
+          "word": "conformity",
+          "start": 25.66,
+          "end": 26.12
+        },
+        {
+          "word": "despite",
+          "start": 26.12,
+          "end": 26.42
+        },
+        {
+          "word": "both",
+          "start": 26.42,
+          "end": 26.74
+        },
+        {
+          "word": "being",
+          "start": 26.74,
+          "end": 26.96
+        },
+        {
+          "word": "important",
+          "start": 26.96,
+          "end": 27.28
+        },
+        {
+          "word": "parts",
+          "start": 27.28,
+          "end": 27.6
+        },
+        {
+          "word": "of",
+          "start": 27.6,
+          "end": 27.72
+        },
+        {
+          "word": "the",
+          "start": 27.72,
+          "end": 27.8
+        },
+        {
+          "word": "structures",
+          "start": 27.8,
+          "end": 28.1
+        },
+        {
+          "word": "in",
+          "start": 28.1,
+          "end": 28.3
+        },
+        {
+          "word": "which",
+          "start": 28.3,
+          "end": 28.46
+        },
+        {
+          "word": "I",
+          "start": 28.46,
+          "end": 28.6
+        },
+        {
+          "word": "was",
+          "start": 28.6,
+          "end": 28.76
+        },
+        {
+          "word": "raised.",
+          "start": 28.76,
+          "end": 29.16
+        },
+        {
+          "word": "There's",
+          "start": 29.94,
+          "end": 30.3
+        },
+        {
+          "word": "nothing",
+          "start": 30.3,
+          "end": 30.5
+        },
+        {
+          "word": "wrong",
+          "start": 30.5,
+          "end": 30.68
+        },
+        {
+          "word": "with",
+          "start": 30.68,
+          "end": 30.84
+        },
+        {
+          "word": "uniformity",
+          "start": 30.84,
+          "end": 31.34
+        },
+        {
+          "word": "for",
+          "start": 31.34,
+          "end": 31.48
+        },
+        {
+          "word": "many,",
+          "start": 31.48,
+          "end": 31.74
+        },
+        {
+          "word": "but",
+          "start": 32.02,
+          "end": 32.16
+        },
+        {
+          "word": "for",
+          "start": 32.16,
+          "end": 32.3
+        },
+        {
+          "word": "me",
+          "start": 32.3,
+          "end": 32.46
+        },
+        {
+          "word": "it",
+          "start": 32.46,
+          "end": 32.56
+        },
+        {
+          "word": "was",
+          "start": 32.56,
+          "end": 32.66
+        },
+        {
+          "word": "like",
+          "start": 32.66,
+          "end": 32.8
+        },
+        {
+          "word": "a",
+          "start": 32.8,
+          "end": 32.92
+        },
+        {
+          "word": "wool",
+          "start": 32.92,
+          "end": 33.08
+        },
+        {
+          "word": "coat",
+          "start": 33.08,
+          "end": 33.34
+        },
+        {
+          "word": "in",
+          "start": 33.34,
+          "end": 33.54
+        },
+        {
+          "word": "August.",
+          "start": 33.54,
+          "end": 33.74
+        },
+        {
+          "word": "I",
+          "start": 34.14,
+          "end": 34.2
+        },
+        {
+          "word": "was",
+          "start": 34.2,
+          "end": 34.3
+        },
+        {
+          "word": "ready",
+          "start": 34.3,
+          "end": 34.48
+        },
+        {
+          "word": "to",
+          "start": 34.48,
+          "end": 34.6
+        },
+        {
+          "word": "be",
+          "start": 34.6,
+          "end": 34.7
+        },
+        {
+          "word": "finished",
+          "start": 34.7,
+          "end": 34.94
+        },
+        {
+          "word": "with",
+          "start": 34.94,
+          "end": 35.16
+        },
+        {
+          "word": "all",
+          "start": 35.16,
+          "end": 35.32
+        },
+        {
+          "word": "of",
+          "start": 35.32,
+          "end": 35.46
+        },
+        {
+          "word": "it.",
+          "start": 35.46,
+          "end": 35.56
+        },
+        {
+          "word": "To",
+          "start": 35.84,
+          "end": 35.94
+        },
+        {
+          "word": "shed",
+          "start": 35.94,
+          "end": 36.12
+        },
+        {
+          "word": "that",
+          "start": 36.12,
+          "end": 36.32
+        },
+        {
+          "word": "coat",
+          "start": 36.32,
+          "end": 36.58
+        },
+        {
+          "word": "and",
+          "start": 36.58,
+          "end": 36.8
+        },
+        {
+          "word": "feel",
+          "start": 36.8,
+          "end": 36.98
+        },
+        {
+          "word": "the",
+          "start": 36.98,
+          "end": 37.12
+        },
+        {
+          "word": "fresh",
+          "start": 37.12,
+          "end": 37.34
+        },
+        {
+          "word": "breeze",
+          "start": 37.34,
+          "end": 37.62
+        },
+        {
+          "word": "I",
+          "start": 37.62,
+          "end": 37.84
+        },
+        {
+          "word": "knew",
+          "start": 37.84,
+          "end": 37.98
+        },
+        {
+          "word": "was",
+          "start": 37.98,
+          "end": 38.1
+        },
+        {
+          "word": "around",
+          "start": 38.1,
+          "end": 38.36
+        },
+        {
+          "word": "me",
+          "start": 38.36,
+          "end": 38.52
+        },
+        {
+          "word": "all",
+          "start": 38.52,
+          "end": 38.66
+        },
+        {
+          "word": "those",
+          "start": 38.66,
+          "end": 38.8
+        },
+        {
+          "word": "years.",
+          "start": 38.8,
+          "end": 39.1
+        },
+        {
+          "word": "I",
+          "start": 39.56,
+          "end": 39.66
+        },
+        {
+          "word": "knew",
+          "start": 39.66,
+          "end": 39.9
+        },
+        {
+          "word": "this",
+          "start": 39.9,
+          "end": 40.16
+        },
+        {
+          "word": "attitude",
+          "start": 40.16,
+          "end": 40.4
+        },
+        {
+          "word": "was",
+          "start": 40.4,
+          "end": 40.64
+        },
+        {
+          "word": "not",
+          "start": 40.64,
+          "end": 40.8
+        },
+        {
+          "word": "going",
+          "start": 40.8,
+          "end": 40.94
+        },
+        {
+          "word": "to",
+          "start": 40.94,
+          "end": 41.04
+        },
+        {
+          "word": "sit",
+          "start": 41.04,
+          "end": 41.14
+        },
+        {
+          "word": "well",
+          "start": 41.14,
+          "end": 41.32
+        },
+        {
+          "word": "with",
+          "start": 41.32,
+          "end": 41.44
+        },
+        {
+          "word": "my",
+          "start": 41.44,
+          "end": 41.54
+        },
+        {
+          "word": "parents",
+          "start": 41.54,
+          "end": 41.84
+        },
+        {
+          "word": "who",
+          "start": 41.84,
+          "end": 42.04
+        },
+        {
+          "word": "wanted",
+          "start": 42.04,
+          "end": 42.22
+        },
+        {
+          "word": "the",
+          "start": 42.22,
+          "end": 42.4
+        },
+        {
+          "word": "best",
+          "start": 42.4,
+          "end": 42.6
+        },
+        {
+          "word": "for",
+          "start": 42.6,
+          "end": 42.76
+        },
+        {
+          "word": "me",
+          "start": 42.76,
+          "end": 42.92
+        },
+        {
+          "word": "and",
+          "start": 42.92,
+          "end": 43.12
+        },
+        {
+          "word": "felt",
+          "start": 43.12,
+          "end": 43.28
+        },
+        {
+          "word": "college",
+          "start": 43.28,
+          "end": 43.7
+        },
+        {
+          "word": "was",
+          "start": 43.7,
+          "end": 43.9
+        },
+        {
+          "word": "of",
+          "start": 43.9,
+          "end": 44.06
+        },
+        {
+          "word": "absolute",
+          "start": 44.06,
+          "end": 44.46
+        },
+        {
+          "word": "importance.",
+          "start": 44.46,
+          "end": 45.0
+        },
+        {
+          "word": "Rather",
+          "start": 45.94,
+          "end": 46.16
+        },
+        {
+          "word": "than",
+          "start": 46.16,
+          "end": 46.34
+        },
+        {
+          "word": "refuse",
+          "start": 46.34,
+          "end": 46.58
+        },
+        {
+          "word": "to",
+          "start": 46.58,
+          "end": 46.82
+        },
+        {
+          "word": "go,",
+          "start": 46.82,
+          "end": 47.0
+        },
+        {
+          "word": "I",
+          "start": 47.38,
+          "end": 47.46
+        },
+        {
+          "word": "took",
+          "start": 47.46,
+          "end": 47.6
+        },
+        {
+          "word": "the",
+          "start": 47.6,
+          "end": 47.76
+        },
+        {
+          "word": "easy",
+          "start": 47.76,
+          "end": 47.94
+        },
+        {
+          "word": "way",
+          "start": 47.94,
+          "end": 48.12
+        },
+        {
+          "word": "out",
+          "start": 48.12,
+          "end": 48.28
+        },
+        {
+          "word": "and",
+          "start": 48.28,
+          "end": 48.4
+        },
+        {
+          "word": "enrolled,",
+          "start": 48.4,
+          "end": 48.66
+        },
+        {
+          "word": "I",
+          "start": 49.12,
+          "end": 49.24
+        },
+        {
+          "word": "just",
+          "start": 49.24,
+          "end": 49.34
+        },
+        {
+          "word": "checked",
+          "start": 49.34,
+          "end": 49.6
+        },
+        {
+          "word": "out",
+          "start": 49.6,
+          "end": 49.76
+        },
+        {
+          "word": "of",
+          "start": 49.76,
+          "end": 49.76
+        },
+        {
+          "word": "going",
+          "start": 49.76,
+          "end": 49.94
+        },
+        {
+          "word": "to",
+          "start": 49.94,
+          "end": 50.04
+        },
+        {
+          "word": "classes.",
+          "start": 50.04,
+          "end": 50.4
+        },
+        {
+          "word": "It",
+          "start": 50.98,
+          "end": 51.12
+        },
+        {
+          "word": "was",
+          "start": 51.12,
+          "end": 51.2
+        },
+        {
+          "word": "like",
+          "start": 51.2,
+          "end": 51.32
+        },
+        {
+          "word": "trying",
+          "start": 51.32,
+          "end": 51.52
+        },
+        {
+          "word": "to",
+          "start": 51.52,
+          "end": 51.66
+        },
+        {
+          "word": "break",
+          "start": 51.66,
+          "end": 51.8
+        },
+        {
+          "word": "up",
+          "start": 51.8,
+          "end": 51.98
+        },
+        {
+          "word": "with",
+          "start": 51.98,
+          "end": 52.08
+        },
+        {
+          "word": "a",
+          "start": 52.08,
+          "end": 52.14
+        },
+        {
+          "word": "girlfriend",
+          "start": 52.14,
+          "end": 52.46
+        },
+        {
+          "word": "you",
+          "start": 52.46,
+          "end": 52.66
+        },
+        {
+          "word": "know",
+          "start": 52.66,
+          "end": 52.78
+        },
+        {
+          "word": "is",
+          "start": 52.78,
+          "end": 52.92
+        },
+        {
+          "word": "not",
+          "start": 52.92,
+          "end": 53.08
+        },
+        {
+          "word": "the",
+          "start": 53.08,
+          "end": 53.22
+        },
+        {
+          "word": "one.",
+          "start": 53.22,
+          "end": 53.44
+        },
+        {
+          "word": "And",
+          "start": 54.1,
+          "end": 54.28
+        },
+        {
+          "word": "you",
+          "start": 54.28,
+          "end": 54.38
+        },
+        {
+          "word": "never",
+          "start": 54.38,
+          "end": 54.62
+        },
+        {
+          "word": "actually",
+          "start": 54.62,
+          "end": 54.92
+        },
+        {
+          "word": "talk",
+          "start": 54.92,
+          "end": 55.16
+        },
+        {
+          "word": "about",
+          "start": 55.16,
+          "end": 55.4
+        },
+        {
+          "word": "it",
+          "start": 55.4,
+          "end": 55.54
+        },
+        {
+          "word": "until",
+          "start": 55.54,
+          "end": 55.78
+        },
+        {
+          "word": "it",
+          "start": 55.78,
+          "end": 55.9
+        },
+        {
+          "word": "just",
+          "start": 55.9,
+          "end": 56.04
+        },
+        {
+          "word": "erupts",
+          "start": 56.04,
+          "end": 56.48
+        },
+        {
+          "word": "and",
+          "start": 56.48,
+          "end": 56.7
+        },
+        {
+          "word": "is",
+          "start": 56.7,
+          "end": 56.82
+        },
+        {
+          "word": "over.",
+          "start": 56.82,
+          "end": 57.06
+        },
+        {
+          "word": "Yeah,",
+          "start": 57.7,
+          "end": 57.9
+        },
+        {
+          "word": "a",
+          "start": 58.02,
+          "end": 58.06
+        },
+        {
+          "word": "lot",
+          "start": 58.06,
+          "end": 58.14
+        },
+        {
+          "word": "like",
+          "start": 58.14,
+          "end": 58.4
+        },
+        {
+          "word": "that.",
+          "start": 58.4,
+          "end": 58.56
+        },
+        {
+          "word": "Since",
+          "start": 59.3,
+          "end": 59.46
+        }
+      ]
+    },
+    {
+      "text": "Since I was not going to classes or taking tests, the professors were obligated to help me in my pursuit to be finished with “formal” education. D’s and F’s sealed the deal. I came home after my second straight semester of failing grades and went out partying with friends that first night. When I got in around 3 in the morning, Dad was not too pleased and let me know his feelings about me coming in so late. Bless his heart, I was not an easy child. Anyway, the house was alarmed and I was feeling like a caged cougar. I knew the second story windows were not alarmed, so I wrote Mom and Dad a quick note saying I had to go my own way, quietly opened the window, stepped onto the roof, and jumped down into the bushes below. I had nothing but a little over-the-shoulder bag with a few t-shirts and shorts to begin this journey. I spent a couple months couch surfing in Clifton with friends, dealing some pot and avoiding talking to my family who were growing increasingly concerned.",
+      "start": 59.46,
+      "end": 103.76,
+      "words": [
+        {
+          "word": "I",
+          "start": 59.46,
+          "end": 59.6
+        },
+        {
+          "word": "was",
+          "start": 59.6,
+          "end": 59.72
+        },
+        {
+          "word": "not",
+          "start": 59.72,
+          "end": 59.84
+        },
+        {
+          "word": "going",
+          "start": 59.84,
+          "end": 60.02
+        },
+        {
+          "word": "to",
+          "start": 60.02,
+          "end": 60.16
+        },
+        {
+          "word": "classes",
+          "start": 60.16,
+          "end": 60.44
+        },
+        {
+          "word": "or",
+          "start": 60.44,
+          "end": 60.66
+        },
+        {
+          "word": "taking",
+          "start": 60.66,
+          "end": 60.88
+        },
+        {
+          "word": "tests,",
+          "start": 60.88,
+          "end": 61.24
+        },
+        {
+          "word": "the",
+          "start": 61.66,
+          "end": 61.7
+        },
+        {
+          "word": "professors",
+          "start": 61.7,
+          "end": 62.04
+        },
+        {
+          "word": "were",
+          "start": 62.04,
+          "end": 62.24
+        },
+        {
+          "word": "obligated",
+          "start": 62.24,
+          "end": 62.74
+        },
+        {
+          "word": "to",
+          "start": 62.74,
+          "end": 62.86
+        },
+        {
+          "word": "help",
+          "start": 62.86,
+          "end": 62.98
+        },
+        {
+          "word": "me",
+          "start": 62.98,
+          "end": 63.14
+        },
+        {
+          "word": "in",
+          "start": 63.14,
+          "end": 63.18
+        },
+        {
+          "word": "my",
+          "start": 63.18,
+          "end": 63.28
+        },
+        {
+          "word": "pursuit",
+          "start": 63.28,
+          "end": 63.6
+        },
+        {
+          "word": "to",
+          "start": 63.6,
+          "end": 63.82
+        },
+        {
+          "word": "be",
+          "start": 63.82,
+          "end": 63.92
+        },
+        {
+          "word": "finished",
+          "start": 63.92,
+          "end": 64.16
+        },
+        {
+          "word": "with",
+          "start": 64.16,
+          "end": 64.36
+        },
+        {
+          "word": "formal",
+          "start": 64.36,
+          "end": 64.68
+        },
+        {
+          "word": "education.",
+          "start": 64.68,
+          "end": 65.24
+        },
+        {
+          "word": "Dees",
+          "start": 66.06,
+          "end": 66.36
+        },
+        {
+          "word": "and",
+          "start": 66.36,
+          "end": 66.48
+        },
+        {
+          "word": "F",
+          "start": 66.48,
+          "end": 66.62
+        },
+        {
+          "word": "sealed",
+          "start": 66.62,
+          "end": 66.94
+        },
+        {
+          "word": "the",
+          "start": 66.94,
+          "end": 67.1
+        },
+        {
+          "word": "deal.",
+          "start": 67.1,
+          "end": 67.32
+        },
+        {
+          "word": "I",
+          "start": 68.28,
+          "end": 68.36
+        },
+        {
+          "word": "came",
+          "start": 68.36,
+          "end": 68.54
+        },
+        {
+          "word": "home",
+          "start": 68.54,
+          "end": 68.78
+        },
+        {
+          "word": "after",
+          "start": 68.78,
+          "end": 69.04
+        },
+        {
+          "word": "my",
+          "start": 69.04,
+          "end": 69.16
+        },
+        {
+          "word": "second",
+          "start": 69.16,
+          "end": 69.4
+        },
+        {
+          "word": "straight",
+          "start": 69.4,
+          "end": 69.66
+        },
+        {
+          "word": "semester",
+          "start": 69.66,
+          "end": 69.94
+        },
+        {
+          "word": "of",
+          "start": 69.94,
+          "end": 70.26
+        },
+        {
+          "word": "failing",
+          "start": 70.26,
+          "end": 70.46
+        },
+        {
+          "word": "grades",
+          "start": 70.46,
+          "end": 70.8
+        },
+        {
+          "word": "and",
+          "start": 70.8,
+          "end": 71.0
+        },
+        {
+          "word": "went",
+          "start": 71.0,
+          "end": 71.12
+        },
+        {
+          "word": "out",
+          "start": 71.12,
+          "end": 71.28
+        },
+        {
+          "word": "partying",
+          "start": 71.28,
+          "end": 71.64
+        },
+        {
+          "word": "with",
+          "start": 71.64,
+          "end": 71.76
+        },
+        {
+          "word": "friends",
+          "start": 71.76,
+          "end": 72.0
+        },
+        {
+          "word": "that",
+          "start": 72.0,
+          "end": 72.16
+        },
+        {
+          "word": "first",
+          "start": 72.16,
+          "end": 72.38
+        },
+        {
+          "word": "night.",
+          "start": 72.38,
+          "end": 72.68
+        },
+        {
+          "word": "When",
+          "start": 73.14,
+          "end": 73.34
+        },
+        {
+          "word": "I",
+          "start": 73.34,
+          "end": 73.44
+        },
+        {
+          "word": "got",
+          "start": 73.44,
+          "end": 73.54
+        },
+        {
+          "word": "in",
+          "start": 73.54,
+          "end": 73.66
+        },
+        {
+          "word": "around",
+          "start": 73.66,
+          "end": 73.82
+        },
+        {
+          "word": "three",
+          "start": 73.82,
+          "end": 74.02
+        },
+        {
+          "word": "in",
+          "start": 74.02,
+          "end": 74.12
+        },
+        {
+          "word": "the",
+          "start": 74.12,
+          "end": 74.2
+        },
+        {
+          "word": "morning,",
+          "start": 74.2,
+          "end": 74.42
+        },
+        {
+          "word": "dad",
+          "start": 74.48,
+          "end": 74.68
+        },
+        {
+          "word": "was",
+          "start": 74.68,
+          "end": 74.82
+        },
+        {
+          "word": "not",
+          "start": 74.82,
+          "end": 74.98
+        },
+        {
+          "word": "too",
+          "start": 74.98,
+          "end": 75.18
+        },
+        {
+          "word": "pleased",
+          "start": 75.18,
+          "end": 75.5
+        },
+        {
+          "word": "and",
+          "start": 75.5,
+          "end": 75.68
+        },
+        {
+          "word": "let",
+          "start": 75.68,
+          "end": 75.8
+        },
+        {
+          "word": "me",
+          "start": 75.8,
+          "end": 75.9
+        },
+        {
+          "word": "know",
+          "start": 75.9,
+          "end": 76.04
+        },
+        {
+          "word": "his",
+          "start": 76.04,
+          "end": 76.18
+        },
+        {
+          "word": "feelings",
+          "start": 76.18,
+          "end": 76.4
+        },
+        {
+          "word": "about",
+          "start": 76.4,
+          "end": 76.68
+        },
+        {
+          "word": "me",
+          "start": 76.68,
+          "end": 76.82
+        },
+        {
+          "word": "coming",
+          "start": 76.82,
+          "end": 77.02
+        },
+        {
+          "word": "in",
+          "start": 77.02,
+          "end": 77.18
+        },
+        {
+          "word": "so",
+          "start": 77.18,
+          "end": 77.34
+        },
+        {
+          "word": "late.",
+          "start": 77.34,
+          "end": 77.56
+        },
+        {
+          "word": "Bless",
+          "start": 78.56,
+          "end": 78.8
+        },
+        {
+          "word": "his",
+          "start": 78.8,
+          "end": 79.0
+        },
+        {
+          "word": "heart,",
+          "start": 79.0,
+          "end": 79.18
+        },
+        {
+          "word": "I",
+          "start": 79.54,
+          "end": 79.62
+        },
+        {
+          "word": "was",
+          "start": 79.62,
+          "end": 79.76
+        },
+        {
+          "word": "not",
+          "start": 79.76,
+          "end": 79.9
+        },
+        {
+          "word": "an",
+          "start": 79.9,
+          "end": 80.02
+        },
+        {
+          "word": "easy",
+          "start": 80.02,
+          "end": 80.18
+        },
+        {
+          "word": "child.",
+          "start": 80.18,
+          "end": 80.54
+        },
+        {
+          "word": "Anyway,",
+          "start": 81.1,
+          "end": 81.4
+        },
+        {
+          "word": "the",
+          "start": 81.82,
+          "end": 82.0
+        },
+        {
+          "word": "house",
+          "start": 82.0,
+          "end": 82.14
+        },
+        {
+          "word": "was",
+          "start": 82.14,
+          "end": 82.32
+        },
+        {
+          "word": "alarmed",
+          "start": 82.32,
+          "end": 82.74
+        },
+        {
+          "word": "and",
+          "start": 82.74,
+          "end": 82.8
+        },
+        {
+          "word": "I",
+          "start": 82.8,
+          "end": 82.88
+        },
+        {
+          "word": "was",
+          "start": 82.88,
+          "end": 83.0
+        },
+        {
+          "word": "feeling",
+          "start": 83.0,
+          "end": 83.22
+        },
+        {
+          "word": "like",
+          "start": 83.22,
+          "end": 83.38
+        },
+        {
+          "word": "a",
+          "start": 83.38,
+          "end": 83.5
+        },
+        {
+          "word": "caged",
+          "start": 83.5,
+          "end": 83.82
+        },
+        {
+          "word": "cooter.",
+          "start": 83.82,
+          "end": 84.18
+        },
+        {
+          "word": "I",
+          "start": 84.7,
+          "end": 84.9
+        },
+        {
+          "word": "knew",
+          "start": 84.9,
+          "end": 85.0
+        },
+        {
+          "word": "the",
+          "start": 85.0,
+          "end": 85.14
+        },
+        {
+          "word": "second",
+          "start": 85.14,
+          "end": 85.34
+        },
+        {
+          "word": "story",
+          "start": 85.34,
+          "end": 85.58
+        },
+        {
+          "word": "windows",
+          "start": 85.58,
+          "end": 85.86
+        },
+        {
+          "word": "were",
+          "start": 85.86,
+          "end": 86.02
+        },
+        {
+          "word": "not",
+          "start": 86.02,
+          "end": 86.18
+        },
+        {
+          "word": "alarmed",
+          "start": 86.18,
+          "end": 86.62
+        },
+        {
+          "word": "so",
+          "start": 86.62,
+          "end": 86.78
+        },
+        {
+          "word": "I",
+          "start": 86.78,
+          "end": 86.86
+        },
+        {
+          "word": "wrote",
+          "start": 86.86,
+          "end": 86.98
+        },
+        {
+          "word": "mom",
+          "start": 86.98,
+          "end": 87.16
+        },
+        {
+          "word": "and",
+          "start": 87.16,
+          "end": 87.32
+        },
+        {
+          "word": "dad",
+          "start": 87.32,
+          "end": 87.44
+        },
+        {
+          "word": "a",
+          "start": 87.44,
+          "end": 87.54
+        },
+        {
+          "word": "quick",
+          "start": 87.54,
+          "end": 87.68
+        },
+        {
+          "word": "note",
+          "start": 87.68,
+          "end": 87.86
+        },
+        {
+          "word": "saying",
+          "start": 87.86,
+          "end": 88.12
+        },
+        {
+          "word": "I",
+          "start": 88.12,
+          "end": 88.24
+        },
+        {
+          "word": "had",
+          "start": 88.24,
+          "end": 88.38
+        },
+        {
+          "word": "to",
+          "start": 88.38,
+          "end": 88.48
+        },
+        {
+          "word": "go",
+          "start": 88.48,
+          "end": 88.6
+        },
+        {
+          "word": "my",
+          "start": 88.6,
+          "end": 88.78
+        },
+        {
+          "word": "own",
+          "start": 88.78,
+          "end": 88.94
+        },
+        {
+          "word": "way,",
+          "start": 88.94,
+          "end": 89.18
+        },
+        {
+          "word": "quietly",
+          "start": 89.66,
+          "end": 89.94
+        },
+        {
+          "word": "open",
+          "start": 89.94,
+          "end": 90.18
+        },
+        {
+          "word": "the",
+          "start": 90.18,
+          "end": 90.3
+        },
+        {
+          "word": "window,",
+          "start": 90.3,
+          "end": 90.6
+        },
+        {
+          "word": "stepped",
+          "start": 91.0,
+          "end": 91.2
+        },
+        {
+          "word": "onto",
+          "start": 91.2,
+          "end": 91.42
+        },
+        {
+          "word": "the",
+          "start": 91.42,
+          "end": 91.58
+        },
+        {
+          "word": "roof",
+          "start": 91.58,
+          "end": 91.76
+        },
+        {
+          "word": "and",
+          "start": 91.76,
+          "end": 92.28
+        },
+        {
+          "word": "jumped",
+          "start": 92.28,
+          "end": 92.52
+        },
+        {
+          "word": "down",
+          "start": 92.52,
+          "end": 92.76
+        },
+        {
+          "word": "into",
+          "start": 92.76,
+          "end": 92.96
+        },
+        {
+          "word": "the",
+          "start": 92.96,
+          "end": 93.08
+        },
+        {
+          "word": "bushes",
+          "start": 93.08,
+          "end": 93.32
+        },
+        {
+          "word": "below.",
+          "start": 93.32,
+          "end": 93.64
+        },
+        {
+          "word": "I",
+          "start": 94.46,
+          "end": 94.68
+        },
+        {
+          "word": "had",
+          "start": 94.68,
+          "end": 94.78
+        },
+        {
+          "word": "nothing",
+          "start": 94.78,
+          "end": 94.98
+        },
+        {
+          "word": "but",
+          "start": 94.98,
+          "end": 95.14
+        },
+        {
+          "word": "a",
+          "start": 95.14,
+          "end": 95.26
+        },
+        {
+          "word": "little",
+          "start": 95.26,
+          "end": 95.34
+        },
+        {
+          "word": "over",
+          "start": 95.34,
+          "end": 95.6
+        },
+        {
+          "word": "the",
+          "start": 95.6,
+          "end": 95.7
+        },
+        {
+          "word": "shoulder",
+          "start": 95.7,
+          "end": 95.92
+        },
+        {
+          "word": "bag",
+          "start": 95.92,
+          "end": 96.18
+        },
+        {
+          "word": "with",
+          "start": 96.18,
+          "end": 96.38
+        },
+        {
+          "word": "a",
+          "start": 96.38,
+          "end": 96.46
+        },
+        {
+          "word": "few",
+          "start": 96.46,
+          "end": 96.6
+        },
+        {
+          "word": "t",
+          "start": 96.6,
+          "end": 96.78
+        },
+        {
+          "word": "-shirts",
+          "start": 96.78,
+          "end": 96.94
+        },
+        {
+          "word": "and",
+          "start": 96.94,
+          "end": 97.14
+        },
+        {
+          "word": "shorts",
+          "start": 97.14,
+          "end": 97.32
+        },
+        {
+          "word": "to",
+          "start": 97.32,
+          "end": 97.54
+        },
+        {
+          "word": "begin",
+          "start": 97.54,
+          "end": 97.72
+        },
+        {
+          "word": "this",
+          "start": 97.72,
+          "end": 97.96
+        },
+        {
+          "word": "journey.",
+          "start": 97.96,
+          "end": 98.18
+        },
+        {
+          "word": "I",
+          "start": 98.74,
+          "end": 99.0
+        },
+        {
+          "word": "spent",
+          "start": 99.0,
+          "end": 99.12
+        },
+        {
+          "word": "a",
+          "start": 99.12,
+          "end": 99.22
+        },
+        {
+          "word": "couple",
+          "start": 99.22,
+          "end": 99.4
+        },
+        {
+          "word": "months",
+          "start": 99.4,
+          "end": 99.58
+        },
+        {
+          "word": "couch",
+          "start": 99.58,
+          "end": 99.86
+        },
+        {
+          "word": "surfing",
+          "start": 99.86,
+          "end": 100.12
+        },
+        {
+          "word": "and",
+          "start": 100.12,
+          "end": 100.34
+        },
+        {
+          "word": "clifting",
+          "start": 100.34,
+          "end": 100.64
+        },
+        {
+          "word": "with",
+          "start": 100.64,
+          "end": 100.84
+        },
+        {
+          "word": "friends,",
+          "start": 100.84,
+          "end": 101.14
+        },
+        {
+          "word": "dealing",
+          "start": 101.32,
+          "end": 101.44
+        },
+        {
+          "word": "some",
+          "start": 101.44,
+          "end": 101.68
+        },
+        {
+          "word": "pot",
+          "start": 101.68,
+          "end": 101.92
+        },
+        {
+          "word": "and",
+          "start": 101.92,
+          "end": 102.14
+        },
+        {
+          "word": "avoiding",
+          "start": 102.14,
+          "end": 102.36
+        },
+        {
+          "word": "talking",
+          "start": 102.36,
+          "end": 102.7
+        },
+        {
+          "word": "to",
+          "start": 102.7,
+          "end": 102.82
+        },
+        {
+          "word": "my",
+          "start": 102.82,
+          "end": 102.94
+        },
+        {
+          "word": "family",
+          "start": 102.94,
+          "end": 103.28
+        },
+        {
+          "word": "who",
+          "start": 103.28,
+          "end": 103.48
+        },
+        {
+          "word": "were",
+          "start": 103.48,
+          "end": 103.54
+        },
+        {
+          "word": "growing",
+          "start": 103.54,
+          "end": 103.76
+        }
+      ]
+    }
+  ]
+}

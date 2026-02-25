@@ -5,5 +5,12 @@
     "audio": "/audio/joe/who-am-i.mp3",
     "timestamps": "/audio/joe/who-am-i.json",
     "status": "ready"
+  },
+  {
+    "id": "dropping-out",
+    "title": "Dropping Out",
+    "audio": "/audio/joe/dropping-out.mp3",
+    "timestamps": "/audio/joe/dropping-out.json",
+    "status": "ready"
   }
 ]
