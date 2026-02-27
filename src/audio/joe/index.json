@@ -54,5 +54,12 @@
     "audio": "/audio/joe/off-the-grid.mp3",
     "timestamps": "/audio/joe/off-the-grid.json",
     "status": "ready"
+  },
+  {
+    "id": "coming-home",
+    "title": "Coming Home",
+    "audio": "/audio/joe/coming-home.mp3",
+    "timestamps": "/audio/joe/coming-home.json",
+    "status": "ready"
   }
 ]
