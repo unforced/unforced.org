@@ -1,0 +1,5212 @@
+{
+  "id": "laurie",
+  "title": "Laurie",
+  "audio": "/audio/joe/laurie.mp3",
+  "duration": 259.84,
+  "paragraphs": [
+    {
+      "text": "Laurie",
+      "start": 0.0,
+      "end": 0.3,
+      "words": [
+        {
+          "word": "Laurie.",
+          "start": 0.0,
+          "end": 0.3
+        }
+      ],
+      "is_title": true
+    },
+    {
+      "text": "We first met in August of 1986, Laurie and I. She came over with her friend, Robin, to a party at the apartment I shared with Suzy. Robin and her roommate, Meredith, were regular visitors but this was the first time I had met Laurie directly. We knew the same friends and would occasionally see each other around town or at parties but did not know each other well at this point. Our next “real” meeting was after Becky and I had moved back from Oregon. Laurie came to a party we threw at the Morning Sun organic farm in 1996. The next year, 1997, she began learning the Wu form Tai Chi I was teaching and joined our group of Monday night dancers. She was an exceptional student and had much passion for the dance; this was clear early on to me. For most students, Tai Chi was a nice weekly element in their life but did not extend outside of the class time into an actual daily practice. Laurie was clearly also practicing the form on her own time.",
+      "start": 0.8,
+      "end": 44.42,
+      "words": [
+        {
+          "word": "We",
+          "start": 0.8,
+          "end": 1.12
+        },
+        {
+          "word": "first",
+          "start": 1.12,
+          "end": 1.28
+        },
+        {
+          "word": "met",
+          "start": 1.28,
+          "end": 1.46
+        },
+        {
+          "word": "in",
+          "start": 1.46,
+          "end": 1.58
+        },
+        {
+          "word": "August",
+          "start": 1.58,
+          "end": 1.86
+        },
+        {
+          "word": "of",
+          "start": 1.86,
+          "end": 2.08
+        },
+        {
+          "word": "1986,",
+          "start": 2.08,
+          "end": 2.5
+        },
+        {
+          "word": "Laurie",
+          "start": 2.94,
+          "end": 3.08
+        },
+        {
+          "word": "and",
+          "start": 3.08,
+          "end": 3.2
+        },
+        {
+          "word": "I.",
+          "start": 3.2,
+          "end": 3.32
+        },
+        {
+          "word": "She",
+          "start": 3.5,
+          "end": 3.6
+        },
+        {
+          "word": "came",
+          "start": 3.6,
+          "end": 3.78
+        },
+        {
+          "word": "over",
+          "start": 3.78,
+          "end": 3.94
+        },
+        {
+          "word": "with",
+          "start": 3.94,
+          "end": 4.08
+        },
+        {
+          "word": "a",
+          "start": 4.08,
+          "end": 4.12
+        },
+        {
+          "word": "friend,",
+          "start": 4.12,
+          "end": 4.38
+        },
+        {
+          "word": "Robin,",
+          "start": 4.4,
+          "end": 4.64
+        },
+        {
+          "word": "to",
+          "start": 4.76,
+          "end": 4.82
+        },
+        {
+          "word": "a",
+          "start": 4.82,
+          "end": 4.9
+        },
+        {
+          "word": "party",
+          "start": 4.9,
+          "end": 5.12
+        },
+        {
+          "word": "at",
+          "start": 5.12,
+          "end": 5.28
+        },
+        {
+          "word": "the",
+          "start": 5.28,
+          "end": 5.32
+        },
+        {
+          "word": "apartment",
+          "start": 5.32,
+          "end": 5.52
+        },
+        {
+          "word": "I",
+          "start": 5.52,
+          "end": 5.74
+        },
+        {
+          "word": "shared",
+          "start": 5.74,
+          "end": 5.92
+        },
+        {
+          "word": "with",
+          "start": 5.92,
+          "end": 6.08
+        },
+        {
+          "word": "Susie.",
+          "start": 6.08,
+          "end": 6.46
+        },
+        {
+          "word": "Robin",
+          "start": 7.0,
+          "end": 7.26
+        },
+        {
+          "word": "and",
+          "start": 7.26,
+          "end": 7.4
+        },
+        {
+          "word": "her",
+          "start": 7.4,
+          "end": 7.48
+        },
+        {
+          "word": "roommate",
+          "start": 7.48,
+          "end": 7.78
+        },
+        {
+          "word": "Meredith",
+          "start": 7.78,
+          "end": 8.18
+        },
+        {
+          "word": "were",
+          "start": 8.18,
+          "end": 8.38
+        },
+        {
+          "word": "regular",
+          "start": 8.38,
+          "end": 8.64
+        },
+        {
+          "word": "visitors,",
+          "start": 8.64,
+          "end": 9.08
+        },
+        {
+          "word": "but",
+          "start": 9.5,
+          "end": 9.66
+        },
+        {
+          "word": "this",
+          "start": 9.66,
+          "end": 9.76
+        },
+        {
+          "word": "was",
+          "start": 9.76,
+          "end": 9.86
+        },
+        {
+          "word": "the",
+          "start": 9.86,
+          "end": 9.96
+        },
+        {
+          "word": "first",
+          "start": 9.96,
+          "end": 10.16
+        },
+        {
+          "word": "time",
+          "start": 10.16,
+          "end": 10.32
+        },
+        {
+          "word": "I",
+          "start": 10.32,
+          "end": 10.44
+        },
+        {
+          "word": "had",
+          "start": 10.44,
+          "end": 10.52
+        },
+        {
+          "word": "met",
+          "start": 10.52,
+          "end": 10.62
+        },
+        {
+          "word": "Laurie",
+          "start": 10.62,
+          "end": 10.8
+        },
+        {
+          "word": "directly.",
+          "start": 10.8,
+          "end": 11.24
+        },
+        {
+          "word": "We",
+          "start": 11.86,
+          "end": 12.14
+        },
+        {
+          "word": "knew",
+          "start": 12.14,
+          "end": 12.24
+        },
+        {
+          "word": "the",
+          "start": 12.24,
+          "end": 12.36
+        },
+        {
+          "word": "same",
+          "start": 12.36,
+          "end": 12.54
+        },
+        {
+          "word": "friends",
+          "start": 12.54,
+          "end": 12.9
+        },
+        {
+          "word": "and",
+          "start": 12.9,
+          "end": 13.12
+        },
+        {
+          "word": "would",
+          "start": 13.12,
+          "end": 13.2
+        },
+        {
+          "word": "occasionally",
+          "start": 13.2,
+          "end": 13.58
+        },
+        {
+          "word": "see",
+          "start": 13.58,
+          "end": 13.88
+        },
+        {
+          "word": "each",
+          "start": 13.88,
+          "end": 14.06
+        },
+        {
+          "word": "other",
+          "start": 14.06,
+          "end": 14.2
+        },
+        {
+          "word": "around",
+          "start": 14.2,
+          "end": 14.42
+        },
+        {
+          "word": "town",
+          "start": 14.42,
+          "end": 14.7
+        },
+        {
+          "word": "or",
+          "start": 14.7,
+          "end": 14.9
+        },
+        {
+          "word": "at",
+          "start": 14.9,
+          "end": 14.98
+        },
+        {
+          "word": "parties",
+          "start": 14.98,
+          "end": 15.26
+        },
+        {
+          "word": "but",
+          "start": 15.26,
+          "end": 15.46
+        },
+        {
+          "word": "did",
+          "start": 15.46,
+          "end": 15.58
+        },
+        {
+          "word": "not",
+          "start": 15.58,
+          "end": 15.74
+        },
+        {
+          "word": "know",
+          "start": 15.74,
+          "end": 15.92
+        },
+        {
+          "word": "each",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "word": "other",
+          "start": 16.08,
+          "end": 16.22
+        },
+        {
+          "word": "well",
+          "start": 16.22,
+          "end": 16.42
+        },
+        {
+          "word": "at",
+          "start": 16.42,
+          "end": 16.54
+        },
+        {
+          "word": "this",
+          "start": 16.54,
+          "end": 16.66
+        },
+        {
+          "word": "point.",
+          "start": 16.66,
+          "end": 16.88
+        },
+        {
+          "word": "Our",
+          "start": 17.66,
+          "end": 17.88
+        },
+        {
+          "word": "next",
+          "start": 17.88,
+          "end": 18.06
+        },
+        {
+          "word": "real",
+          "start": 18.06,
+          "end": 18.32
+        },
+        {
+          "word": "meeting",
+          "start": 18.32,
+          "end": 18.58
+        },
+        {
+          "word": "was",
+          "start": 18.58,
+          "end": 18.76
+        },
+        {
+          "word": "after",
+          "start": 18.76,
+          "end": 19.02
+        },
+        {
+          "word": "Becky",
+          "start": 19.02,
+          "end": 19.24
+        },
+        {
+          "word": "and",
+          "start": 19.24,
+          "end": 19.4
+        },
+        {
+          "word": "I",
+          "start": 19.4,
+          "end": 19.5
+        },
+        {
+          "word": "had",
+          "start": 19.5,
+          "end": 19.6
+        },
+        {
+          "word": "moved",
+          "start": 19.6,
+          "end": 19.74
+        },
+        {
+          "word": "back",
+          "start": 19.74,
+          "end": 20.0
+        },
+        {
+          "word": "from",
+          "start": 20.0,
+          "end": 20.22
+        },
+        {
+          "word": "Oregon.",
+          "start": 20.22,
+          "end": 20.52
+        },
+        {
+          "word": "Laurie",
+          "start": 21.2,
+          "end": 21.38
+        },
+        {
+          "word": "came",
+          "start": 21.38,
+          "end": 21.58
+        },
+        {
+          "word": "to",
+          "start": 21.58,
+          "end": 21.72
+        },
+        {
+          "word": "a",
+          "start": 21.72,
+          "end": 21.82
+        },
+        {
+          "word": "party",
+          "start": 21.82,
+          "end": 22.08
+        },
+        {
+          "word": "we",
+          "start": 22.08,
+          "end": 22.22
+        },
+        {
+          "word": "threw",
+          "start": 22.22,
+          "end": 22.38
+        },
+        {
+          "word": "with",
+          "start": 22.38,
+          "end": 22.52
+        },
+        {
+          "word": "the",
+          "start": 22.52,
+          "end": 22.58
+        },
+        {
+          "word": "Morning",
+          "start": 22.58,
+          "end": 22.76
+        },
+        {
+          "word": "Sun",
+          "start": 22.76,
+          "end": 22.98
+        },
+        {
+          "word": "Organic",
+          "start": 22.98,
+          "end": 23.46
+        },
+        {
+          "word": "Farm",
+          "start": 23.46,
+          "end": 23.64
+        },
+        {
+          "word": "in",
+          "start": 23.64,
+          "end": 23.82
+        },
+        {
+          "word": "1996.",
+          "start": 23.82,
+          "end": 24.54
+        },
+        {
+          "word": "The",
+          "start": 25.26,
+          "end": 25.32
+        },
+        {
+          "word": "next",
+          "start": 25.32,
+          "end": 25.5
+        },
+        {
+          "word": "year",
+          "start": 25.5,
+          "end": 25.68
+        },
+        {
+          "word": "in",
+          "start": 25.68,
+          "end": 25.8
+        },
+        {
+          "word": "1997,",
+          "start": 25.8,
+          "end": 26.3
+        },
+        {
+          "word": "she",
+          "start": 26.3,
+          "end": 26.76
+        },
+        {
+          "word": "began",
+          "start": 26.76,
+          "end": 27.02
+        },
+        {
+          "word": "learning",
+          "start": 27.02,
+          "end": 27.32
+        },
+        {
+          "word": "the",
+          "start": 27.32,
+          "end": 27.52
+        },
+        {
+          "word": "woof",
+          "start": 27.52,
+          "end": 27.86
+        },
+        {
+          "word": "form,",
+          "start": 27.86,
+          "end": 28.0
+        },
+        {
+          "word": "Tai",
+          "start": 28.34,
+          "end": 28.48
+        },
+        {
+          "word": "Chi.",
+          "start": 28.48,
+          "end": 28.68
+        },
+        {
+          "word": "I",
+          "start": 29.16,
+          "end": 29.52
+        },
+        {
+          "word": "was",
+          "start": 29.52,
+          "end": 29.64
+        },
+        {
+          "word": "teaching",
+          "start": 29.64,
+          "end": 29.96
+        },
+        {
+          "word": "and",
+          "start": 29.96,
+          "end": 30.16
+        },
+        {
+          "word": "joined",
+          "start": 30.16,
+          "end": 30.36
+        },
+        {
+          "word": "our",
+          "start": 30.36,
+          "end": 30.5
+        },
+        {
+          "word": "group",
+          "start": 30.5,
+          "end": 30.66
+        },
+        {
+          "word": "of",
+          "start": 30.66,
+          "end": 30.78
+        },
+        {
+          "word": "Monday",
+          "start": 30.78,
+          "end": 31.0
+        },
+        {
+          "word": "Night",
+          "start": 31.0,
+          "end": 31.14
+        },
+        {
+          "word": "dancers.",
+          "start": 31.14,
+          "end": 31.56
+        },
+        {
+          "word": "She",
+          "start": 31.94,
+          "end": 32.04
+        },
+        {
+          "word": "was",
+          "start": 32.04,
+          "end": 32.14
+        },
+        {
+          "word": "an",
+          "start": 32.14,
+          "end": 32.22
+        },
+        {
+          "word": "exceptional",
+          "start": 32.22,
+          "end": 32.62
+        },
+        {
+          "word": "student",
+          "start": 32.62,
+          "end": 33.04
+        },
+        {
+          "word": "and",
+          "start": 33.04,
+          "end": 33.18
+        },
+        {
+          "word": "had",
+          "start": 33.18,
+          "end": 33.26
+        },
+        {
+          "word": "much",
+          "start": 33.26,
+          "end": 33.52
+        },
+        {
+          "word": "passion",
+          "start": 33.52,
+          "end": 33.92
+        },
+        {
+          "word": "for",
+          "start": 33.92,
+          "end": 34.1
+        },
+        {
+          "word": "the",
+          "start": 34.1,
+          "end": 34.22
+        },
+        {
+          "word": "dance.",
+          "start": 34.22,
+          "end": 34.42
+        },
+        {
+          "word": "This",
+          "start": 34.62,
+          "end": 34.68
+        },
+        {
+          "word": "was",
+          "start": 34.68,
+          "end": 34.82
+        },
+        {
+          "word": "clear",
+          "start": 34.82,
+          "end": 35.08
+        },
+        {
+          "word": "early",
+          "start": 35.08,
+          "end": 35.36
+        },
+        {
+          "word": "on",
+          "start": 35.36,
+          "end": 35.56
+        },
+        {
+          "word": "to",
+          "start": 35.56,
+          "end": 35.72
+        },
+        {
+          "word": "me.",
+          "start": 35.72,
+          "end": 35.86
+        },
+        {
+          "word": "For",
+          "start": 36.36,
+          "end": 36.42
+        },
+        {
+          "word": "most",
+          "start": 36.42,
+          "end": 36.58
+        },
+        {
+          "word": "students,",
+          "start": 36.58,
+          "end": 36.88
+        },
+        {
+          "word": "Tai",
+          "start": 37.06,
+          "end": 37.16
+        },
+        {
+          "word": "Chi",
+          "start": 37.16,
+          "end": 37.3
+        },
+        {
+          "word": "was",
+          "start": 37.3,
+          "end": 37.44
+        },
+        {
+          "word": "a",
+          "start": 37.44,
+          "end": 37.54
+        },
+        {
+          "word": "nice,",
+          "start": 37.54,
+          "end": 37.7
+        },
+        {
+          "word": "weekly",
+          "start": 37.88,
+          "end": 38.1
+        },
+        {
+          "word": "element",
+          "start": 38.1,
+          "end": 38.36
+        },
+        {
+          "word": "in",
+          "start": 38.36,
+          "end": 38.52
+        },
+        {
+          "word": "her",
+          "start": 38.52,
+          "end": 38.64
+        },
+        {
+          "word": "life",
+          "start": 38.64,
+          "end": 38.82
+        },
+        {
+          "word": "but",
+          "start": 38.82,
+          "end": 39.0
+        },
+        {
+          "word": "did",
+          "start": 39.0,
+          "end": 39.12
+        },
+        {
+          "word": "not",
+          "start": 39.12,
+          "end": 39.26
+        },
+        {
+          "word": "extend",
+          "start": 39.26,
+          "end": 39.5
+        },
+        {
+          "word": "outside",
+          "start": 39.5,
+          "end": 39.84
+        },
+        {
+          "word": "of",
+          "start": 39.84,
+          "end": 40.0
+        },
+        {
+          "word": "the",
+          "start": 40.0,
+          "end": 40.04
+        },
+        {
+          "word": "class",
+          "start": 40.04,
+          "end": 40.24
+        },
+        {
+          "word": "time",
+          "start": 40.24,
+          "end": 40.46
+        },
+        {
+          "word": "into",
+          "start": 40.46,
+          "end": 40.68
+        },
+        {
+          "word": "an",
+          "start": 40.68,
+          "end": 40.78
+        },
+        {
+          "word": "actual",
+          "start": 40.78,
+          "end": 41.08
+        },
+        {
+          "word": "daily",
+          "start": 41.08,
+          "end": 41.28
+        },
+        {
+          "word": "practice.",
+          "start": 41.28,
+          "end": 41.76
+        },
+        {
+          "word": "Laurie",
+          "start": 42.42,
+          "end": 42.6
+        },
+        {
+          "word": "was",
+          "start": 42.6,
+          "end": 42.74
+        },
+        {
+          "word": "clearly",
+          "start": 42.74,
+          "end": 42.98
+        },
+        {
+          "word": "also",
+          "start": 42.98,
+          "end": 43.24
+        },
+        {
+          "word": "practicing",
+          "start": 43.24,
+          "end": 43.6
+        },
+        {
+          "word": "the",
+          "start": 43.6,
+          "end": 43.84
+        },
+        {
+          "word": "form",
+          "start": 43.84,
+          "end": 44.04
+        },
+        {
+          "word": "on",
+          "start": 44.04,
+          "end": 44.22
+        },
+        {
+          "word": "her",
+          "start": 44.22,
+          "end": 44.28
+        },
+        {
+          "word": "own",
+          "start": 44.28,
+          "end": 44.42
+        }
+      ]
+    },
+    {
+      "text": "When the next Monday came around, she was well versed in the previous week’s moves. This only happens with a commitment and dedication born of interest. For a teacher, nothing more is needed than to see a candle self-ignite and burn of its own accord. I knew she would have this understanding for life as she had made it her own in the practicing of it. When Becky was first diagnosed in 1998, Laurie was one of the first to know. She worked at a local restaurant near the hospital, and Becky and I would stop there occasionally for lunch when we were down for her testing, treatments, etc. We all continued to deepen our friendship over the next few years. Becky and I would go see Laurie performing at her music gigs in Oxford and sometimes down to Cincinnati. Laurie, Becky, and a few other women went on a New York City trip together in 2002, though Laurie self-deprecatingly says she was a “bit part” in the women’s movement around Becky. She was close in the circle that surrounded me and Becky with so much love in a difficult time.",
+      "start": 44.42,
+      "end": 92.58,
+      "words": [
+        {
+          "word": "time.",
+          "start": 44.42,
+          "end": 44.72
+        },
+        {
+          "word": "When",
+          "start": 45.38,
+          "end": 45.54
+        },
+        {
+          "word": "the",
+          "start": 45.54,
+          "end": 45.64
+        },
+        {
+          "word": "next",
+          "start": 45.64,
+          "end": 45.8
+        },
+        {
+          "word": "Monday",
+          "start": 45.8,
+          "end": 46.08
+        },
+        {
+          "word": "came",
+          "start": 46.08,
+          "end": 46.32
+        },
+        {
+          "word": "around,",
+          "start": 46.32,
+          "end": 46.62
+        },
+        {
+          "word": "she",
+          "start": 46.8,
+          "end": 46.84
+        },
+        {
+          "word": "was",
+          "start": 46.84,
+          "end": 46.98
+        },
+        {
+          "word": "well",
+          "start": 46.98,
+          "end": 47.16
+        },
+        {
+          "word": "versed",
+          "start": 47.16,
+          "end": 47.5
+        },
+        {
+          "word": "in",
+          "start": 47.5,
+          "end": 47.6
+        },
+        {
+          "word": "the",
+          "start": 47.6,
+          "end": 47.66
+        },
+        {
+          "word": "previous",
+          "start": 47.66,
+          "end": 47.9
+        },
+        {
+          "word": "week's",
+          "start": 47.9,
+          "end": 48.3
+        },
+        {
+          "word": "moves.",
+          "start": 48.3,
+          "end": 48.56
+        },
+        {
+          "word": "This",
+          "start": 49.2,
+          "end": 49.3
+        },
+        {
+          "word": "only",
+          "start": 49.3,
+          "end": 49.52
+        },
+        {
+          "word": "happens",
+          "start": 49.52,
+          "end": 49.82
+        },
+        {
+          "word": "with",
+          "start": 49.82,
+          "end": 50.0
+        },
+        {
+          "word": "a",
+          "start": 50.0,
+          "end": 50.06
+        },
+        {
+          "word": "commitment",
+          "start": 50.06,
+          "end": 50.34
+        },
+        {
+          "word": "and",
+          "start": 50.34,
+          "end": 50.58
+        },
+        {
+          "word": "dedication",
+          "start": 50.58,
+          "end": 50.92
+        },
+        {
+          "word": "more",
+          "start": 50.92,
+          "end": 51.28
+        },
+        {
+          "word": "in",
+          "start": 51.28,
+          "end": 51.38
+        },
+        {
+          "word": "of",
+          "start": 51.38,
+          "end": 51.46
+        },
+        {
+          "word": "interest.",
+          "start": 51.46,
+          "end": 51.74
+        },
+        {
+          "word": "For",
+          "start": 52.46,
+          "end": 52.62
+        },
+        {
+          "word": "a",
+          "start": 52.62,
+          "end": 52.74
+        },
+        {
+          "word": "teacher,",
+          "start": 52.74,
+          "end": 53.0
+        },
+        {
+          "word": "nothing",
+          "start": 53.12,
+          "end": 53.3
+        },
+        {
+          "word": "more",
+          "start": 53.3,
+          "end": 53.52
+        },
+        {
+          "word": "is",
+          "start": 53.52,
+          "end": 53.66
+        },
+        {
+          "word": "needed",
+          "start": 53.66,
+          "end": 53.88
+        },
+        {
+          "word": "than",
+          "start": 53.88,
+          "end": 54.06
+        },
+        {
+          "word": "to",
+          "start": 54.06,
+          "end": 54.16
+        },
+        {
+          "word": "see",
+          "start": 54.16,
+          "end": 54.34
+        },
+        {
+          "word": "a",
+          "start": 54.34,
+          "end": 54.44
+        },
+        {
+          "word": "candle",
+          "start": 54.44,
+          "end": 54.72
+        },
+        {
+          "word": "self",
+          "start": 54.72,
+          "end": 55.0
+        },
+        {
+          "word": "-ignite",
+          "start": 55.0,
+          "end": 55.36
+        },
+        {
+          "word": "and",
+          "start": 55.36,
+          "end": 55.82
+        },
+        {
+          "word": "burn",
+          "start": 55.82,
+          "end": 56.02
+        },
+        {
+          "word": "of",
+          "start": 56.02,
+          "end": 56.16
+        },
+        {
+          "word": "its",
+          "start": 56.16,
+          "end": 56.32
+        },
+        {
+          "word": "own",
+          "start": 56.32,
+          "end": 56.46
+        },
+        {
+          "word": "accord.",
+          "start": 56.46,
+          "end": 56.74
+        },
+        {
+          "word": "I",
+          "start": 58.68,
+          "end": 58.88
+        },
+        {
+          "word": "knew",
+          "start": 58.88,
+          "end": 59.02
+        },
+        {
+          "word": "she",
+          "start": 59.02,
+          "end": 59.2
+        },
+        {
+          "word": "would",
+          "start": 59.2,
+          "end": 59.32
+        },
+        {
+          "word": "have",
+          "start": 59.32,
+          "end": 59.46
+        },
+        {
+          "word": "this",
+          "start": 59.46,
+          "end": 59.62
+        },
+        {
+          "word": "understanding",
+          "start": 59.62,
+          "end": 60.06
+        },
+        {
+          "word": "for",
+          "start": 60.06,
+          "end": 60.32
+        },
+        {
+          "word": "life,",
+          "start": 60.32,
+          "end": 60.62
+        },
+        {
+          "word": "as",
+          "start": 60.98,
+          "end": 61.12
+        },
+        {
+          "word": "she",
+          "start": 61.12,
+          "end": 61.28
+        },
+        {
+          "word": "had",
+          "start": 61.28,
+          "end": 61.36
+        },
+        {
+          "word": "made",
+          "start": 61.36,
+          "end": 61.48
+        },
+        {
+          "word": "it",
+          "start": 61.48,
+          "end": 61.62
+        },
+        {
+          "word": "her",
+          "start": 61.62,
+          "end": 61.74
+        },
+        {
+          "word": "own",
+          "start": 61.74,
+          "end": 61.9
+        },
+        {
+          "word": "in",
+          "start": 61.9,
+          "end": 62.02
+        },
+        {
+          "word": "the",
+          "start": 62.02,
+          "end": 62.1
+        },
+        {
+          "word": "practicing",
+          "start": 62.1,
+          "end": 62.44
+        },
+        {
+          "word": "of",
+          "start": 62.44,
+          "end": 62.7
+        },
+        {
+          "word": "it.",
+          "start": 62.7,
+          "end": 62.96
+        },
+        {
+          "word": "When",
+          "start": 63.42,
+          "end": 63.5
+        },
+        {
+          "word": "Becky",
+          "start": 63.5,
+          "end": 63.68
+        },
+        {
+          "word": "was",
+          "start": 63.68,
+          "end": 63.88
+        },
+        {
+          "word": "first",
+          "start": 63.88,
+          "end": 64.06
+        },
+        {
+          "word": "diagnosed",
+          "start": 64.06,
+          "end": 64.44
+        },
+        {
+          "word": "in",
+          "start": 64.44,
+          "end": 64.7
+        },
+        {
+          "word": "1998,",
+          "start": 64.7,
+          "end": 65.3
+        },
+        {
+          "word": "Laurie",
+          "start": 65.48,
+          "end": 65.58
+        },
+        {
+          "word": "was",
+          "start": 65.58,
+          "end": 65.8
+        },
+        {
+          "word": "one",
+          "start": 65.8,
+          "end": 65.98
+        },
+        {
+          "word": "of",
+          "start": 65.98,
+          "end": 66.02
+        },
+        {
+          "word": "the",
+          "start": 66.02,
+          "end": 66.12
+        },
+        {
+          "word": "first",
+          "start": 66.12,
+          "end": 66.3
+        },
+        {
+          "word": "to",
+          "start": 66.3,
+          "end": 66.48
+        },
+        {
+          "word": "know.",
+          "start": 66.48,
+          "end": 66.66
+        },
+        {
+          "word": "She",
+          "start": 67.12,
+          "end": 67.36
+        },
+        {
+          "word": "worked",
+          "start": 67.36,
+          "end": 67.5
+        },
+        {
+          "word": "at",
+          "start": 67.5,
+          "end": 67.6
+        },
+        {
+          "word": "a",
+          "start": 67.6,
+          "end": 67.68
+        },
+        {
+          "word": "local",
+          "start": 67.68,
+          "end": 67.82
+        },
+        {
+          "word": "restaurant",
+          "start": 67.82,
+          "end": 68.2
+        },
+        {
+          "word": "near",
+          "start": 68.2,
+          "end": 68.48
+        },
+        {
+          "word": "the",
+          "start": 68.48,
+          "end": 68.6
+        },
+        {
+          "word": "hospital",
+          "start": 68.6,
+          "end": 68.98
+        },
+        {
+          "word": "and",
+          "start": 68.98,
+          "end": 69.16
+        },
+        {
+          "word": "Becky",
+          "start": 69.16,
+          "end": 69.36
+        },
+        {
+          "word": "and",
+          "start": 69.36,
+          "end": 69.46
+        },
+        {
+          "word": "I",
+          "start": 69.46,
+          "end": 69.54
+        },
+        {
+          "word": "would",
+          "start": 69.54,
+          "end": 69.64
+        },
+        {
+          "word": "stop",
+          "start": 69.64,
+          "end": 69.82
+        },
+        {
+          "word": "there",
+          "start": 69.82,
+          "end": 70.02
+        },
+        {
+          "word": "occasionally",
+          "start": 70.02,
+          "end": 70.38
+        },
+        {
+          "word": "for",
+          "start": 70.38,
+          "end": 70.58
+        },
+        {
+          "word": "lunch",
+          "start": 70.58,
+          "end": 70.82
+        },
+        {
+          "word": "when",
+          "start": 70.82,
+          "end": 71.0
+        },
+        {
+          "word": "we",
+          "start": 71.0,
+          "end": 71.12
+        },
+        {
+          "word": "were",
+          "start": 71.12,
+          "end": 71.12
+        },
+        {
+          "word": "down",
+          "start": 71.12,
+          "end": 71.34
+        },
+        {
+          "word": "for",
+          "start": 71.34,
+          "end": 71.5
+        },
+        {
+          "word": "her",
+          "start": 71.5,
+          "end": 71.56
+        },
+        {
+          "word": "testing",
+          "start": 71.56,
+          "end": 71.86
+        },
+        {
+          "word": "treatments,",
+          "start": 71.86,
+          "end": 72.32
+        },
+        {
+          "word": "etc.",
+          "start": 72.58,
+          "end": 72.68
+        },
+        {
+          "word": "We",
+          "start": 73.24,
+          "end": 73.4
+        },
+        {
+          "word": "all",
+          "start": 73.4,
+          "end": 73.48
+        },
+        {
+          "word": "continued",
+          "start": 73.48,
+          "end": 73.82
+        },
+        {
+          "word": "to",
+          "start": 73.82,
+          "end": 74.06
+        },
+        {
+          "word": "deepen",
+          "start": 74.06,
+          "end": 74.24
+        },
+        {
+          "word": "our",
+          "start": 74.24,
+          "end": 74.42
+        },
+        {
+          "word": "friendship",
+          "start": 74.42,
+          "end": 74.76
+        },
+        {
+          "word": "over",
+          "start": 74.76,
+          "end": 74.96
+        },
+        {
+          "word": "the",
+          "start": 74.96,
+          "end": 75.08
+        },
+        {
+          "word": "next",
+          "start": 75.08,
+          "end": 75.22
+        },
+        {
+          "word": "few",
+          "start": 75.22,
+          "end": 75.4
+        },
+        {
+          "word": "years.",
+          "start": 75.4,
+          "end": 75.72
+        },
+        {
+          "word": "Becky",
+          "start": 76.12,
+          "end": 76.38
+        },
+        {
+          "word": "and",
+          "start": 76.38,
+          "end": 76.52
+        },
+        {
+          "word": "I",
+          "start": 76.52,
+          "end": 76.62
+        },
+        {
+          "word": "would",
+          "start": 76.62,
+          "end": 76.76
+        },
+        {
+          "word": "go",
+          "start": 76.76,
+          "end": 76.86
+        },
+        {
+          "word": "see",
+          "start": 76.86,
+          "end": 77.04
+        },
+        {
+          "word": "Laurie",
+          "start": 77.04,
+          "end": 77.28
+        },
+        {
+          "word": "performing",
+          "start": 77.28,
+          "end": 77.68
+        },
+        {
+          "word": "at",
+          "start": 77.68,
+          "end": 77.86
+        },
+        {
+          "word": "a",
+          "start": 77.86,
+          "end": 77.92
+        },
+        {
+          "word": "music",
+          "start": 77.92,
+          "end": 78.14
+        },
+        {
+          "word": "gigs",
+          "start": 78.14,
+          "end": 78.4
+        },
+        {
+          "word": "in",
+          "start": 78.4,
+          "end": 78.58
+        },
+        {
+          "word": "Oxford",
+          "start": 78.58,
+          "end": 78.88
+        },
+        {
+          "word": "and",
+          "start": 78.88,
+          "end": 79.1
+        },
+        {
+          "word": "sometimes",
+          "start": 79.1,
+          "end": 79.38
+        },
+        {
+          "word": "down",
+          "start": 79.38,
+          "end": 79.64
+        },
+        {
+          "word": "to",
+          "start": 79.64,
+          "end": 79.78
+        },
+        {
+          "word": "Cincinnati.",
+          "start": 79.78,
+          "end": 80.12
+        },
+        {
+          "word": "Laurie,",
+          "start": 80.96,
+          "end": 81.2
+        },
+        {
+          "word": "Becky",
+          "start": 81.42,
+          "end": 81.66
+        },
+        {
+          "word": "and",
+          "start": 81.66,
+          "end": 81.82
+        },
+        {
+          "word": "a",
+          "start": 81.82,
+          "end": 81.88
+        },
+        {
+          "word": "few",
+          "start": 81.88,
+          "end": 81.98
+        },
+        {
+          "word": "other",
+          "start": 81.98,
+          "end": 82.16
+        },
+        {
+          "word": "women",
+          "start": 82.16,
+          "end": 82.4
+        },
+        {
+          "word": "went",
+          "start": 82.4,
+          "end": 82.58
+        },
+        {
+          "word": "on",
+          "start": 82.58,
+          "end": 82.7
+        },
+        {
+          "word": "a",
+          "start": 82.7,
+          "end": 82.78
+        },
+        {
+          "word": "New",
+          "start": 82.78,
+          "end": 82.9
+        },
+        {
+          "word": "York",
+          "start": 82.9,
+          "end": 83.04
+        },
+        {
+          "word": "City",
+          "start": 83.04,
+          "end": 83.26
+        },
+        {
+          "word": "trip",
+          "start": 83.26,
+          "end": 83.5
+        },
+        {
+          "word": "together",
+          "start": 83.5,
+          "end": 83.76
+        },
+        {
+          "word": "in",
+          "start": 83.76,
+          "end": 83.92
+        },
+        {
+          "word": "2002.",
+          "start": 83.92,
+          "end": 84.6
+        },
+        {
+          "word": "Though",
+          "start": 85.08,
+          "end": 85.48
+        },
+        {
+          "word": "Laurie",
+          "start": 85.48,
+          "end": 85.78
+        },
+        {
+          "word": "self",
+          "start": 85.78,
+          "end": 86.14
+        },
+        {
+          "word": "-deprecatingly",
+          "start": 86.14,
+          "end": 86.76
+        },
+        {
+          "word": "says",
+          "start": 86.76,
+          "end": 87.0
+        },
+        {
+          "word": "she",
+          "start": 87.0,
+          "end": 87.2
+        },
+        {
+          "word": "was",
+          "start": 87.2,
+          "end": 87.34
+        },
+        {
+          "word": "a",
+          "start": 87.34,
+          "end": 87.44
+        },
+        {
+          "word": "bit",
+          "start": 87.44,
+          "end": 87.52
+        },
+        {
+          "word": "part",
+          "start": 87.52,
+          "end": 87.82
+        },
+        {
+          "word": "in",
+          "start": 87.82,
+          "end": 88.2
+        },
+        {
+          "word": "the",
+          "start": 88.2,
+          "end": 88.28
+        },
+        {
+          "word": "women's",
+          "start": 88.28,
+          "end": 88.52
+        },
+        {
+          "word": "movement",
+          "start": 88.52,
+          "end": 88.78
+        },
+        {
+          "word": "around",
+          "start": 88.78,
+          "end": 89.0
+        },
+        {
+          "word": "Becky,",
+          "start": 89.0,
+          "end": 89.28
+        },
+        {
+          "word": "she",
+          "start": 89.76,
+          "end": 90.0
+        },
+        {
+          "word": "was",
+          "start": 90.0,
+          "end": 90.12
+        },
+        {
+          "word": "close",
+          "start": 90.12,
+          "end": 90.34
+        },
+        {
+          "word": "in",
+          "start": 90.34,
+          "end": 90.56
+        },
+        {
+          "word": "the",
+          "start": 90.56,
+          "end": 90.64
+        },
+        {
+          "word": "circle",
+          "start": 90.64,
+          "end": 90.88
+        },
+        {
+          "word": "that",
+          "start": 90.88,
+          "end": 91.08
+        },
+        {
+          "word": "surrounded",
+          "start": 91.08,
+          "end": 91.32
+        },
+        {
+          "word": "me",
+          "start": 91.32,
+          "end": 91.52
+        },
+        {
+          "word": "and",
+          "start": 91.52,
+          "end": 91.6
+        },
+        {
+          "word": "Becky",
+          "start": 91.6,
+          "end": 91.84
+        },
+        {
+          "word": "with",
+          "start": 91.84,
+          "end": 92.0
+        },
+        {
+          "word": "so",
+          "start": 92.0,
+          "end": 92.14
+        },
+        {
+          "word": "much",
+          "start": 92.14,
+          "end": 92.34
+        },
+        {
+          "word": "love",
+          "start": 92.34,
+          "end": 92.58
+        }
+      ]
+    },
+    {
+      "text": "In the fall of 2003, I reached out to Laurie, expressing that I had feelings for her. In talking with Becky before she passed, the feelings were planted, then watered with friendship, grief, and the passage of time, until they were strong enough to express directly. We began to spend more and more time together",
+      "start": 92.58,
+      "end": 107.02,
+      "words": [
+        {
+          "word": "in",
+          "start": 92.58,
+          "end": 92.92
+        },
+        {
+          "word": "a",
+          "start": 92.92,
+          "end": 92.98
+        },
+        {
+          "word": "difficult",
+          "start": 92.98,
+          "end": 93.22
+        },
+        {
+          "word": "time.",
+          "start": 93.22,
+          "end": 93.6
+        },
+        {
+          "word": "In",
+          "start": 94.16,
+          "end": 94.44
+        },
+        {
+          "word": "the",
+          "start": 94.44,
+          "end": 94.52
+        },
+        {
+          "word": "fall",
+          "start": 94.52,
+          "end": 94.66
+        },
+        {
+          "word": "of",
+          "start": 94.66,
+          "end": 94.8
+        },
+        {
+          "word": "2003,",
+          "start": 94.8,
+          "end": 95.4
+        },
+        {
+          "word": "I",
+          "start": 95.6,
+          "end": 95.64
+        },
+        {
+          "word": "reached",
+          "start": 95.64,
+          "end": 95.8
+        },
+        {
+          "word": "out",
+          "start": 95.8,
+          "end": 95.98
+        },
+        {
+          "word": "to",
+          "start": 95.98,
+          "end": 96.12
+        },
+        {
+          "word": "Laurie,",
+          "start": 96.12,
+          "end": 96.34
+        },
+        {
+          "word": "expressing",
+          "start": 96.74,
+          "end": 97.0
+        },
+        {
+          "word": "that",
+          "start": 97.0,
+          "end": 97.2
+        },
+        {
+          "word": "I",
+          "start": 97.2,
+          "end": 97.28
+        },
+        {
+          "word": "had",
+          "start": 97.28,
+          "end": 97.38
+        },
+        {
+          "word": "feelings",
+          "start": 97.38,
+          "end": 97.66
+        },
+        {
+          "word": "for",
+          "start": 97.66,
+          "end": 97.9
+        },
+        {
+          "word": "her.",
+          "start": 97.9,
+          "end": 98.08
+        },
+        {
+          "word": "In",
+          "start": 98.58,
+          "end": 98.64
+        },
+        {
+          "word": "talking",
+          "start": 98.64,
+          "end": 98.84
+        },
+        {
+          "word": "with",
+          "start": 98.84,
+          "end": 99.0
+        },
+        {
+          "word": "Becky",
+          "start": 99.0,
+          "end": 99.2
+        },
+        {
+          "word": "before",
+          "start": 99.2,
+          "end": 99.46
+        },
+        {
+          "word": "she",
+          "start": 99.46,
+          "end": 99.62
+        },
+        {
+          "word": "passed,",
+          "start": 99.62,
+          "end": 99.96
+        },
+        {
+          "word": "the",
+          "start": 100.12,
+          "end": 100.14
+        },
+        {
+          "word": "feelings",
+          "start": 100.14,
+          "end": 100.38
+        },
+        {
+          "word": "were",
+          "start": 100.38,
+          "end": 100.54
+        },
+        {
+          "word": "planted,",
+          "start": 100.54,
+          "end": 100.92
+        },
+        {
+          "word": "then",
+          "start": 101.1,
+          "end": 101.16
+        },
+        {
+          "word": "watered",
+          "start": 101.16,
+          "end": 101.58
+        },
+        {
+          "word": "with",
+          "start": 101.58,
+          "end": 101.66
+        },
+        {
+          "word": "friendship,",
+          "start": 101.66,
+          "end": 102.02
+        },
+        {
+          "word": "grief,",
+          "start": 102.22,
+          "end": 102.38
+        },
+        {
+          "word": "and",
+          "start": 102.46,
+          "end": 102.58
+        },
+        {
+          "word": "the",
+          "start": 102.58,
+          "end": 102.66
+        },
+        {
+          "word": "passage",
+          "start": 102.66,
+          "end": 102.92
+        },
+        {
+          "word": "of",
+          "start": 102.92,
+          "end": 103.08
+        },
+        {
+          "word": "time,",
+          "start": 103.08,
+          "end": 103.42
+        },
+        {
+          "word": "until",
+          "start": 103.74,
+          "end": 103.98
+        },
+        {
+          "word": "they",
+          "start": 103.98,
+          "end": 104.12
+        },
+        {
+          "word": "were",
+          "start": 104.12,
+          "end": 104.18
+        },
+        {
+          "word": "strong",
+          "start": 104.18,
+          "end": 104.42
+        },
+        {
+          "word": "enough",
+          "start": 104.42,
+          "end": 104.62
+        },
+        {
+          "word": "to",
+          "start": 104.62,
+          "end": 104.76
+        },
+        {
+          "word": "express",
+          "start": 104.76,
+          "end": 105.02
+        },
+        {
+          "word": "directly.",
+          "start": 105.02,
+          "end": 105.46
+        },
+        {
+          "word": "We",
+          "start": 106.08,
+          "end": 106.28
+        },
+        {
+          "word": "began",
+          "start": 106.28,
+          "end": 106.5
+        },
+        {
+          "word": "to",
+          "start": 106.5,
+          "end": 106.6
+        },
+        {
+          "word": "spend",
+          "start": 106.6,
+          "end": 106.76
+        },
+        {
+          "word": "more",
+          "start": 106.76,
+          "end": 107.02
+        }
+      ]
+    },
+    {
+      "text": "And the relationship grew into all areas. We shuttled back and forth for meetings which became less and less clandestine. By winter, we were seeing each other regularly, and Laurie was having dinners some nights with the boys and me. We both hesitated, I think, at this point.",
+      "start": 107.02,
+      "end": 119.72,
+      "words": [
+        {
+          "word": "and",
+          "start": 107.02,
+          "end": 107.14
+        },
+        {
+          "word": "more",
+          "start": 107.14,
+          "end": 107.24
+        },
+        {
+          "word": "time",
+          "start": 107.24,
+          "end": 107.46
+        },
+        {
+          "word": "together.",
+          "start": 107.46,
+          "end": 107.82
+        },
+        {
+          "word": "And",
+          "start": 108.46,
+          "end": 108.52
+        },
+        {
+          "word": "the",
+          "start": 108.52,
+          "end": 108.62
+        },
+        {
+          "word": "relationship",
+          "start": 108.62,
+          "end": 108.96
+        },
+        {
+          "word": "grew",
+          "start": 108.96,
+          "end": 109.32
+        },
+        {
+          "word": "into",
+          "start": 109.32,
+          "end": 109.52
+        },
+        {
+          "word": "all",
+          "start": 109.52,
+          "end": 109.72
+        },
+        {
+          "word": "areas.",
+          "start": 109.72,
+          "end": 110.08
+        },
+        {
+          "word": "We",
+          "start": 110.36,
+          "end": 110.44
+        },
+        {
+          "word": "shoveled",
+          "start": 110.44,
+          "end": 110.8
+        },
+        {
+          "word": "back",
+          "start": 110.8,
+          "end": 110.86
+        },
+        {
+          "word": "and",
+          "start": 110.86,
+          "end": 111.02
+        },
+        {
+          "word": "forth",
+          "start": 111.02,
+          "end": 111.16
+        },
+        {
+          "word": "from",
+          "start": 111.16,
+          "end": 111.36
+        },
+        {
+          "word": "meetings",
+          "start": 111.36,
+          "end": 111.6
+        },
+        {
+          "word": "which",
+          "start": 111.6,
+          "end": 111.8
+        },
+        {
+          "word": "became",
+          "start": 111.8,
+          "end": 112.1
+        },
+        {
+          "word": "less",
+          "start": 112.1,
+          "end": 112.36
+        },
+        {
+          "word": "and",
+          "start": 112.36,
+          "end": 112.56
+        },
+        {
+          "word": "less",
+          "start": 112.56,
+          "end": 112.76
+        },
+        {
+          "word": "clandestine.",
+          "start": 112.76,
+          "end": 113.5
+        },
+        {
+          "word": "By",
+          "start": 113.5,
+          "end": 114.22
+        },
+        {
+          "word": "winter,",
+          "start": 114.22,
+          "end": 114.52
+        },
+        {
+          "word": "we",
+          "start": 114.7,
+          "end": 114.7
+        },
+        {
+          "word": "were",
+          "start": 114.7,
+          "end": 114.8
+        },
+        {
+          "word": "seeing",
+          "start": 114.8,
+          "end": 115.0
+        },
+        {
+          "word": "each",
+          "start": 115.0,
+          "end": 115.2
+        },
+        {
+          "word": "other",
+          "start": 115.2,
+          "end": 115.32
+        },
+        {
+          "word": "regularly,",
+          "start": 115.32,
+          "end": 115.84
+        },
+        {
+          "word": "and",
+          "start": 116.32,
+          "end": 116.36
+        },
+        {
+          "word": "Laurie",
+          "start": 116.36,
+          "end": 116.58
+        },
+        {
+          "word": "was",
+          "start": 116.58,
+          "end": 116.8
+        },
+        {
+          "word": "having",
+          "start": 116.8,
+          "end": 116.98
+        },
+        {
+          "word": "dinner",
+          "start": 116.98,
+          "end": 117.2
+        },
+        {
+          "word": "some",
+          "start": 117.2,
+          "end": 117.42
+        },
+        {
+          "word": "nights",
+          "start": 117.42,
+          "end": 117.62
+        },
+        {
+          "word": "with",
+          "start": 117.62,
+          "end": 117.8
+        },
+        {
+          "word": "the",
+          "start": 117.8,
+          "end": 117.9
+        },
+        {
+          "word": "boys",
+          "start": 117.9,
+          "end": 118.1
+        },
+        {
+          "word": "in",
+          "start": 118.1,
+          "end": 118.26
+        },
+        {
+          "word": "me.",
+          "start": 118.26,
+          "end": 118.38
+        },
+        {
+          "word": "We",
+          "start": 118.72,
+          "end": 118.9
+        },
+        {
+          "word": "both",
+          "start": 118.9,
+          "end": 119.1
+        },
+        {
+          "word": "hesitated,",
+          "start": 119.1,
+          "end": 119.54
+        },
+        {
+          "word": "I",
+          "start": 119.66,
+          "end": 119.72
+        }
+      ]
+    },
+    {
+      "text": "Laurie had lived for 25 years as a strong, independent woman, and the boys and I had lived as a pack for a long time, so there were plenty of issues to work through in bringing these two ways of being into one that operated as a whole, with all for each other. Laurie kept her apartment in Cincinnati and we kept a certain distance for a couple years, breaking up a few times along the way when one or the other of our stubborn streaks held sway for a bit too long. We were not good at staying apart long, though, and after our last whopper break up, I decided I had to commit, that I was still holding myself back. I think Kate may have said, “Just get a ring, dude!” I did not get a ring yet as Laurie had worked for a jeweler and has her own tastes and styles, so I knew better than to pick one out for her. However, I did ask, and ask and ask… God love her, Laurie was not ready to just say yes. I can understand; I cannot imagine living with me either. I told her I would give her fifty years, over and over again, to let her know I was committed fully now, ready to enter into this type of long-term commitment again. On July 22, 2007, she said yes and we married on December 22, 2007.",
+      "start": 119.72,
+      "end": 176.06,
+      "words": [
+        {
+          "word": "think,",
+          "start": 119.72,
+          "end": 119.9
+        },
+        {
+          "word": "at",
+          "start": 120.0,
+          "end": 120.02
+        },
+        {
+          "word": "this",
+          "start": 120.02,
+          "end": 120.14
+        },
+        {
+          "word": "point.",
+          "start": 120.14,
+          "end": 120.42
+        },
+        {
+          "word": "Laurie",
+          "start": 120.86,
+          "end": 121.08
+        },
+        {
+          "word": "had",
+          "start": 121.08,
+          "end": 121.22
+        },
+        {
+          "word": "lived",
+          "start": 121.22,
+          "end": 121.32
+        },
+        {
+          "word": "for",
+          "start": 121.32,
+          "end": 121.48
+        },
+        {
+          "word": "25",
+          "start": 121.48,
+          "end": 121.82
+        },
+        {
+          "word": "years",
+          "start": 121.82,
+          "end": 122.06
+        },
+        {
+          "word": "as",
+          "start": 122.06,
+          "end": 122.24
+        },
+        {
+          "word": "a",
+          "start": 122.24,
+          "end": 122.3
+        },
+        {
+          "word": "strong,",
+          "start": 122.3,
+          "end": 122.54
+        },
+        {
+          "word": "independent",
+          "start": 122.72,
+          "end": 122.9
+        },
+        {
+          "word": "woman,",
+          "start": 122.9,
+          "end": 123.22
+        },
+        {
+          "word": "and",
+          "start": 123.38,
+          "end": 123.38
+        },
+        {
+          "word": "the",
+          "start": 123.38,
+          "end": 123.44
+        },
+        {
+          "word": "boys",
+          "start": 123.44,
+          "end": 123.66
+        },
+        {
+          "word": "and",
+          "start": 123.66,
+          "end": 123.82
+        },
+        {
+          "word": "I",
+          "start": 123.82,
+          "end": 123.94
+        },
+        {
+          "word": "had",
+          "start": 123.94,
+          "end": 124.06
+        },
+        {
+          "word": "lived",
+          "start": 124.06,
+          "end": 124.18
+        },
+        {
+          "word": "as",
+          "start": 124.18,
+          "end": 124.36
+        },
+        {
+          "word": "a",
+          "start": 124.36,
+          "end": 124.42
+        },
+        {
+          "word": "packed",
+          "start": 124.42,
+          "end": 124.62
+        },
+        {
+          "word": "for",
+          "start": 124.62,
+          "end": 124.78
+        },
+        {
+          "word": "a",
+          "start": 124.78,
+          "end": 124.86
+        },
+        {
+          "word": "long",
+          "start": 124.86,
+          "end": 125.0
+        },
+        {
+          "word": "time",
+          "start": 125.0,
+          "end": 125.26
+        },
+        {
+          "word": "so",
+          "start": 125.26,
+          "end": 125.46
+        },
+        {
+          "word": "there",
+          "start": 125.46,
+          "end": 125.58
+        },
+        {
+          "word": "were",
+          "start": 125.58,
+          "end": 125.64
+        },
+        {
+          "word": "plenty",
+          "start": 125.64,
+          "end": 125.86
+        },
+        {
+          "word": "of",
+          "start": 125.86,
+          "end": 126.0
+        },
+        {
+          "word": "issues",
+          "start": 126.0,
+          "end": 126.12
+        },
+        {
+          "word": "to",
+          "start": 126.12,
+          "end": 126.32
+        },
+        {
+          "word": "work",
+          "start": 126.32,
+          "end": 126.46
+        },
+        {
+          "word": "through",
+          "start": 126.46,
+          "end": 126.7
+        },
+        {
+          "word": "and",
+          "start": 126.7,
+          "end": 126.8
+        },
+        {
+          "word": "bringing",
+          "start": 126.8,
+          "end": 127.0
+        },
+        {
+          "word": "these",
+          "start": 127.0,
+          "end": 127.2
+        },
+        {
+          "word": "two",
+          "start": 127.2,
+          "end": 127.36
+        },
+        {
+          "word": "ways",
+          "start": 127.36,
+          "end": 127.54
+        },
+        {
+          "word": "of",
+          "start": 127.54,
+          "end": 127.72
+        },
+        {
+          "word": "being",
+          "start": 127.72,
+          "end": 127.88
+        },
+        {
+          "word": "into",
+          "start": 127.88,
+          "end": 128.1
+        },
+        {
+          "word": "one",
+          "start": 128.1,
+          "end": 128.28
+        },
+        {
+          "word": "that",
+          "start": 128.28,
+          "end": 128.4
+        },
+        {
+          "word": "operated",
+          "start": 128.4,
+          "end": 128.7
+        },
+        {
+          "word": "as",
+          "start": 128.7,
+          "end": 128.92
+        },
+        {
+          "word": "a",
+          "start": 128.92,
+          "end": 129.02
+        },
+        {
+          "word": "whole,",
+          "start": 129.02,
+          "end": 129.2
+        },
+        {
+          "word": "with",
+          "start": 129.5,
+          "end": 129.66
+        },
+        {
+          "word": "all",
+          "start": 129.66,
+          "end": 129.8
+        },
+        {
+          "word": "for",
+          "start": 129.8,
+          "end": 129.94
+        },
+        {
+          "word": "each",
+          "start": 129.94,
+          "end": 130.08
+        },
+        {
+          "word": "other.",
+          "start": 130.08,
+          "end": 130.3
+        },
+        {
+          "word": "Laurie",
+          "start": 130.68,
+          "end": 130.9
+        },
+        {
+          "word": "kept",
+          "start": 130.9,
+          "end": 131.08
+        },
+        {
+          "word": "her",
+          "start": 131.08,
+          "end": 131.22
+        },
+        {
+          "word": "apartment",
+          "start": 131.22,
+          "end": 131.52
+        },
+        {
+          "word": "in",
+          "start": 131.52,
+          "end": 131.72
+        },
+        {
+          "word": "Cincinnati",
+          "start": 131.72,
+          "end": 132.08
+        },
+        {
+          "word": "and",
+          "start": 132.08,
+          "end": 132.38
+        },
+        {
+          "word": "we",
+          "start": 132.38,
+          "end": 132.46
+        },
+        {
+          "word": "kept",
+          "start": 132.46,
+          "end": 132.6
+        },
+        {
+          "word": "a",
+          "start": 132.6,
+          "end": 132.74
+        },
+        {
+          "word": "certain",
+          "start": 132.74,
+          "end": 132.94
+        },
+        {
+          "word": "distance",
+          "start": 132.94,
+          "end": 133.24
+        },
+        {
+          "word": "for",
+          "start": 133.24,
+          "end": 133.44
+        },
+        {
+          "word": "a",
+          "start": 133.44,
+          "end": 133.54
+        },
+        {
+          "word": "couple",
+          "start": 133.54,
+          "end": 133.72
+        },
+        {
+          "word": "years,",
+          "start": 133.72,
+          "end": 134.02
+        },
+        {
+          "word": "breaking",
+          "start": 134.48,
+          "end": 134.7
+        },
+        {
+          "word": "up",
+          "start": 134.7,
+          "end": 134.86
+        },
+        {
+          "word": "a",
+          "start": 134.86,
+          "end": 134.96
+        },
+        {
+          "word": "few",
+          "start": 134.96,
+          "end": 135.1
+        },
+        {
+          "word": "times",
+          "start": 135.1,
+          "end": 135.38
+        },
+        {
+          "word": "along",
+          "start": 135.38,
+          "end": 135.64
+        },
+        {
+          "word": "the",
+          "start": 135.64,
+          "end": 135.8
+        },
+        {
+          "word": "way",
+          "start": 135.8,
+          "end": 135.96
+        },
+        {
+          "word": "when",
+          "start": 135.96,
+          "end": 136.18
+        },
+        {
+          "word": "one",
+          "start": 136.18,
+          "end": 136.4
+        },
+        {
+          "word": "or",
+          "start": 136.4,
+          "end": 136.54
+        },
+        {
+          "word": "the",
+          "start": 136.54,
+          "end": 136.62
+        },
+        {
+          "word": "other",
+          "start": 136.62,
+          "end": 136.82
+        },
+        {
+          "word": "of",
+          "start": 136.82,
+          "end": 136.92
+        },
+        {
+          "word": "our",
+          "start": 136.92,
+          "end": 137.02
+        },
+        {
+          "word": "stubborn",
+          "start": 137.02,
+          "end": 137.28
+        },
+        {
+          "word": "streaks",
+          "start": 137.28,
+          "end": 137.7
+        },
+        {
+          "word": "held",
+          "start": 137.7,
+          "end": 137.88
+        },
+        {
+          "word": "sway",
+          "start": 137.88,
+          "end": 138.14
+        },
+        {
+          "word": "for",
+          "start": 138.14,
+          "end": 138.38
+        },
+        {
+          "word": "a",
+          "start": 138.38,
+          "end": 138.44
+        },
+        {
+          "word": "bit",
+          "start": 138.44,
+          "end": 138.56
+        },
+        {
+          "word": "too",
+          "start": 138.56,
+          "end": 138.76
+        },
+        {
+          "word": "long.",
+          "start": 138.76,
+          "end": 139.02
+        },
+        {
+          "word": "We",
+          "start": 139.46,
+          "end": 139.78
+        },
+        {
+          "word": "were",
+          "start": 139.78,
+          "end": 139.88
+        },
+        {
+          "word": "not",
+          "start": 139.88,
+          "end": 140.02
+        },
+        {
+          "word": "good",
+          "start": 140.02,
+          "end": 140.22
+        },
+        {
+          "word": "at",
+          "start": 140.22,
+          "end": 140.32
+        },
+        {
+          "word": "staying",
+          "start": 140.32,
+          "end": 140.5
+        },
+        {
+          "word": "apart",
+          "start": 140.5,
+          "end": 140.72
+        },
+        {
+          "word": "long,",
+          "start": 140.72,
+          "end": 141.06
+        },
+        {
+          "word": "though,",
+          "start": 141.18,
+          "end": 141.24
+        },
+        {
+          "word": "and",
+          "start": 141.46,
+          "end": 141.52
+        },
+        {
+          "word": "after",
+          "start": 141.52,
+          "end": 141.74
+        },
+        {
+          "word": "our",
+          "start": 141.74,
+          "end": 141.84
+        },
+        {
+          "word": "last",
+          "start": 141.84,
+          "end": 142.06
+        },
+        {
+          "word": "wapper",
+          "start": 142.06,
+          "end": 142.38
+        },
+        {
+          "word": "breakup,",
+          "start": 142.38,
+          "end": 142.74
+        },
+        {
+          "word": "I",
+          "start": 143.3,
+          "end": 143.4
+        },
+        {
+          "word": "decided",
+          "start": 143.4,
+          "end": 143.62
+        },
+        {
+          "word": "I",
+          "start": 143.62,
+          "end": 143.82
+        },
+        {
+          "word": "had",
+          "start": 143.82,
+          "end": 143.94
+        },
+        {
+          "word": "to",
+          "start": 143.94,
+          "end": 144.06
+        },
+        {
+          "word": "commit,",
+          "start": 144.06,
+          "end": 144.3
+        },
+        {
+          "word": "that",
+          "start": 145.16,
+          "end": 145.54
+        },
+        {
+          "word": "I",
+          "start": 145.54,
+          "end": 145.62
+        },
+        {
+          "word": "was",
+          "start": 145.62,
+          "end": 145.7
+        },
+        {
+          "word": "still",
+          "start": 145.7,
+          "end": 145.86
+        },
+        {
+          "word": "holding",
+          "start": 145.86,
+          "end": 146.12
+        },
+        {
+          "word": "myself",
+          "start": 146.12,
+          "end": 146.42
+        },
+        {
+          "word": "back.",
+          "start": 146.42,
+          "end": 146.82
+        },
+        {
+          "word": "I",
+          "start": 147.34,
+          "end": 147.42
+        },
+        {
+          "word": "think",
+          "start": 147.42,
+          "end": 147.58
+        },
+        {
+          "word": "Kate",
+          "start": 147.58,
+          "end": 147.84
+        },
+        {
+          "word": "may",
+          "start": 147.84,
+          "end": 148.02
+        },
+        {
+          "word": "have",
+          "start": 148.02,
+          "end": 148.12
+        },
+        {
+          "word": "said,",
+          "start": 148.12,
+          "end": 148.38
+        },
+        {
+          "word": "just",
+          "start": 149.06,
+          "end": 149.34
+        },
+        {
+          "word": "get",
+          "start": 149.34,
+          "end": 149.6
+        },
+        {
+          "word": "a",
+          "start": 149.6,
+          "end": 149.74
+        },
+        {
+          "word": "ring,",
+          "start": 149.74,
+          "end": 150.0
+        },
+        {
+          "word": "dude.",
+          "start": 150.18,
+          "end": 150.32
+        },
+        {
+          "word": "I",
+          "start": 151.24,
+          "end": 151.44
+        },
+        {
+          "word": "did",
+          "start": 151.44,
+          "end": 151.6
+        },
+        {
+          "word": "not",
+          "start": 151.6,
+          "end": 151.78
+        },
+        {
+          "word": "get",
+          "start": 151.78,
+          "end": 151.96
+        },
+        {
+          "word": "a",
+          "start": 151.96,
+          "end": 152.04
+        },
+        {
+          "word": "ring",
+          "start": 152.04,
+          "end": 152.24
+        },
+        {
+          "word": "yet",
+          "start": 152.24,
+          "end": 152.5
+        },
+        {
+          "word": "as",
+          "start": 152.5,
+          "end": 152.72
+        },
+        {
+          "word": "Laurie",
+          "start": 152.72,
+          "end": 152.88
+        },
+        {
+          "word": "had",
+          "start": 152.88,
+          "end": 153.08
+        },
+        {
+          "word": "worked",
+          "start": 153.08,
+          "end": 153.24
+        },
+        {
+          "word": "for",
+          "start": 153.24,
+          "end": 153.44
+        },
+        {
+          "word": "a",
+          "start": 153.44,
+          "end": 153.52
+        },
+        {
+          "word": "jeweler",
+          "start": 153.52,
+          "end": 153.84
+        },
+        {
+          "word": "and",
+          "start": 153.84,
+          "end": 153.96
+        },
+        {
+          "word": "has",
+          "start": 153.96,
+          "end": 154.1
+        },
+        {
+          "word": "her",
+          "start": 154.1,
+          "end": 154.24
+        },
+        {
+          "word": "own",
+          "start": 154.24,
+          "end": 154.4
+        },
+        {
+          "word": "taste",
+          "start": 154.4,
+          "end": 154.62
+        },
+        {
+          "word": "and",
+          "start": 154.62,
+          "end": 154.82
+        },
+        {
+          "word": "style,",
+          "start": 154.82,
+          "end": 155.12
+        },
+        {
+          "word": "so",
+          "start": 155.28,
+          "end": 155.34
+        },
+        {
+          "word": "I",
+          "start": 155.34,
+          "end": 155.4
+        },
+        {
+          "word": "knew",
+          "start": 155.4,
+          "end": 155.52
+        },
+        {
+          "word": "better",
+          "start": 155.52,
+          "end": 155.72
+        },
+        {
+          "word": "than",
+          "start": 155.72,
+          "end": 155.9
+        },
+        {
+          "word": "to",
+          "start": 155.9,
+          "end": 155.98
+        },
+        {
+          "word": "pick",
+          "start": 155.98,
+          "end": 156.14
+        },
+        {
+          "word": "one",
+          "start": 156.14,
+          "end": 156.32
+        },
+        {
+          "word": "out",
+          "start": 156.32,
+          "end": 156.48
+        },
+        {
+          "word": "for",
+          "start": 156.48,
+          "end": 156.66
+        },
+        {
+          "word": "her.",
+          "start": 156.66,
+          "end": 156.8
+        },
+        {
+          "word": "However,",
+          "start": 157.52,
+          "end": 157.8
+        },
+        {
+          "word": "I",
+          "start": 158.02,
+          "end": 158.08
+        },
+        {
+          "word": "did",
+          "start": 158.08,
+          "end": 158.22
+        },
+        {
+          "word": "ask",
+          "start": 158.22,
+          "end": 158.54
+        },
+        {
+          "word": "and",
+          "start": 158.54,
+          "end": 158.7
+        },
+        {
+          "word": "ask",
+          "start": 158.7,
+          "end": 159.06
+        },
+        {
+          "word": "and",
+          "start": 159.06,
+          "end": 159.16
+        },
+        {
+          "word": "ask",
+          "start": 159.16,
+          "end": 159.46
+        },
+        {
+          "word": "God",
+          "start": 159.46,
+          "end": 159.68
+        },
+        {
+          "word": "love",
+          "start": 159.68,
+          "end": 159.92
+        },
+        {
+          "word": "her.",
+          "start": 159.92,
+          "end": 160.18
+        },
+        {
+          "word": "Laurie",
+          "start": 160.42,
+          "end": 160.58
+        },
+        {
+          "word": "was",
+          "start": 160.58,
+          "end": 160.74
+        },
+        {
+          "word": "not",
+          "start": 160.74,
+          "end": 160.88
+        },
+        {
+          "word": "ready",
+          "start": 160.88,
+          "end": 161.14
+        },
+        {
+          "word": "to",
+          "start": 161.14,
+          "end": 161.32
+        },
+        {
+          "word": "just",
+          "start": 161.32,
+          "end": 161.48
+        },
+        {
+          "word": "say",
+          "start": 161.48,
+          "end": 161.68
+        },
+        {
+          "word": "yes.",
+          "start": 161.68,
+          "end": 161.92
+        },
+        {
+          "word": "I",
+          "start": 162.62,
+          "end": 162.74
+        },
+        {
+          "word": "can",
+          "start": 162.74,
+          "end": 162.86
+        },
+        {
+          "word": "understand,",
+          "start": 162.86,
+          "end": 163.26
+        },
+        {
+          "word": "I",
+          "start": 163.48,
+          "end": 163.52
+        },
+        {
+          "word": "cannot",
+          "start": 163.52,
+          "end": 163.74
+        },
+        {
+          "word": "imagine",
+          "start": 163.74,
+          "end": 164.1
+        },
+        {
+          "word": "living",
+          "start": 164.1,
+          "end": 164.28
+        },
+        {
+          "word": "with",
+          "start": 164.28,
+          "end": 164.52
+        },
+        {
+          "word": "me",
+          "start": 164.52,
+          "end": 164.62
+        },
+        {
+          "word": "either.",
+          "start": 164.62,
+          "end": 164.88
+        },
+        {
+          "word": "I",
+          "start": 165.42,
+          "end": 165.6
+        },
+        {
+          "word": "told",
+          "start": 165.6,
+          "end": 165.78
+        },
+        {
+          "word": "her",
+          "start": 165.78,
+          "end": 165.92
+        },
+        {
+          "word": "I",
+          "start": 165.92,
+          "end": 166.0
+        },
+        {
+          "word": "would",
+          "start": 166.0,
+          "end": 166.1
+        },
+        {
+          "word": "give",
+          "start": 166.1,
+          "end": 166.26
+        },
+        {
+          "word": "her",
+          "start": 166.26,
+          "end": 166.4
+        },
+        {
+          "word": "50",
+          "start": 166.4,
+          "end": 166.76
+        },
+        {
+          "word": "years",
+          "start": 166.76,
+          "end": 167.04
+        },
+        {
+          "word": "over",
+          "start": 167.04,
+          "end": 167.46
+        },
+        {
+          "word": "and",
+          "start": 167.46,
+          "end": 167.6
+        },
+        {
+          "word": "over",
+          "start": 167.6,
+          "end": 167.8
+        },
+        {
+          "word": "again",
+          "start": 167.8,
+          "end": 168.02
+        },
+        {
+          "word": "to",
+          "start": 168.02,
+          "end": 168.18
+        },
+        {
+          "word": "let",
+          "start": 168.18,
+          "end": 168.32
+        },
+        {
+          "word": "her",
+          "start": 168.32,
+          "end": 168.46
+        },
+        {
+          "word": "know",
+          "start": 168.46,
+          "end": 168.58
+        },
+        {
+          "word": "I",
+          "start": 168.58,
+          "end": 168.7
+        },
+        {
+          "word": "was",
+          "start": 168.7,
+          "end": 168.82
+        },
+        {
+          "word": "committed",
+          "start": 168.82,
+          "end": 169.1
+        },
+        {
+          "word": "fully",
+          "start": 169.1,
+          "end": 169.44
+        },
+        {
+          "word": "now,",
+          "start": 169.44,
+          "end": 169.76
+        },
+        {
+          "word": "ready",
+          "start": 170.2,
+          "end": 170.36
+        },
+        {
+          "word": "to",
+          "start": 170.36,
+          "end": 170.52
+        },
+        {
+          "word": "enter",
+          "start": 170.52,
+          "end": 170.74
+        },
+        {
+          "word": "into",
+          "start": 170.74,
+          "end": 170.96
+        },
+        {
+          "word": "this",
+          "start": 170.96,
+          "end": 171.12
+        },
+        {
+          "word": "type",
+          "start": 171.12,
+          "end": 171.28
+        },
+        {
+          "word": "of",
+          "start": 171.28,
+          "end": 171.48
+        },
+        {
+          "word": "long",
+          "start": 171.48,
+          "end": 171.68
+        },
+        {
+          "word": "term",
+          "start": 171.68,
+          "end": 172.0
+        },
+        {
+          "word": "commitment",
+          "start": 172.0,
+          "end": 172.34
+        },
+        {
+          "word": "again.",
+          "start": 172.34,
+          "end": 172.7
+        },
+        {
+          "word": "On",
+          "start": 173.36,
+          "end": 173.48
+        },
+        {
+          "word": "July",
+          "start": 173.48,
+          "end": 173.62
+        },
+        {
+          "word": "22,",
+          "start": 173.62,
+          "end": 174.12
+        },
+        {
+          "word": "2007,",
+          "start": 174.24,
+          "end": 174.84
+        },
+        {
+          "word": "she",
+          "start": 175.08,
+          "end": 175.14
+        },
+        {
+          "word": "said",
+          "start": 175.14,
+          "end": 175.38
+        },
+        {
+          "word": "yes",
+          "start": 175.38,
+          "end": 175.6
+        },
+        {
+          "word": "and",
+          "start": 175.6,
+          "end": 175.78
+        },
+        {
+          "word": "we",
+          "start": 175.78,
+          "end": 175.86
+        },
+        {
+          "word": "married",
+          "start": 175.86,
+          "end": 176.06
+        }
+      ]
+    },
+    {
+      "text": "We just crossed over our seventh anniversary and it was our favorite anniversary ever. We continue to learn and grow together!",
+      "start": 176.06,
+      "end": 183.26,
+      "words": [
+        {
+          "word": "on",
+          "start": 176.06,
+          "end": 176.18
+        },
+        {
+          "word": "December",
+          "start": 176.18,
+          "end": 176.36
+        },
+        {
+          "word": "22,",
+          "start": 176.36,
+          "end": 176.9
+        },
+        {
+          "word": "2007.",
+          "start": 177.28,
+          "end": 177.68
+        },
+        {
+          "word": "We",
+          "start": 178.16,
+          "end": 178.28
+        },
+        {
+          "word": "just",
+          "start": 178.28,
+          "end": 178.42
+        },
+        {
+          "word": "crossed",
+          "start": 178.42,
+          "end": 178.62
+        },
+        {
+          "word": "over",
+          "start": 178.62,
+          "end": 178.98
+        },
+        {
+          "word": "our",
+          "start": 178.98,
+          "end": 179.12
+        },
+        {
+          "word": "seventh",
+          "start": 179.12,
+          "end": 179.44
+        },
+        {
+          "word": "anniversary",
+          "start": 179.44,
+          "end": 179.9
+        },
+        {
+          "word": "and",
+          "start": 179.9,
+          "end": 180.38
+        },
+        {
+          "word": "it",
+          "start": 180.38,
+          "end": 180.48
+        },
+        {
+          "word": "was",
+          "start": 180.48,
+          "end": 180.6
+        },
+        {
+          "word": "our",
+          "start": 180.6,
+          "end": 180.74
+        },
+        {
+          "word": "favorite",
+          "start": 180.74,
+          "end": 181.12
+        },
+        {
+          "word": "anniversary",
+          "start": 181.12,
+          "end": 181.64
+        },
+        {
+          "word": "ever.",
+          "start": 181.64,
+          "end": 181.98
+        },
+        {
+          "word": "We",
+          "start": 182.54,
+          "end": 182.74
+        },
+        {
+          "word": "continued",
+          "start": 182.74,
+          "end": 183.08
+        },
+        {
+          "word": "to",
+          "start": 183.08,
+          "end": 183.26
+        }
+      ]
+    },
+    {
+      "text": "These last two years have been quite an adjustment, for all of us, and this is the nature of lasting relationship. We all change roles from time to time and have to adapt to life’s ever changing nature. Laurie has had to adjust more than anyone as the sole income earner now and also the caregiver to a guy who, on many days, needs a lot of care giving. We have great systems and strong communication, which helps make working with illness and care giving much easier. Laurie has been the rock for me to make it through this time, not only in sharing her love but also in keeping her eye on me. I forget things at times, can double up on medicines if not careful... these kinds of things. I feel for her as it keeps a person on a certain alert level. I remember my heightened awareness as the caregiver of Becky. It is hard to ever fully relax when you know your partner is walking a cliff’s edge.",
+      "start": 183.26,
+      "end": 227.3,
+      "words": [
+        {
+          "word": "learn",
+          "start": 183.26,
+          "end": 183.48
+        },
+        {
+          "word": "and",
+          "start": 183.48,
+          "end": 183.64
+        },
+        {
+          "word": "grow",
+          "start": 183.64,
+          "end": 183.8
+        },
+        {
+          "word": "together.",
+          "start": 183.8,
+          "end": 184.2
+        },
+        {
+          "word": "These",
+          "start": 185.04,
+          "end": 185.42
+        },
+        {
+          "word": "last",
+          "start": 185.42,
+          "end": 185.6
+        },
+        {
+          "word": "two",
+          "start": 185.6,
+          "end": 185.82
+        },
+        {
+          "word": "years",
+          "start": 185.82,
+          "end": 186.0
+        },
+        {
+          "word": "have",
+          "start": 186.0,
+          "end": 186.14
+        },
+        {
+          "word": "been",
+          "start": 186.14,
+          "end": 186.22
+        },
+        {
+          "word": "quite",
+          "start": 186.22,
+          "end": 186.44
+        },
+        {
+          "word": "an",
+          "start": 186.44,
+          "end": 186.56
+        },
+        {
+          "word": "adjustment",
+          "start": 186.56,
+          "end": 186.9
+        },
+        {
+          "word": "for",
+          "start": 186.9,
+          "end": 187.28
+        },
+        {
+          "word": "all",
+          "start": 187.28,
+          "end": 187.42
+        },
+        {
+          "word": "of",
+          "start": 187.42,
+          "end": 187.54
+        },
+        {
+          "word": "us,",
+          "start": 187.54,
+          "end": 187.74
+        },
+        {
+          "word": "and",
+          "start": 187.88,
+          "end": 187.94
+        },
+        {
+          "word": "this",
+          "start": 187.94,
+          "end": 188.04
+        },
+        {
+          "word": "is",
+          "start": 188.04,
+          "end": 188.14
+        },
+        {
+          "word": "the",
+          "start": 188.14,
+          "end": 188.26
+        },
+        {
+          "word": "nature",
+          "start": 188.26,
+          "end": 188.48
+        },
+        {
+          "word": "of",
+          "start": 188.48,
+          "end": 188.64
+        },
+        {
+          "word": "lasting",
+          "start": 188.64,
+          "end": 188.88
+        },
+        {
+          "word": "relationship.",
+          "start": 188.88,
+          "end": 189.38
+        },
+        {
+          "word": "We",
+          "start": 189.88,
+          "end": 190.1
+        },
+        {
+          "word": "all",
+          "start": 190.1,
+          "end": 190.18
+        },
+        {
+          "word": "change",
+          "start": 190.18,
+          "end": 190.38
+        },
+        {
+          "word": "roles",
+          "start": 190.38,
+          "end": 190.64
+        },
+        {
+          "word": "from",
+          "start": 190.64,
+          "end": 190.82
+        },
+        {
+          "word": "time",
+          "start": 190.82,
+          "end": 190.98
+        },
+        {
+          "word": "to",
+          "start": 190.98,
+          "end": 191.12
+        },
+        {
+          "word": "time",
+          "start": 191.12,
+          "end": 191.38
+        },
+        {
+          "word": "and",
+          "start": 191.38,
+          "end": 191.7
+        },
+        {
+          "word": "have",
+          "start": 191.7,
+          "end": 191.82
+        },
+        {
+          "word": "to",
+          "start": 191.82,
+          "end": 191.96
+        },
+        {
+          "word": "adapt",
+          "start": 191.96,
+          "end": 192.18
+        },
+        {
+          "word": "to",
+          "start": 192.18,
+          "end": 192.4
+        },
+        {
+          "word": "like",
+          "start": 192.4,
+          "end": 192.54
+        },
+        {
+          "word": "ever",
+          "start": 192.54,
+          "end": 192.8
+        },
+        {
+          "word": "changing",
+          "start": 192.8,
+          "end": 193.1
+        },
+        {
+          "word": "nature.",
+          "start": 193.1,
+          "end": 193.48
+        },
+        {
+          "word": "Laurie",
+          "start": 194.02,
+          "end": 194.26
+        },
+        {
+          "word": "has",
+          "start": 194.26,
+          "end": 194.4
+        },
+        {
+          "word": "had",
+          "start": 194.4,
+          "end": 194.5
+        },
+        {
+          "word": "to",
+          "start": 194.5,
+          "end": 194.62
+        },
+        {
+          "word": "adjust",
+          "start": 194.62,
+          "end": 194.84
+        },
+        {
+          "word": "more",
+          "start": 194.84,
+          "end": 195.14
+        },
+        {
+          "word": "than",
+          "start": 195.14,
+          "end": 195.24
+        },
+        {
+          "word": "anyone",
+          "start": 195.24,
+          "end": 195.6
+        },
+        {
+          "word": "as",
+          "start": 195.6,
+          "end": 195.8
+        },
+        {
+          "word": "the",
+          "start": 195.8,
+          "end": 195.88
+        },
+        {
+          "word": "sole",
+          "start": 195.88,
+          "end": 196.08
+        },
+        {
+          "word": "income",
+          "start": 196.08,
+          "end": 196.36
+        },
+        {
+          "word": "earner",
+          "start": 196.36,
+          "end": 196.68
+        },
+        {
+          "word": "now,",
+          "start": 196.68,
+          "end": 196.9
+        },
+        {
+          "word": "and",
+          "start": 196.9,
+          "end": 197.12
+        },
+        {
+          "word": "also",
+          "start": 197.12,
+          "end": 197.34
+        },
+        {
+          "word": "the",
+          "start": 197.34,
+          "end": 197.5
+        },
+        {
+          "word": "caregiver",
+          "start": 197.5,
+          "end": 197.76
+        },
+        {
+          "word": "to",
+          "start": 197.76,
+          "end": 198.06
+        },
+        {
+          "word": "a",
+          "start": 198.06,
+          "end": 198.18
+        },
+        {
+          "word": "guy",
+          "start": 198.18,
+          "end": 198.36
+        },
+        {
+          "word": "who",
+          "start": 198.36,
+          "end": 198.62
+        },
+        {
+          "word": "on",
+          "start": 198.62,
+          "end": 198.82
+        },
+        {
+          "word": "many",
+          "start": 198.82,
+          "end": 199.0
+        },
+        {
+          "word": "days",
+          "start": 199.0,
+          "end": 199.26
+        },
+        {
+          "word": "needs",
+          "start": 199.26,
+          "end": 199.64
+        },
+        {
+          "word": "a",
+          "start": 199.64,
+          "end": 199.78
+        },
+        {
+          "word": "lot",
+          "start": 199.78,
+          "end": 199.88
+        },
+        {
+          "word": "of",
+          "start": 199.88,
+          "end": 199.98
+        },
+        {
+          "word": "care",
+          "start": 199.98,
+          "end": 200.16
+        },
+        {
+          "word": "doing.",
+          "start": 200.16,
+          "end": 200.42
+        },
+        {
+          "word": "We",
+          "start": 200.88,
+          "end": 200.88
+        },
+        {
+          "word": "have",
+          "start": 200.88,
+          "end": 201.0
+        },
+        {
+          "word": "great",
+          "start": 201.0,
+          "end": 201.22
+        },
+        {
+          "word": "systems",
+          "start": 201.22,
+          "end": 201.68
+        },
+        {
+          "word": "and",
+          "start": 201.68,
+          "end": 201.94
+        },
+        {
+          "word": "strong",
+          "start": 201.94,
+          "end": 202.2
+        },
+        {
+          "word": "communication,",
+          "start": 202.2,
+          "end": 202.92
+        },
+        {
+          "word": "which",
+          "start": 203.22,
+          "end": 203.34
+        },
+        {
+          "word": "helps",
+          "start": 203.34,
+          "end": 203.48
+        },
+        {
+          "word": "make",
+          "start": 203.48,
+          "end": 203.7
+        },
+        {
+          "word": "working",
+          "start": 203.7,
+          "end": 203.96
+        },
+        {
+          "word": "with",
+          "start": 203.96,
+          "end": 204.2
+        },
+        {
+          "word": "illness",
+          "start": 204.2,
+          "end": 204.4
+        },
+        {
+          "word": "and",
+          "start": 204.4,
+          "end": 204.6
+        },
+        {
+          "word": "care",
+          "start": 204.6,
+          "end": 204.84
+        },
+        {
+          "word": "giving",
+          "start": 204.84,
+          "end": 205.06
+        },
+        {
+          "word": "much",
+          "start": 205.06,
+          "end": 205.26
+        },
+        {
+          "word": "easier.",
+          "start": 205.26,
+          "end": 205.64
+        },
+        {
+          "word": "Laurie",
+          "start": 206.28,
+          "end": 206.48
+        },
+        {
+          "word": "has",
+          "start": 206.48,
+          "end": 206.64
+        },
+        {
+          "word": "been",
+          "start": 206.64,
+          "end": 206.76
+        },
+        {
+          "word": "the",
+          "start": 206.76,
+          "end": 206.86
+        },
+        {
+          "word": "rock",
+          "start": 206.86,
+          "end": 207.04
+        },
+        {
+          "word": "for",
+          "start": 207.04,
+          "end": 207.22
+        },
+        {
+          "word": "me",
+          "start": 207.22,
+          "end": 207.3
+        },
+        {
+          "word": "to",
+          "start": 207.3,
+          "end": 207.36
+        },
+        {
+          "word": "make",
+          "start": 207.36,
+          "end": 207.48
+        },
+        {
+          "word": "it",
+          "start": 207.48,
+          "end": 207.62
+        },
+        {
+          "word": "through",
+          "start": 207.62,
+          "end": 207.76
+        },
+        {
+          "word": "this",
+          "start": 207.76,
+          "end": 207.92
+        },
+        {
+          "word": "time,",
+          "start": 207.92,
+          "end": 208.18
+        },
+        {
+          "word": "not",
+          "start": 208.36,
+          "end": 208.46
+        },
+        {
+          "word": "only",
+          "start": 208.46,
+          "end": 208.7
+        },
+        {
+          "word": "in",
+          "start": 208.7,
+          "end": 208.78
+        },
+        {
+          "word": "sharing",
+          "start": 208.78,
+          "end": 209.02
+        },
+        {
+          "word": "her",
+          "start": 209.02,
+          "end": 209.2
+        },
+        {
+          "word": "love",
+          "start": 209.2,
+          "end": 209.42
+        },
+        {
+          "word": "but",
+          "start": 209.42,
+          "end": 209.62
+        },
+        {
+          "word": "also",
+          "start": 209.62,
+          "end": 209.84
+        },
+        {
+          "word": "in",
+          "start": 209.84,
+          "end": 209.94
+        },
+        {
+          "word": "keeping",
+          "start": 209.94,
+          "end": 210.12
+        },
+        {
+          "word": "her",
+          "start": 210.12,
+          "end": 210.34
+        },
+        {
+          "word": "eye",
+          "start": 210.34,
+          "end": 210.48
+        },
+        {
+          "word": "on",
+          "start": 210.48,
+          "end": 210.64
+        },
+        {
+          "word": "me.",
+          "start": 210.64,
+          "end": 210.8
+        },
+        {
+          "word": "I",
+          "start": 211.32,
+          "end": 211.32
+        },
+        {
+          "word": "forget",
+          "start": 211.32,
+          "end": 211.56
+        },
+        {
+          "word": "things",
+          "start": 211.56,
+          "end": 211.82
+        },
+        {
+          "word": "at",
+          "start": 211.82,
+          "end": 211.96
+        },
+        {
+          "word": "times,",
+          "start": 211.96,
+          "end": 212.36
+        },
+        {
+          "word": "can",
+          "start": 212.54,
+          "end": 212.62
+        },
+        {
+          "word": "double",
+          "start": 212.62,
+          "end": 212.86
+        },
+        {
+          "word": "up",
+          "start": 212.86,
+          "end": 213.06
+        },
+        {
+          "word": "on",
+          "start": 213.06,
+          "end": 213.16
+        },
+        {
+          "word": "medicines",
+          "start": 213.16,
+          "end": 213.48
+        },
+        {
+          "word": "if",
+          "start": 213.48,
+          "end": 213.72
+        },
+        {
+          "word": "not",
+          "start": 213.72,
+          "end": 213.86
+        },
+        {
+          "word": "careful,",
+          "start": 213.86,
+          "end": 214.26
+        },
+        {
+          "word": "these",
+          "start": 214.38,
+          "end": 214.48
+        },
+        {
+          "word": "kinds",
+          "start": 214.48,
+          "end": 214.68
+        },
+        {
+          "word": "of",
+          "start": 214.68,
+          "end": 214.84
+        },
+        {
+          "word": "things.",
+          "start": 214.84,
+          "end": 215.12
+        },
+        {
+          "word": "I",
+          "start": 215.48,
+          "end": 215.56
+        },
+        {
+          "word": "feel",
+          "start": 215.56,
+          "end": 215.78
+        },
+        {
+          "word": "for",
+          "start": 215.78,
+          "end": 216.0
+        },
+        {
+          "word": "her",
+          "start": 216.0,
+          "end": 216.16
+        },
+        {
+          "word": "as",
+          "start": 216.16,
+          "end": 216.3
+        },
+        {
+          "word": "it",
+          "start": 216.3,
+          "end": 216.38
+        },
+        {
+          "word": "keeps",
+          "start": 216.38,
+          "end": 216.5
+        },
+        {
+          "word": "a",
+          "start": 216.5,
+          "end": 216.68
+        },
+        {
+          "word": "person",
+          "start": 216.68,
+          "end": 216.94
+        },
+        {
+          "word": "on",
+          "start": 216.94,
+          "end": 217.08
+        },
+        {
+          "word": "a",
+          "start": 217.08,
+          "end": 217.18
+        },
+        {
+          "word": "certain",
+          "start": 217.18,
+          "end": 217.4
+        },
+        {
+          "word": "alert",
+          "start": 217.4,
+          "end": 217.6
+        },
+        {
+          "word": "level.",
+          "start": 217.6,
+          "end": 217.98
+        },
+        {
+          "word": "I",
+          "start": 220.84,
+          "end": 221.24
+        },
+        {
+          "word": "remember",
+          "start": 221.24,
+          "end": 221.5
+        },
+        {
+          "word": "my",
+          "start": 221.5,
+          "end": 221.72
+        },
+        {
+          "word": "heightened",
+          "start": 221.72,
+          "end": 222.06
+        },
+        {
+          "word": "awareness",
+          "start": 222.06,
+          "end": 222.46
+        },
+        {
+          "word": "as",
+          "start": 222.46,
+          "end": 222.78
+        },
+        {
+          "word": "the",
+          "start": 222.78,
+          "end": 222.88
+        },
+        {
+          "word": "caregiver",
+          "start": 222.88,
+          "end": 223.22
+        },
+        {
+          "word": "of",
+          "start": 223.22,
+          "end": 223.56
+        },
+        {
+          "word": "Becky.",
+          "start": 223.56,
+          "end": 223.76
+        },
+        {
+          "word": "It",
+          "start": 223.76,
+          "end": 224.38
+        },
+        {
+          "word": "is",
+          "start": 224.38,
+          "end": 224.52
+        },
+        {
+          "word": "hard",
+          "start": 224.52,
+          "end": 224.88
+        },
+        {
+          "word": "to",
+          "start": 224.88,
+          "end": 225.12
+        },
+        {
+          "word": "ever",
+          "start": 225.12,
+          "end": 225.38
+        },
+        {
+          "word": "fully",
+          "start": 225.38,
+          "end": 225.76
+        },
+        {
+          "word": "relax",
+          "start": 225.76,
+          "end": 226.18
+        },
+        {
+          "word": "when",
+          "start": 226.18,
+          "end": 226.44
+        },
+        {
+          "word": "you",
+          "start": 226.44,
+          "end": 226.54
+        },
+        {
+          "word": "know",
+          "start": 226.54,
+          "end": 226.68
+        },
+        {
+          "word": "your",
+          "start": 226.68,
+          "end": 226.82
+        },
+        {
+          "word": "partner",
+          "start": 226.82,
+          "end": 227.14
+        },
+        {
+          "word": "is",
+          "start": 227.14,
+          "end": 227.3
+        }
+      ]
+    },
+    {
+      "text": "I am always happy when Laurie has a show to perform, to get out and express herself this way. She is a muse and this is so very important in her life and to who she is as a human being; what she shares with this world, her students, the community, our dog, Rosalita, and me lying around listening. Relationships often involve sacrifice; we learn this as parents of young kids. Laurie never had kids until we married and those boys were not that young then. So, this sacrifice has found her now being a caregiver. She has adjusted well and I am deeply thankful for how well she continues to adapt to what is a constantly changing environment.",
+      "start": 227.3,
+      "end": 258.9,
+      "words": [
+        {
+          "word": "walking",
+          "start": 227.3,
+          "end": 227.58
+        },
+        {
+          "word": "a",
+          "start": 227.58,
+          "end": 227.74
+        },
+        {
+          "word": "close",
+          "start": 227.74,
+          "end": 227.92
+        },
+        {
+          "word": "edge.",
+          "start": 227.92,
+          "end": 228.32
+        },
+        {
+          "word": "I",
+          "start": 228.76,
+          "end": 229.16
+        },
+        {
+          "word": "am",
+          "start": 229.16,
+          "end": 229.28
+        },
+        {
+          "word": "always",
+          "start": 229.28,
+          "end": 229.46
+        },
+        {
+          "word": "happy",
+          "start": 229.46,
+          "end": 229.78
+        },
+        {
+          "word": "when",
+          "start": 229.78,
+          "end": 229.96
+        },
+        {
+          "word": "Laurie",
+          "start": 229.96,
+          "end": 230.14
+        },
+        {
+          "word": "has",
+          "start": 230.14,
+          "end": 230.34
+        },
+        {
+          "word": "a",
+          "start": 230.34,
+          "end": 230.44
+        },
+        {
+          "word": "show",
+          "start": 230.44,
+          "end": 230.6
+        },
+        {
+          "word": "to",
+          "start": 230.6,
+          "end": 230.72
+        },
+        {
+          "word": "perform,",
+          "start": 230.72,
+          "end": 231.06
+        },
+        {
+          "word": "to",
+          "start": 231.28,
+          "end": 231.34
+        },
+        {
+          "word": "get",
+          "start": 231.34,
+          "end": 231.44
+        },
+        {
+          "word": "out",
+          "start": 231.44,
+          "end": 231.6
+        },
+        {
+          "word": "and",
+          "start": 231.6,
+          "end": 231.7
+        },
+        {
+          "word": "express",
+          "start": 231.7,
+          "end": 231.98
+        },
+        {
+          "word": "herself",
+          "start": 231.98,
+          "end": 232.36
+        },
+        {
+          "word": "this",
+          "start": 232.36,
+          "end": 232.58
+        },
+        {
+          "word": "way.",
+          "start": 232.58,
+          "end": 232.82
+        },
+        {
+          "word": "She",
+          "start": 233.22,
+          "end": 233.46
+        },
+        {
+          "word": "is",
+          "start": 233.46,
+          "end": 233.62
+        },
+        {
+          "word": "amused",
+          "start": 233.62,
+          "end": 234.0
+        },
+        {
+          "word": "and",
+          "start": 234.0,
+          "end": 234.24
+        },
+        {
+          "word": "this",
+          "start": 234.24,
+          "end": 234.36
+        },
+        {
+          "word": "is",
+          "start": 234.36,
+          "end": 234.48
+        },
+        {
+          "word": "so",
+          "start": 234.48,
+          "end": 234.66
+        },
+        {
+          "word": "very",
+          "start": 234.66,
+          "end": 234.9
+        },
+        {
+          "word": "important",
+          "start": 234.9,
+          "end": 235.32
+        },
+        {
+          "word": "in",
+          "start": 235.32,
+          "end": 235.42
+        },
+        {
+          "word": "her",
+          "start": 235.42,
+          "end": 235.5
+        },
+        {
+          "word": "life,",
+          "start": 235.5,
+          "end": 235.84
+        },
+        {
+          "word": "and",
+          "start": 236.2,
+          "end": 236.3
+        },
+        {
+          "word": "who",
+          "start": 236.3,
+          "end": 236.46
+        },
+        {
+          "word": "she",
+          "start": 236.46,
+          "end": 236.66
+        },
+        {
+          "word": "is",
+          "start": 236.66,
+          "end": 236.86
+        },
+        {
+          "word": "as",
+          "start": 236.86,
+          "end": 237.0
+        },
+        {
+          "word": "a",
+          "start": 237.0,
+          "end": 237.08
+        },
+        {
+          "word": "human",
+          "start": 237.08,
+          "end": 237.26
+        },
+        {
+          "word": "being,",
+          "start": 237.26,
+          "end": 237.56
+        },
+        {
+          "word": "what",
+          "start": 237.78,
+          "end": 237.84
+        },
+        {
+          "word": "she",
+          "start": 237.84,
+          "end": 238.0
+        },
+        {
+          "word": "shares",
+          "start": 238.0,
+          "end": 238.3
+        },
+        {
+          "word": "with",
+          "start": 238.3,
+          "end": 238.48
+        },
+        {
+          "word": "this",
+          "start": 238.48,
+          "end": 238.64
+        },
+        {
+          "word": "world,",
+          "start": 238.64,
+          "end": 239.06
+        },
+        {
+          "word": "her",
+          "start": 239.4,
+          "end": 239.48
+        },
+        {
+          "word": "students,",
+          "start": 239.48,
+          "end": 239.88
+        },
+        {
+          "word": "the",
+          "start": 240.18,
+          "end": 240.24
+        },
+        {
+          "word": "community,",
+          "start": 240.24,
+          "end": 240.68
+        },
+        {
+          "word": "our",
+          "start": 240.82,
+          "end": 240.9
+        },
+        {
+          "word": "dog,",
+          "start": 240.9,
+          "end": 241.2
+        },
+        {
+          "word": "Rosalita,",
+          "start": 241.2,
+          "end": 241.76
+        },
+        {
+          "word": "and",
+          "start": 242.24,
+          "end": 242.28
+        },
+        {
+          "word": "me",
+          "start": 242.28,
+          "end": 242.42
+        },
+        {
+          "word": "lying",
+          "start": 242.42,
+          "end": 242.72
+        },
+        {
+          "word": "around",
+          "start": 242.72,
+          "end": 242.92
+        },
+        {
+          "word": "listening.",
+          "start": 242.92,
+          "end": 243.3
+        },
+        {
+          "word": "Relationships",
+          "start": 244.28,
+          "end": 244.68
+        },
+        {
+          "word": "often",
+          "start": 244.68,
+          "end": 245.08
+        },
+        {
+          "word": "involve",
+          "start": 245.08,
+          "end": 245.32
+        },
+        {
+          "word": "sacrifice.",
+          "start": 245.32,
+          "end": 245.9
+        },
+        {
+          "word": "We",
+          "start": 246.36,
+          "end": 246.42
+        },
+        {
+          "word": "learn",
+          "start": 246.42,
+          "end": 246.62
+        },
+        {
+          "word": "this",
+          "start": 246.62,
+          "end": 246.78
+        },
+        {
+          "word": "as",
+          "start": 246.78,
+          "end": 246.92
+        },
+        {
+          "word": "parents",
+          "start": 246.92,
+          "end": 247.2
+        },
+        {
+          "word": "of",
+          "start": 247.2,
+          "end": 247.4
+        },
+        {
+          "word": "young",
+          "start": 247.4,
+          "end": 247.56
+        },
+        {
+          "word": "kids.",
+          "start": 247.56,
+          "end": 248.02
+        },
+        {
+          "word": "Laurie",
+          "start": 248.48,
+          "end": 248.76
+        },
+        {
+          "word": "never",
+          "start": 248.76,
+          "end": 248.94
+        },
+        {
+          "word": "had",
+          "start": 248.94,
+          "end": 249.1
+        },
+        {
+          "word": "kids",
+          "start": 249.1,
+          "end": 249.36
+        },
+        {
+          "word": "until",
+          "start": 249.36,
+          "end": 249.56
+        },
+        {
+          "word": "we",
+          "start": 249.56,
+          "end": 249.68
+        },
+        {
+          "word": "married",
+          "start": 249.68,
+          "end": 249.9
+        },
+        {
+          "word": "and",
+          "start": 249.9,
+          "end": 250.1
+        },
+        {
+          "word": "those",
+          "start": 250.1,
+          "end": 250.22
+        },
+        {
+          "word": "boys",
+          "start": 250.22,
+          "end": 250.48
+        },
+        {
+          "word": "were",
+          "start": 250.48,
+          "end": 250.64
+        },
+        {
+          "word": "not",
+          "start": 250.64,
+          "end": 250.78
+        },
+        {
+          "word": "that",
+          "start": 250.78,
+          "end": 250.94
+        },
+        {
+          "word": "young",
+          "start": 250.94,
+          "end": 251.14
+        },
+        {
+          "word": "then,",
+          "start": 251.14,
+          "end": 251.34
+        },
+        {
+          "word": "so",
+          "start": 251.46,
+          "end": 251.62
+        },
+        {
+          "word": "this",
+          "start": 251.62,
+          "end": 252.26
+        },
+        {
+          "word": "sacrifice",
+          "start": 252.26,
+          "end": 252.76
+        },
+        {
+          "word": "has",
+          "start": 252.76,
+          "end": 252.98
+        },
+        {
+          "word": "found",
+          "start": 252.98,
+          "end": 253.16
+        },
+        {
+          "word": "her",
+          "start": 253.16,
+          "end": 253.32
+        },
+        {
+          "word": "now",
+          "start": 253.32,
+          "end": 253.46
+        },
+        {
+          "word": "being",
+          "start": 253.46,
+          "end": 253.66
+        },
+        {
+          "word": "a",
+          "start": 253.66,
+          "end": 253.8
+        },
+        {
+          "word": "caregiver.",
+          "start": 253.8,
+          "end": 254.18
+        },
+        {
+          "word": "She",
+          "start": 254.6,
+          "end": 254.84
+        },
+        {
+          "word": "has",
+          "start": 254.84,
+          "end": 254.92
+        },
+        {
+          "word": "adjusted",
+          "start": 254.92,
+          "end": 255.26
+        },
+        {
+          "word": "well",
+          "start": 255.26,
+          "end": 255.48
+        },
+        {
+          "word": "and",
+          "start": 255.48,
+          "end": 255.7
+        },
+        {
+          "word": "I",
+          "start": 255.7,
+          "end": 255.8
+        },
+        {
+          "word": "am",
+          "start": 255.8,
+          "end": 255.92
+        },
+        {
+          "word": "deeply",
+          "start": 255.92,
+          "end": 256.16
+        },
+        {
+          "word": "thankful",
+          "start": 256.16,
+          "end": 256.56
+        },
+        {
+          "word": "for",
+          "start": 256.56,
+          "end": 256.76
+        },
+        {
+          "word": "how",
+          "start": 256.76,
+          "end": 256.9
+        },
+        {
+          "word": "well",
+          "start": 256.9,
+          "end": 257.06
+        },
+        {
+          "word": "she",
+          "start": 257.06,
+          "end": 257.2
+        },
+        {
+          "word": "continues",
+          "start": 257.2,
+          "end": 257.58
+        },
+        {
+          "word": "to",
+          "start": 257.58,
+          "end": 257.74
+        },
+        {
+          "word": "adapt",
+          "start": 257.74,
+          "end": 258.0
+        },
+        {
+          "word": "to",
+          "start": 258.0,
+          "end": 258.22
+        },
+        {
+          "word": "what",
+          "start": 258.22,
+          "end": 258.34
+        },
+        {
+          "word": "is",
+          "start": 258.34,
+          "end": 258.44
+        },
+        {
+          "word": "a",
+          "start": 258.44,
+          "end": 258.5
+        },
+        {
+          "word": "constantly",
+          "start": 258.5,
+          "end": 258.9
+        }
+      ]
+    }
+  ]
+}

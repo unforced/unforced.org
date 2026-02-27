@@ -75,5 +75,12 @@
     "audio": "/audio/joe/grief.mp3",
     "timestamps": "/audio/joe/grief.json",
     "status": "ready"
+  },
+  {
+    "id": "laurie",
+    "title": "Laurie",
+    "audio": "/audio/joe/laurie.mp3",
+    "timestamps": "/audio/joe/laurie.json",
+    "status": "ready"
   }
 ]
