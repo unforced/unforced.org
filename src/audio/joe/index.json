@@ -61,5 +61,12 @@
     "audio": "/audio/joe/coming-home.mp3",
     "timestamps": "/audio/joe/coming-home.json",
     "status": "ready"
+  },
+  {
+    "id": "cancer",
+    "title": "Cancer, Treatment, Learning, Loving, Death",
+    "audio": "/audio/joe/cancer.mp3",
+    "timestamps": "/audio/joe/cancer.json",
+    "status": "ready"
   }
 ]
