@@ -82,5 +82,12 @@
     "audio": "/audio/joe/laurie.mp3",
     "timestamps": "/audio/joe/laurie.json",
     "status": "ready"
+  },
+  {
+    "id": "space-between-thoughts",
+    "title": "The Space Between Thoughts",
+    "audio": "/audio/joe/space-between-thoughts.mp3",
+    "timestamps": "/audio/joe/space-between-thoughts.json",
+    "status": "ready"
   }
 ]
