@@ -47,5 +47,12 @@
     "audio": "/audio/joe/oregon.mp3",
     "timestamps": "/audio/joe/oregon.json",
     "status": "ready"
+  },
+  {
+    "id": "off-the-grid",
+    "title": "Off The Grid with Two More Kids",
+    "audio": "/audio/joe/off-the-grid.mp3",
+    "timestamps": "/audio/joe/off-the-grid.json",
+    "status": "ready"
   }
 ]
