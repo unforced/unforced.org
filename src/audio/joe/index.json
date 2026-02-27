@@ -103,5 +103,12 @@
     "audio": "/audio/joe/diving-into-doing.mp3",
     "timestamps": "/audio/joe/diving-into-doing.json",
     "status": "ready"
+  },
+  {
+    "id": "working-to-the-center",
+    "title": "Working To The Center\u2026",
+    "audio": "/audio/joe/working-to-the-center.mp3",
+    "timestamps": "/audio/joe/working-to-the-center.json",
+    "status": "ready"
   }
 ]

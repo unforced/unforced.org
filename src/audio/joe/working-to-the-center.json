@@ -1,0 +1,3719 @@
+{
+  "id": "working-to-the-center",
+  "title": "Working To The Center…",
+  "audio": "/audio/joe/working-to-the-center.mp3",
+  "duration": 231.96,
+  "paragraphs": [
+    {
+      "text": "Working To The Center…",
+      "start": 0.0,
+      "end": 1.02,
+      "words": [
+        {
+          "word": "Working",
+          "start": 0.0,
+          "end": 0.36
+        },
+        {
+          "word": "to",
+          "start": 0.36,
+          "end": 0.64
+        },
+        {
+          "word": "the",
+          "start": 0.64,
+          "end": 0.76
+        },
+        {
+          "word": "center.",
+          "start": 0.76,
+          "end": 1.02
+        }
+      ],
+      "is_title": true
+    },
+    {
+      "text": "Our home was built in 1904 by an escaped slave (3 times returned). At that time, fieldstone foundations were the norm, and over time, these weaken depending on conditions. Things do not always stay so level and square as the old foundation settles. In the 13 years we have lived here, I have opened every single wall, floor, and ceiling in this old home, leveled, straightened, rewired and insulated everything to make the home as efficient as possible. The original center is the laundry room, the final room for me to fix to meet the new level established and carried throughout the house now. Old builders had some cool ideas and ours surely did. He left artifacts in each wall. A 1904 penny, a newspaper and National Geographic of 1904 are some of these artifacts. As I finished the house a few years ago, I gathered all of the artifacts and put them in one toolbox along with adding a few of our own items to the box, which I buried into the ceiling for the next person who remodels this home to find.",
+      "start": 1.46,
+      "end": 53.72,
+      "words": [
+        {
+          "word": "Our",
+          "start": 1.46,
+          "end": 1.56
+        },
+        {
+          "word": "home",
+          "start": 1.56,
+          "end": 1.76
+        },
+        {
+          "word": "was",
+          "start": 1.76,
+          "end": 1.94
+        },
+        {
+          "word": "built",
+          "start": 1.94,
+          "end": 2.12
+        },
+        {
+          "word": "in",
+          "start": 2.12,
+          "end": 2.28
+        },
+        {
+          "word": "1904",
+          "start": 2.28,
+          "end": 2.86
+        },
+        {
+          "word": "by",
+          "start": 2.86,
+          "end": 3.08
+        },
+        {
+          "word": "an",
+          "start": 3.08,
+          "end": 3.16
+        },
+        {
+          "word": "escape",
+          "start": 3.16,
+          "end": 3.36
+        },
+        {
+          "word": "slave",
+          "start": 3.36,
+          "end": 3.76
+        },
+        {
+          "word": "three",
+          "start": 3.76,
+          "end": 4.06
+        },
+        {
+          "word": "times",
+          "start": 4.06,
+          "end": 4.38
+        },
+        {
+          "word": "returned.",
+          "start": 4.38,
+          "end": 4.84
+        },
+        {
+          "word": "At",
+          "start": 5.32,
+          "end": 5.38
+        },
+        {
+          "word": "that",
+          "start": 5.38,
+          "end": 5.52
+        },
+        {
+          "word": "time,",
+          "start": 5.52,
+          "end": 5.86
+        },
+        {
+          "word": "fuelstone",
+          "start": 5.96,
+          "end": 6.28
+        },
+        {
+          "word": "foundations",
+          "start": 6.28,
+          "end": 6.68
+        },
+        {
+          "word": "were",
+          "start": 6.68,
+          "end": 6.96
+        },
+        {
+          "word": "the",
+          "start": 6.96,
+          "end": 7.08
+        },
+        {
+          "word": "norm",
+          "start": 7.08,
+          "end": 7.34
+        },
+        {
+          "word": "and",
+          "start": 7.34,
+          "end": 7.58
+        },
+        {
+          "word": "over",
+          "start": 7.58,
+          "end": 7.76
+        },
+        {
+          "word": "time,",
+          "start": 7.76,
+          "end": 8.04
+        },
+        {
+          "word": "these",
+          "start": 8.18,
+          "end": 8.34
+        },
+        {
+          "word": "weakened,",
+          "start": 8.34,
+          "end": 8.68
+        },
+        {
+          "word": "depending",
+          "start": 8.86,
+          "end": 8.96
+        },
+        {
+          "word": "on",
+          "start": 8.96,
+          "end": 9.18
+        },
+        {
+          "word": "conditions.",
+          "start": 9.18,
+          "end": 9.58
+        },
+        {
+          "word": "Things",
+          "start": 10.16,
+          "end": 10.42
+        },
+        {
+          "word": "do",
+          "start": 10.42,
+          "end": 10.56
+        },
+        {
+          "word": "not",
+          "start": 10.56,
+          "end": 10.68
+        },
+        {
+          "word": "always",
+          "start": 10.68,
+          "end": 10.92
+        },
+        {
+          "word": "stay",
+          "start": 10.92,
+          "end": 11.14
+        },
+        {
+          "word": "so",
+          "start": 11.14,
+          "end": 11.32
+        },
+        {
+          "word": "level",
+          "start": 11.32,
+          "end": 11.56
+        },
+        {
+          "word": "and",
+          "start": 11.56,
+          "end": 11.72
+        },
+        {
+          "word": "square",
+          "start": 11.72,
+          "end": 11.94
+        },
+        {
+          "word": "as",
+          "start": 11.94,
+          "end": 12.16
+        },
+        {
+          "word": "the",
+          "start": 12.16,
+          "end": 12.24
+        },
+        {
+          "word": "old",
+          "start": 12.24,
+          "end": 12.34
+        },
+        {
+          "word": "foundation",
+          "start": 12.34,
+          "end": 12.72
+        },
+        {
+          "word": "settles.",
+          "start": 12.72,
+          "end": 13.26
+        },
+        {
+          "word": "In",
+          "start": 13.74,
+          "end": 13.82
+        },
+        {
+          "word": "the",
+          "start": 13.82,
+          "end": 13.88
+        },
+        {
+          "word": "13",
+          "start": 13.88,
+          "end": 14.2
+        },
+        {
+          "word": "years",
+          "start": 14.2,
+          "end": 14.5
+        },
+        {
+          "word": "we",
+          "start": 14.5,
+          "end": 14.68
+        },
+        {
+          "word": "have",
+          "start": 14.68,
+          "end": 14.78
+        },
+        {
+          "word": "lived",
+          "start": 14.78,
+          "end": 14.94
+        },
+        {
+          "word": "here,",
+          "start": 14.94,
+          "end": 15.2
+        },
+        {
+          "word": "I",
+          "start": 15.58,
+          "end": 15.7
+        },
+        {
+          "word": "have",
+          "start": 15.7,
+          "end": 15.8
+        },
+        {
+          "word": "opened",
+          "start": 15.8,
+          "end": 16.04
+        },
+        {
+          "word": "every",
+          "start": 16.04,
+          "end": 16.42
+        },
+        {
+          "word": "single",
+          "start": 16.42,
+          "end": 16.82
+        },
+        {
+          "word": "wall,",
+          "start": 16.82,
+          "end": 17.1
+        },
+        {
+          "word": "floor,",
+          "start": 17.3,
+          "end": 17.44
+        },
+        {
+          "word": "and",
+          "start": 17.46,
+          "end": 17.62
+        },
+        {
+          "word": "ceiling",
+          "start": 17.62,
+          "end": 17.92
+        },
+        {
+          "word": "in",
+          "start": 17.92,
+          "end": 18.06
+        },
+        {
+          "word": "this",
+          "start": 18.06,
+          "end": 18.24
+        },
+        {
+          "word": "old",
+          "start": 18.24,
+          "end": 18.38
+        },
+        {
+          "word": "home,",
+          "start": 18.38,
+          "end": 18.74
+        },
+        {
+          "word": "levels,",
+          "start": 19.2,
+          "end": 19.32
+        },
+        {
+          "word": "straightened,",
+          "start": 19.7,
+          "end": 20.02
+        },
+        {
+          "word": "rewired,",
+          "start": 20.22,
+          "end": 20.58
+        },
+        {
+          "word": "and",
+          "start": 20.58,
+          "end": 20.7
+        },
+        {
+          "word": "insulated",
+          "start": 20.7,
+          "end": 21.08
+        },
+        {
+          "word": "everything",
+          "start": 21.08,
+          "end": 21.56
+        },
+        {
+          "word": "to",
+          "start": 21.56,
+          "end": 22.1
+        },
+        {
+          "word": "make",
+          "start": 22.1,
+          "end": 22.24
+        },
+        {
+          "word": "the",
+          "start": 22.24,
+          "end": 22.38
+        },
+        {
+          "word": "home",
+          "start": 22.38,
+          "end": 22.54
+        },
+        {
+          "word": "as",
+          "start": 22.54,
+          "end": 22.7
+        },
+        {
+          "word": "efficient",
+          "start": 22.7,
+          "end": 22.98
+        },
+        {
+          "word": "as",
+          "start": 22.98,
+          "end": 23.2
+        },
+        {
+          "word": "possible.",
+          "start": 23.2,
+          "end": 23.66
+        },
+        {
+          "word": "The",
+          "start": 24.38,
+          "end": 24.6
+        },
+        {
+          "word": "original",
+          "start": 24.6,
+          "end": 24.84
+        },
+        {
+          "word": "center",
+          "start": 24.84,
+          "end": 25.18
+        },
+        {
+          "word": "is",
+          "start": 25.18,
+          "end": 25.4
+        },
+        {
+          "word": "the",
+          "start": 25.4,
+          "end": 25.54
+        },
+        {
+          "word": "laundry",
+          "start": 25.54,
+          "end": 25.8
+        },
+        {
+          "word": "room.",
+          "start": 25.8,
+          "end": 26.06
+        },
+        {
+          "word": "The",
+          "start": 26.44,
+          "end": 26.62
+        },
+        {
+          "word": "final",
+          "start": 26.62,
+          "end": 26.86
+        },
+        {
+          "word": "room",
+          "start": 26.86,
+          "end": 27.04
+        },
+        {
+          "word": "for",
+          "start": 27.04,
+          "end": 27.18
+        },
+        {
+          "word": "me",
+          "start": 27.18,
+          "end": 27.26
+        },
+        {
+          "word": "to",
+          "start": 27.26,
+          "end": 27.36
+        },
+        {
+          "word": "fix",
+          "start": 27.36,
+          "end": 27.56
+        },
+        {
+          "word": "to",
+          "start": 27.56,
+          "end": 27.76
+        },
+        {
+          "word": "meet",
+          "start": 27.76,
+          "end": 27.88
+        },
+        {
+          "word": "the",
+          "start": 27.88,
+          "end": 28.0
+        },
+        {
+          "word": "new",
+          "start": 28.0,
+          "end": 28.16
+        },
+        {
+          "word": "level",
+          "start": 28.16,
+          "end": 28.4
+        },
+        {
+          "word": "established",
+          "start": 28.4,
+          "end": 28.96
+        },
+        {
+          "word": "and",
+          "start": 28.96,
+          "end": 29.1
+        },
+        {
+          "word": "carried",
+          "start": 29.1,
+          "end": 29.32
+        },
+        {
+          "word": "throughout",
+          "start": 29.32,
+          "end": 29.6
+        },
+        {
+          "word": "the",
+          "start": 29.6,
+          "end": 29.76
+        },
+        {
+          "word": "house",
+          "start": 29.76,
+          "end": 29.92
+        },
+        {
+          "word": "now.",
+          "start": 29.92,
+          "end": 30.26
+        },
+        {
+          "word": "Old",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "word": "builders",
+          "start": 32.48,
+          "end": 32.78
+        },
+        {
+          "word": "had",
+          "start": 32.78,
+          "end": 32.94
+        },
+        {
+          "word": "some",
+          "start": 32.94,
+          "end": 33.08
+        },
+        {
+          "word": "cool",
+          "start": 33.08,
+          "end": 33.26
+        },
+        {
+          "word": "ideas",
+          "start": 33.26,
+          "end": 33.56
+        },
+        {
+          "word": "and",
+          "start": 33.56,
+          "end": 33.76
+        },
+        {
+          "word": "ours",
+          "start": 33.76,
+          "end": 33.9
+        },
+        {
+          "word": "surely",
+          "start": 33.9,
+          "end": 34.22
+        },
+        {
+          "word": "did.",
+          "start": 34.22,
+          "end": 34.46
+        },
+        {
+          "word": "He",
+          "start": 35.02,
+          "end": 35.16
+        },
+        {
+          "word": "left",
+          "start": 35.16,
+          "end": 35.28
+        },
+        {
+          "word": "artifacts",
+          "start": 35.28,
+          "end": 35.64
+        },
+        {
+          "word": "in",
+          "start": 35.64,
+          "end": 35.94
+        },
+        {
+          "word": "each",
+          "start": 35.94,
+          "end": 36.08
+        },
+        {
+          "word": "wall,",
+          "start": 36.08,
+          "end": 36.28
+        },
+        {
+          "word": "a",
+          "start": 36.84,
+          "end": 36.92
+        },
+        {
+          "word": "1904",
+          "start": 36.92,
+          "end": 37.48
+        },
+        {
+          "word": "penny,",
+          "start": 37.48,
+          "end": 37.84
+        },
+        {
+          "word": "a",
+          "start": 38.32,
+          "end": 38.38
+        },
+        {
+          "word": "newspaper",
+          "start": 38.38,
+          "end": 38.62
+        },
+        {
+          "word": "and",
+          "start": 38.62,
+          "end": 38.92
+        },
+        {
+          "word": "national",
+          "start": 38.92,
+          "end": 39.16
+        },
+        {
+          "word": "geographic",
+          "start": 39.16,
+          "end": 39.48
+        },
+        {
+          "word": "of",
+          "start": 39.48,
+          "end": 39.86
+        },
+        {
+          "word": "1904",
+          "start": 39.86,
+          "end": 40.48
+        },
+        {
+          "word": "are",
+          "start": 40.48,
+          "end": 40.66
+        },
+        {
+          "word": "some",
+          "start": 40.66,
+          "end": 40.86
+        },
+        {
+          "word": "of",
+          "start": 40.86,
+          "end": 40.96
+        },
+        {
+          "word": "these",
+          "start": 40.96,
+          "end": 41.1
+        },
+        {
+          "word": "artifacts.",
+          "start": 41.1,
+          "end": 41.5
+        },
+        {
+          "word": "As",
+          "start": 43.34,
+          "end": 43.74
+        },
+        {
+          "word": "I",
+          "start": 43.74,
+          "end": 43.84
+        },
+        {
+          "word": "finished",
+          "start": 43.84,
+          "end": 44.04
+        },
+        {
+          "word": "the",
+          "start": 44.04,
+          "end": 44.24
+        },
+        {
+          "word": "house",
+          "start": 44.24,
+          "end": 44.34
+        },
+        {
+          "word": "a",
+          "start": 44.34,
+          "end": 44.5
+        },
+        {
+          "word": "few",
+          "start": 44.5,
+          "end": 44.6
+        },
+        {
+          "word": "years",
+          "start": 44.6,
+          "end": 44.84
+        },
+        {
+          "word": "ago,",
+          "start": 44.84,
+          "end": 45.08
+        },
+        {
+          "word": "I",
+          "start": 45.54,
+          "end": 45.58
+        },
+        {
+          "word": "gathered",
+          "start": 45.58,
+          "end": 45.8
+        },
+        {
+          "word": "all",
+          "start": 45.8,
+          "end": 45.98
+        },
+        {
+          "word": "of",
+          "start": 45.98,
+          "end": 46.1
+        },
+        {
+          "word": "the",
+          "start": 46.1,
+          "end": 46.18
+        },
+        {
+          "word": "artifacts",
+          "start": 46.18,
+          "end": 46.5
+        },
+        {
+          "word": "and",
+          "start": 46.5,
+          "end": 46.7
+        },
+        {
+          "word": "put",
+          "start": 46.7,
+          "end": 46.78
+        },
+        {
+          "word": "them",
+          "start": 46.78,
+          "end": 46.94
+        },
+        {
+          "word": "in",
+          "start": 46.94,
+          "end": 47.02
+        },
+        {
+          "word": "one",
+          "start": 47.02,
+          "end": 47.2
+        },
+        {
+          "word": "toolbox",
+          "start": 47.2,
+          "end": 47.62
+        },
+        {
+          "word": "along",
+          "start": 47.62,
+          "end": 48.02
+        },
+        {
+          "word": "with",
+          "start": 48.02,
+          "end": 48.18
+        },
+        {
+          "word": "adding",
+          "start": 48.18,
+          "end": 48.44
+        },
+        {
+          "word": "a",
+          "start": 48.44,
+          "end": 48.58
+        },
+        {
+          "word": "few",
+          "start": 48.58,
+          "end": 48.74
+        },
+        {
+          "word": "of",
+          "start": 48.74,
+          "end": 48.86
+        },
+        {
+          "word": "our",
+          "start": 48.86,
+          "end": 48.96
+        },
+        {
+          "word": "own",
+          "start": 48.96,
+          "end": 49.14
+        },
+        {
+          "word": "items",
+          "start": 49.14,
+          "end": 49.44
+        },
+        {
+          "word": "to",
+          "start": 49.44,
+          "end": 49.64
+        },
+        {
+          "word": "the",
+          "start": 49.64,
+          "end": 49.72
+        },
+        {
+          "word": "box,",
+          "start": 49.72,
+          "end": 49.94
+        },
+        {
+          "word": "which",
+          "start": 50.52,
+          "end": 50.64
+        },
+        {
+          "word": "I",
+          "start": 50.64,
+          "end": 50.76
+        },
+        {
+          "word": "buried",
+          "start": 50.76,
+          "end": 50.96
+        },
+        {
+          "word": "into",
+          "start": 50.96,
+          "end": 51.2
+        },
+        {
+          "word": "the",
+          "start": 51.2,
+          "end": 51.34
+        },
+        {
+          "word": "ceiling",
+          "start": 51.34,
+          "end": 51.62
+        },
+        {
+          "word": "for",
+          "start": 51.62,
+          "end": 51.8
+        },
+        {
+          "word": "the",
+          "start": 51.8,
+          "end": 51.9
+        },
+        {
+          "word": "next",
+          "start": 51.9,
+          "end": 52.0
+        },
+        {
+          "word": "person",
+          "start": 52.0,
+          "end": 52.34
+        },
+        {
+          "word": "who",
+          "start": 52.34,
+          "end": 52.48
+        },
+        {
+          "word": "remodeled",
+          "start": 52.48,
+          "end": 52.86
+        },
+        {
+          "word": "this",
+          "start": 52.86,
+          "end": 53.08
+        },
+        {
+          "word": "home",
+          "start": 53.08,
+          "end": 53.24
+        },
+        {
+          "word": "to",
+          "start": 53.24,
+          "end": 53.38
+        },
+        {
+          "word": "find.",
+          "start": 53.38,
+          "end": 53.72
+        }
+      ]
+    },
+    {
+      "text": "February 23, 2013",
+      "start": 54.1,
+      "end": 55.56,
+      "words": [
+        {
+          "word": "February",
+          "start": 54.1,
+          "end": 54.3
+        },
+        {
+          "word": "23rd,",
+          "start": 54.3,
+          "end": 55.04
+        },
+        {
+          "word": "2013.",
+          "start": 55.04,
+          "end": 55.56
+        }
+      ]
+    },
+    {
+      "text": "Floor finished, back to the benches.",
+      "start": 56.16,
+      "end": 57.62,
+      "words": [
+        {
+          "word": "Floor",
+          "start": 56.16,
+          "end": 56.34
+        },
+        {
+          "word": "finished,",
+          "start": 56.34,
+          "end": 56.72
+        },
+        {
+          "word": "back",
+          "start": 56.94,
+          "end": 57.08
+        },
+        {
+          "word": "to",
+          "start": 57.08,
+          "end": 57.22
+        },
+        {
+          "word": "the",
+          "start": 57.22,
+          "end": 57.28
+        },
+        {
+          "word": "benches.",
+          "start": 57.28,
+          "end": 57.62
+        }
+      ]
+    },
+    {
+      "text": "Rosalita making sure everything is level.",
+      "start": 58.1,
+      "end": 59.58,
+      "words": [
+        {
+          "word": "Rosalie",
+          "start": 58.1,
+          "end": 58.32
+        },
+        {
+          "word": "to",
+          "start": 58.32,
+          "end": 58.48
+        },
+        {
+          "word": "making",
+          "start": 58.48,
+          "end": 58.62
+        },
+        {
+          "word": "sure",
+          "start": 58.62,
+          "end": 58.9
+        },
+        {
+          "word": "everything",
+          "start": 58.9,
+          "end": 59.28
+        },
+        {
+          "word": "is",
+          "start": 59.28,
+          "end": 59.58
+        }
+      ]
+    },
+    {
+      "text": "March 3, 2013",
+      "start": 59.58,
+      "end": 60.72,
+      "words": [
+        {
+          "word": "level.",
+          "start": 59.58,
+          "end": 59.82
+        },
+        {
+          "word": "March",
+          "start": 60.18,
+          "end": 60.32
+        },
+        {
+          "word": "3rd,",
+          "start": 60.32,
+          "end": 60.72
+        }
+      ]
+    },
+    {
+      "text": "Information is neutral; it is the simple stating of what is known. How we receive that information determines whether it stays neutral or becomes tainted. In the last few months, I have received a ton of information and continued to dig for more, about glioblastoma, the type of brain cancer I have. Here is what I have discovered and this post will serve as information about my current status as well...",
+      "start": 60.76,
+      "end": 83.18,
+      "words": [
+        {
+          "word": "2013.",
+          "start": 60.76,
+          "end": 61.48
+        },
+        {
+          "word": "Information",
+          "start": 62.08,
+          "end": 62.36
+        },
+        {
+          "word": "is",
+          "start": 62.36,
+          "end": 62.7
+        },
+        {
+          "word": "neutral,",
+          "start": 62.7,
+          "end": 63.02
+        },
+        {
+          "word": "it",
+          "start": 63.18,
+          "end": 63.22
+        },
+        {
+          "word": "is",
+          "start": 63.22,
+          "end": 63.32
+        },
+        {
+          "word": "the",
+          "start": 63.32,
+          "end": 63.46
+        },
+        {
+          "word": "simple",
+          "start": 63.46,
+          "end": 63.76
+        },
+        {
+          "word": "stating",
+          "start": 63.76,
+          "end": 64.1
+        },
+        {
+          "word": "of",
+          "start": 64.1,
+          "end": 64.3
+        },
+        {
+          "word": "what",
+          "start": 64.3,
+          "end": 64.44
+        },
+        {
+          "word": "is",
+          "start": 64.44,
+          "end": 64.58
+        },
+        {
+          "word": "known,",
+          "start": 64.58,
+          "end": 64.84
+        },
+        {
+          "word": "how",
+          "start": 65.46,
+          "end": 65.7
+        },
+        {
+          "word": "we",
+          "start": 65.7,
+          "end": 65.84
+        },
+        {
+          "word": "receive",
+          "start": 65.84,
+          "end": 66.16
+        },
+        {
+          "word": "that",
+          "start": 66.16,
+          "end": 66.38
+        },
+        {
+          "word": "information",
+          "start": 66.38,
+          "end": 66.7
+        },
+        {
+          "word": "determines",
+          "start": 66.7,
+          "end": 67.18
+        },
+        {
+          "word": "whether",
+          "start": 67.18,
+          "end": 67.52
+        },
+        {
+          "word": "it",
+          "start": 67.52,
+          "end": 67.64
+        },
+        {
+          "word": "stays",
+          "start": 67.64,
+          "end": 67.86
+        },
+        {
+          "word": "neutral",
+          "start": 67.86,
+          "end": 68.22
+        },
+        {
+          "word": "or",
+          "start": 68.22,
+          "end": 68.6
+        },
+        {
+          "word": "becomes",
+          "start": 68.6,
+          "end": 68.92
+        },
+        {
+          "word": "tainted.",
+          "start": 68.92,
+          "end": 69.28
+        },
+        {
+          "word": "In",
+          "start": 70.98,
+          "end": 71.42
+        },
+        {
+          "word": "the",
+          "start": 71.42,
+          "end": 71.52
+        },
+        {
+          "word": "last",
+          "start": 71.52,
+          "end": 71.68
+        },
+        {
+          "word": "few",
+          "start": 71.68,
+          "end": 71.88
+        },
+        {
+          "word": "months,",
+          "start": 71.88,
+          "end": 72.04
+        },
+        {
+          "word": "I",
+          "start": 72.16,
+          "end": 72.22
+        },
+        {
+          "word": "have",
+          "start": 72.22,
+          "end": 72.32
+        },
+        {
+          "word": "received",
+          "start": 72.32,
+          "end": 72.58
+        },
+        {
+          "word": "a",
+          "start": 72.58,
+          "end": 72.68
+        },
+        {
+          "word": "ton",
+          "start": 72.68,
+          "end": 72.88
+        },
+        {
+          "word": "of",
+          "start": 72.88,
+          "end": 73.0
+        },
+        {
+          "word": "information",
+          "start": 73.0,
+          "end": 73.5
+        },
+        {
+          "word": "and",
+          "start": 73.5,
+          "end": 73.66
+        },
+        {
+          "word": "continued",
+          "start": 73.66,
+          "end": 73.96
+        },
+        {
+          "word": "to",
+          "start": 73.96,
+          "end": 74.16
+        },
+        {
+          "word": "dig",
+          "start": 74.16,
+          "end": 74.28
+        },
+        {
+          "word": "for",
+          "start": 74.28,
+          "end": 74.46
+        },
+        {
+          "word": "more,",
+          "start": 74.46,
+          "end": 74.7
+        },
+        {
+          "word": "about",
+          "start": 75.22,
+          "end": 75.4
+        },
+        {
+          "word": "glioblastoma,",
+          "start": 75.4,
+          "end": 76.26
+        },
+        {
+          "word": "the",
+          "start": 76.4,
+          "end": 76.46
+        },
+        {
+          "word": "type",
+          "start": 76.46,
+          "end": 76.6
+        },
+        {
+          "word": "of",
+          "start": 76.6,
+          "end": 76.76
+        },
+        {
+          "word": "brain",
+          "start": 76.76,
+          "end": 76.94
+        },
+        {
+          "word": "cancer",
+          "start": 76.94,
+          "end": 77.28
+        },
+        {
+          "word": "I",
+          "start": 77.28,
+          "end": 77.44
+        },
+        {
+          "word": "have.",
+          "start": 77.44,
+          "end": 77.72
+        },
+        {
+          "word": "Here",
+          "start": 78.32,
+          "end": 78.76
+        },
+        {
+          "word": "is",
+          "start": 78.76,
+          "end": 79.0
+        },
+        {
+          "word": "what",
+          "start": 79.0,
+          "end": 79.16
+        },
+        {
+          "word": "I",
+          "start": 79.16,
+          "end": 79.26
+        },
+        {
+          "word": "have",
+          "start": 79.26,
+          "end": 79.36
+        },
+        {
+          "word": "discovered,",
+          "start": 79.36,
+          "end": 79.82
+        },
+        {
+          "word": "and",
+          "start": 79.82,
+          "end": 80.38
+        },
+        {
+          "word": "this",
+          "start": 80.38,
+          "end": 80.52
+        },
+        {
+          "word": "post",
+          "start": 80.52,
+          "end": 80.84
+        },
+        {
+          "word": "will",
+          "start": 80.84,
+          "end": 81.02
+        },
+        {
+          "word": "serve",
+          "start": 81.02,
+          "end": 81.32
+        },
+        {
+          "word": "as",
+          "start": 81.32,
+          "end": 81.46
+        },
+        {
+          "word": "information",
+          "start": 81.46,
+          "end": 81.96
+        },
+        {
+          "word": "about",
+          "start": 81.96,
+          "end": 82.2
+        },
+        {
+          "word": "my",
+          "start": 82.2,
+          "end": 82.36
+        },
+        {
+          "word": "current",
+          "start": 82.36,
+          "end": 82.56
+        },
+        {
+          "word": "status",
+          "start": 82.56,
+          "end": 82.88
+        },
+        {
+          "word": "as",
+          "start": 82.88,
+          "end": 83.18
+        }
+      ]
+    },
+    {
+      "text": "There is a gene called the MGMT gene, which is a DNA-repairing gene common to all people. In some people, this gene is silent or latent and in others, this gene is active. For me the gene is active, which means my body is working to repair damaged DNA constantly. Seems like a good thing, right? Well, yes and no. Chemotherapy is designed to do DNA damage, which is its goal in the hopes of slowing the progression of cancer. For me, though, because my body is constantly working to repair the damage, chemotherapy is not the wisest choice and though it still shows some effectiveness with people with the active MGMT gene, it is far less effective than if the gene was silent. Ok, neutral information, good to know.",
+      "start": 83.18,
+      "end": 121.22,
+      "words": [
+        {
+          "word": "well.",
+          "start": 83.18,
+          "end": 83.42
+        },
+        {
+          "word": "There",
+          "start": 83.86,
+          "end": 84.06
+        },
+        {
+          "word": "is",
+          "start": 84.06,
+          "end": 84.22
+        },
+        {
+          "word": "a",
+          "start": 84.22,
+          "end": 84.32
+        },
+        {
+          "word": "gene",
+          "start": 84.32,
+          "end": 84.5
+        },
+        {
+          "word": "called",
+          "start": 84.5,
+          "end": 84.76
+        },
+        {
+          "word": "the",
+          "start": 84.76,
+          "end": 84.96
+        },
+        {
+          "word": "MGMT",
+          "start": 84.96,
+          "end": 85.56
+        },
+        {
+          "word": "gene,",
+          "start": 85.56,
+          "end": 85.92
+        },
+        {
+          "word": "which",
+          "start": 86.14,
+          "end": 86.24
+        },
+        {
+          "word": "is",
+          "start": 86.24,
+          "end": 86.34
+        },
+        {
+          "word": "a",
+          "start": 86.34,
+          "end": 86.44
+        },
+        {
+          "word": "DNA",
+          "start": 86.44,
+          "end": 86.7
+        },
+        {
+          "word": "repairing",
+          "start": 86.7,
+          "end": 87.06
+        },
+        {
+          "word": "gene",
+          "start": 87.06,
+          "end": 87.44
+        },
+        {
+          "word": "coming",
+          "start": 87.44,
+          "end": 87.74
+        },
+        {
+          "word": "to",
+          "start": 87.74,
+          "end": 87.96
+        },
+        {
+          "word": "all",
+          "start": 87.96,
+          "end": 88.1
+        },
+        {
+          "word": "people.",
+          "start": 88.1,
+          "end": 88.42
+        },
+        {
+          "word": "In",
+          "start": 88.92,
+          "end": 89.0
+        },
+        {
+          "word": "some",
+          "start": 89.0,
+          "end": 89.18
+        },
+        {
+          "word": "people",
+          "start": 89.18,
+          "end": 89.5
+        },
+        {
+          "word": "this",
+          "start": 89.5,
+          "end": 89.72
+        },
+        {
+          "word": "gene",
+          "start": 89.72,
+          "end": 89.94
+        },
+        {
+          "word": "is",
+          "start": 89.94,
+          "end": 90.1
+        },
+        {
+          "word": "silent",
+          "start": 90.1,
+          "end": 90.44
+        },
+        {
+          "word": "or",
+          "start": 90.44,
+          "end": 90.68
+        },
+        {
+          "word": "latent,",
+          "start": 90.68,
+          "end": 90.96
+        },
+        {
+          "word": "and",
+          "start": 91.2,
+          "end": 91.28
+        },
+        {
+          "word": "in",
+          "start": 91.28,
+          "end": 91.38
+        },
+        {
+          "word": "others",
+          "start": 91.38,
+          "end": 91.64
+        },
+        {
+          "word": "this",
+          "start": 91.64,
+          "end": 92.06
+        },
+        {
+          "word": "gene",
+          "start": 92.06,
+          "end": 92.26
+        },
+        {
+          "word": "is",
+          "start": 92.26,
+          "end": 92.42
+        },
+        {
+          "word": "active.",
+          "start": 92.42,
+          "end": 92.72
+        },
+        {
+          "word": "For",
+          "start": 93.2,
+          "end": 93.28
+        },
+        {
+          "word": "me",
+          "start": 93.28,
+          "end": 93.4
+        },
+        {
+          "word": "the",
+          "start": 93.4,
+          "end": 93.52
+        },
+        {
+          "word": "gene",
+          "start": 93.52,
+          "end": 93.68
+        },
+        {
+          "word": "is",
+          "start": 93.68,
+          "end": 93.84
+        },
+        {
+          "word": "active,",
+          "start": 93.84,
+          "end": 94.1
+        },
+        {
+          "word": "which",
+          "start": 94.24,
+          "end": 94.36
+        },
+        {
+          "word": "means",
+          "start": 94.36,
+          "end": 94.52
+        },
+        {
+          "word": "my",
+          "start": 94.52,
+          "end": 94.68
+        },
+        {
+          "word": "body",
+          "start": 94.68,
+          "end": 94.94
+        },
+        {
+          "word": "is",
+          "start": 94.94,
+          "end": 95.08
+        },
+        {
+          "word": "working",
+          "start": 95.08,
+          "end": 95.32
+        },
+        {
+          "word": "to",
+          "start": 95.32,
+          "end": 95.46
+        },
+        {
+          "word": "repair",
+          "start": 95.46,
+          "end": 95.7
+        },
+        {
+          "word": "damage",
+          "start": 95.7,
+          "end": 96.08
+        },
+        {
+          "word": "DNA",
+          "start": 96.08,
+          "end": 96.42
+        },
+        {
+          "word": "constantly.",
+          "start": 96.42,
+          "end": 97.0
+        },
+        {
+          "word": "Seems",
+          "start": 97.64,
+          "end": 97.8
+        },
+        {
+          "word": "like",
+          "start": 97.8,
+          "end": 97.96
+        },
+        {
+          "word": "a",
+          "start": 97.96,
+          "end": 98.04
+        },
+        {
+          "word": "good",
+          "start": 98.04,
+          "end": 98.16
+        },
+        {
+          "word": "thing,",
+          "start": 98.16,
+          "end": 98.42
+        },
+        {
+          "word": "right?",
+          "start": 98.52,
+          "end": 98.62
+        },
+        {
+          "word": "Well,",
+          "start": 99.66,
+          "end": 99.92
+        },
+        {
+          "word": "yes",
+          "start": 100.42,
+          "end": 100.64
+        },
+        {
+          "word": "and",
+          "start": 100.64,
+          "end": 100.86
+        },
+        {
+          "word": "no.",
+          "start": 100.86,
+          "end": 101.12
+        },
+        {
+          "word": "Chemotherapies",
+          "start": 102.2,
+          "end": 102.64
+        },
+        {
+          "word": "designed",
+          "start": 102.64,
+          "end": 102.94
+        },
+        {
+          "word": "to",
+          "start": 102.94,
+          "end": 103.16
+        },
+        {
+          "word": "do",
+          "start": 103.16,
+          "end": 103.24
+        },
+        {
+          "word": "DNA",
+          "start": 103.24,
+          "end": 103.52
+        },
+        {
+          "word": "damage,",
+          "start": 103.52,
+          "end": 103.96
+        },
+        {
+          "word": "which",
+          "start": 104.28,
+          "end": 104.54
+        },
+        {
+          "word": "is",
+          "start": 104.54,
+          "end": 104.64
+        },
+        {
+          "word": "its",
+          "start": 104.64,
+          "end": 104.8
+        },
+        {
+          "word": "goal",
+          "start": 104.8,
+          "end": 105.02
+        },
+        {
+          "word": "in",
+          "start": 105.02,
+          "end": 105.24
+        },
+        {
+          "word": "the",
+          "start": 105.24,
+          "end": 105.34
+        },
+        {
+          "word": "hopes",
+          "start": 105.34,
+          "end": 105.46
+        },
+        {
+          "word": "of",
+          "start": 105.46,
+          "end": 105.6
+        },
+        {
+          "word": "slowing",
+          "start": 105.6,
+          "end": 105.84
+        },
+        {
+          "word": "the",
+          "start": 105.84,
+          "end": 105.98
+        },
+        {
+          "word": "progression",
+          "start": 105.98,
+          "end": 106.24
+        },
+        {
+          "word": "of",
+          "start": 106.24,
+          "end": 106.44
+        },
+        {
+          "word": "cancer.",
+          "start": 106.44,
+          "end": 106.78
+        },
+        {
+          "word": "For",
+          "start": 107.42,
+          "end": 107.5
+        },
+        {
+          "word": "me,",
+          "start": 107.5,
+          "end": 107.72
+        },
+        {
+          "word": "though,",
+          "start": 107.82,
+          "end": 107.94
+        },
+        {
+          "word": "because",
+          "start": 108.06,
+          "end": 108.24
+        },
+        {
+          "word": "my",
+          "start": 108.24,
+          "end": 108.4
+        },
+        {
+          "word": "body",
+          "start": 108.4,
+          "end": 108.72
+        },
+        {
+          "word": "is",
+          "start": 108.72,
+          "end": 108.86
+        },
+        {
+          "word": "constantly",
+          "start": 108.86,
+          "end": 109.22
+        },
+        {
+          "word": "working",
+          "start": 109.22,
+          "end": 109.48
+        },
+        {
+          "word": "to",
+          "start": 109.48,
+          "end": 109.68
+        },
+        {
+          "word": "repair",
+          "start": 109.68,
+          "end": 109.86
+        },
+        {
+          "word": "the",
+          "start": 109.86,
+          "end": 110.04
+        },
+        {
+          "word": "damage,",
+          "start": 110.04,
+          "end": 110.4
+        },
+        {
+          "word": "chemotherapy",
+          "start": 110.88,
+          "end": 111.08
+        },
+        {
+          "word": "is",
+          "start": 111.08,
+          "end": 111.52
+        },
+        {
+          "word": "not",
+          "start": 111.52,
+          "end": 111.66
+        },
+        {
+          "word": "the",
+          "start": 111.66,
+          "end": 111.8
+        },
+        {
+          "word": "wisest",
+          "start": 111.8,
+          "end": 112.1
+        },
+        {
+          "word": "choice,",
+          "start": 112.1,
+          "end": 112.4
+        },
+        {
+          "word": "and",
+          "start": 112.96,
+          "end": 113.08
+        },
+        {
+          "word": "though",
+          "start": 113.08,
+          "end": 113.24
+        },
+        {
+          "word": "it",
+          "start": 113.24,
+          "end": 113.32
+        },
+        {
+          "word": "still",
+          "start": 113.32,
+          "end": 113.52
+        },
+        {
+          "word": "shows",
+          "start": 113.52,
+          "end": 113.72
+        },
+        {
+          "word": "some",
+          "start": 113.72,
+          "end": 113.9
+        },
+        {
+          "word": "effectiveness",
+          "start": 113.9,
+          "end": 114.34
+        },
+        {
+          "word": "with",
+          "start": 114.34,
+          "end": 114.58
+        },
+        {
+          "word": "people",
+          "start": 114.58,
+          "end": 114.8
+        },
+        {
+          "word": "with",
+          "start": 114.8,
+          "end": 114.98
+        },
+        {
+          "word": "the",
+          "start": 114.98,
+          "end": 115.06
+        },
+        {
+          "word": "active",
+          "start": 115.06,
+          "end": 115.3
+        },
+        {
+          "word": "MGMT",
+          "start": 115.3,
+          "end": 115.88
+        },
+        {
+          "word": "gene,",
+          "start": 115.88,
+          "end": 116.28
+        },
+        {
+          "word": "it",
+          "start": 116.74,
+          "end": 116.8
+        },
+        {
+          "word": "is",
+          "start": 116.8,
+          "end": 116.86
+        },
+        {
+          "word": "far",
+          "start": 116.86,
+          "end": 117.12
+        },
+        {
+          "word": "less",
+          "start": 117.12,
+          "end": 117.26
+        },
+        {
+          "word": "effective",
+          "start": 117.26,
+          "end": 117.68
+        },
+        {
+          "word": "than",
+          "start": 117.68,
+          "end": 117.88
+        },
+        {
+          "word": "if",
+          "start": 117.88,
+          "end": 118.0
+        },
+        {
+          "word": "the",
+          "start": 118.0,
+          "end": 118.08
+        },
+        {
+          "word": "gene",
+          "start": 118.08,
+          "end": 118.24
+        },
+        {
+          "word": "was",
+          "start": 118.24,
+          "end": 118.38
+        },
+        {
+          "word": "silent.",
+          "start": 118.38,
+          "end": 118.68
+        },
+        {
+          "word": "Okay,",
+          "start": 119.12,
+          "end": 119.38
+        },
+        {
+          "word": "neutral",
+          "start": 119.7,
+          "end": 120.02
+        },
+        {
+          "word": "information,",
+          "start": 120.02,
+          "end": 120.5
+        },
+        {
+          "word": "good",
+          "start": 120.94,
+          "end": 121.08
+        },
+        {
+          "word": "to",
+          "start": 121.08,
+          "end": 121.22
+        }
+      ]
+    },
+    {
+      "text": "In ten days or so, I will get scans of my brain to see where and what activity of glioblastoma remains in my brain, and the typical Western medical protocol is then to do another round of chemotherapy over the course of the next year, with the hopes being to extend life to 700-1200 days if the chemo is effective. However, knowing what I now know about the genetics of my body and the effectiveness of chemo in that situation the question becomes, “Do I want to extend life by this means or is there another approach that may or may not offer more chances of prolonging life but at least of enjoying life?” Chemo is not much fun, as many of you know, and working on my benches in my shop is lots of fun. I will get the scans and see what they say, but doubt that I will opt for the second round of chemotherapy.",
+      "start": 121.22,
+      "end": 186.18,
+      "words": [
+        {
+          "word": "know.",
+          "start": 121.22,
+          "end": 121.42
+        },
+        {
+          "word": "In",
+          "start": 121.94,
+          "end": 122.04
+        },
+        {
+          "word": "10",
+          "start": 122.04,
+          "end": 122.2
+        },
+        {
+          "word": "days",
+          "start": 122.2,
+          "end": 122.42
+        },
+        {
+          "word": "or",
+          "start": 122.42,
+          "end": 122.58
+        },
+        {
+          "word": "so,",
+          "start": 122.58,
+          "end": 122.7
+        },
+        {
+          "word": "I",
+          "start": 122.8,
+          "end": 122.86
+        },
+        {
+          "word": "will",
+          "start": 122.86,
+          "end": 122.94
+        },
+        {
+          "word": "get",
+          "start": 122.94,
+          "end": 123.08
+        },
+        {
+          "word": "scans",
+          "start": 123.08,
+          "end": 123.38
+        },
+        {
+          "word": "of",
+          "start": 123.38,
+          "end": 123.54
+        },
+        {
+          "word": "my",
+          "start": 123.54,
+          "end": 123.64
+        },
+        {
+          "word": "brain",
+          "start": 123.64,
+          "end": 123.9
+        },
+        {
+          "word": "to",
+          "start": 123.9,
+          "end": 124.1
+        },
+        {
+          "word": "see",
+          "start": 124.1,
+          "end": 124.26
+        },
+        {
+          "word": "where",
+          "start": 124.26,
+          "end": 124.5
+        },
+        {
+          "word": "and",
+          "start": 124.5,
+          "end": 124.64
+        },
+        {
+          "word": "what",
+          "start": 124.64,
+          "end": 124.72
+        },
+        {
+          "word": "activity",
+          "start": 124.72,
+          "end": 125.04
+        },
+        {
+          "word": "of",
+          "start": 125.04,
+          "end": 125.24
+        },
+        {
+          "word": "glioblastoma",
+          "start": 125.24,
+          "end": 125.74
+        },
+        {
+          "word": "remains",
+          "start": 125.74,
+          "end": 126.06
+        },
+        {
+          "word": "in",
+          "start": 126.06,
+          "end": 126.22
+        },
+        {
+          "word": "my",
+          "start": 126.22,
+          "end": 126.32
+        },
+        {
+          "word": "brain,",
+          "start": 126.32,
+          "end": 126.64
+        },
+        {
+          "word": "and",
+          "start": 127.04,
+          "end": 127.22
+        },
+        {
+          "word": "the",
+          "start": 127.22,
+          "end": 127.34
+        },
+        {
+          "word": "typical",
+          "start": 127.34,
+          "end": 127.54
+        },
+        {
+          "word": "Western",
+          "start": 127.54,
+          "end": 127.88
+        },
+        {
+          "word": "medical",
+          "start": 127.88,
+          "end": 128.1
+        },
+        {
+          "word": "protocol",
+          "start": 128.1,
+          "end": 128.56
+        },
+        {
+          "word": "is",
+          "start": 128.56,
+          "end": 128.78
+        },
+        {
+          "word": "then",
+          "start": 128.78,
+          "end": 128.92
+        },
+        {
+          "word": "to",
+          "start": 128.92,
+          "end": 129.06
+        },
+        {
+          "word": "do",
+          "start": 129.06,
+          "end": 129.16
+        },
+        {
+          "word": "another",
+          "start": 129.16,
+          "end": 129.38
+        },
+        {
+          "word": "round",
+          "start": 129.38,
+          "end": 129.66
+        },
+        {
+          "word": "of",
+          "start": 129.66,
+          "end": 129.78
+        },
+        {
+          "word": "chemotherapy",
+          "start": 129.78,
+          "end": 130.22
+        },
+        {
+          "word": "over",
+          "start": 130.22,
+          "end": 130.54
+        },
+        {
+          "word": "the",
+          "start": 130.54,
+          "end": 130.64
+        },
+        {
+          "word": "course",
+          "start": 130.64,
+          "end": 130.8
+        },
+        {
+          "word": "of",
+          "start": 130.8,
+          "end": 130.96
+        },
+        {
+          "word": "the",
+          "start": 130.96,
+          "end": 131.02
+        },
+        {
+          "word": "next",
+          "start": 131.02,
+          "end": 131.2
+        },
+        {
+          "word": "year,",
+          "start": 131.2,
+          "end": 131.52
+        },
+        {
+          "word": "with",
+          "start": 131.98,
+          "end": 132.18
+        },
+        {
+          "word": "the",
+          "start": 132.18,
+          "end": 132.3
+        },
+        {
+          "word": "hopes",
+          "start": 132.3,
+          "end": 132.46
+        },
+        {
+          "word": "being",
+          "start": 132.46,
+          "end": 132.72
+        },
+        {
+          "word": "to",
+          "start": 132.72,
+          "end": 132.9
+        },
+        {
+          "word": "extend",
+          "start": 132.9,
+          "end": 133.16
+        },
+        {
+          "word": "life",
+          "start": 133.16,
+          "end": 133.4
+        },
+        {
+          "word": "to",
+          "start": 133.4,
+          "end": 133.58
+        },
+        {
+          "word": "7200",
+          "start": 133.58,
+          "end": 134.08
+        },
+        {
+          "word": "days",
+          "start": 134.08,
+          "end": 134.56
+        },
+        {
+          "word": "if",
+          "start": 134.56,
+          "end": 134.78
+        },
+        {
+          "word": "a",
+          "start": 134.78,
+          "end": 134.86
+        },
+        {
+          "word": "chemo",
+          "start": 134.86,
+          "end": 135.08
+        },
+        {
+          "word": "is",
+          "start": 135.08,
+          "end": 135.18
+        },
+        {
+          "word": "effective.",
+          "start": 135.18,
+          "end": 135.52
+        },
+        {
+          "word": "However,",
+          "start": 136.2,
+          "end": 136.4
+        },
+        {
+          "word": "knowing",
+          "start": 136.62,
+          "end": 136.82
+        },
+        {
+          "word": "what",
+          "start": 136.82,
+          "end": 137.0
+        },
+        {
+          "word": "I",
+          "start": 137.0,
+          "end": 137.08
+        },
+        {
+          "word": "now",
+          "start": 137.08,
+          "end": 137.28
+        },
+        {
+          "word": "know",
+          "start": 137.28,
+          "end": 137.46
+        },
+        {
+          "word": "about",
+          "start": 137.46,
+          "end": 137.66
+        },
+        {
+          "word": "the",
+          "start": 137.66,
+          "end": 137.8
+        },
+        {
+          "word": "genesis",
+          "start": 137.8,
+          "end": 138.12
+        },
+        {
+          "word": "of",
+          "start": 138.12,
+          "end": 138.26
+        },
+        {
+          "word": "my",
+          "start": 138.26,
+          "end": 138.32
+        },
+        {
+          "word": "body",
+          "start": 138.32,
+          "end": 138.64
+        },
+        {
+          "word": "and",
+          "start": 138.64,
+          "end": 138.76
+        },
+        {
+          "word": "the",
+          "start": 138.76,
+          "end": 138.86
+        },
+        {
+          "word": "effectiveness",
+          "start": 138.86,
+          "end": 139.24
+        },
+        {
+          "word": "of",
+          "start": 139.24,
+          "end": 139.44
+        },
+        {
+          "word": "chemo",
+          "start": 139.44,
+          "end": 139.86
+        },
+        {
+          "word": "in",
+          "start": 139.86,
+          "end": 139.94
+        },
+        {
+          "word": "that",
+          "start": 139.94,
+          "end": 140.02
+        },
+        {
+          "word": "situation,",
+          "start": 140.02,
+          "end": 140.58
+        },
+        {
+          "word": "the",
+          "start": 140.88,
+          "end": 140.94
+        },
+        {
+          "word": "question",
+          "start": 140.94,
+          "end": 141.22
+        },
+        {
+          "word": "becomes,",
+          "start": 141.22,
+          "end": 141.52
+        },
+        {
+          "word": "do",
+          "start": 142.18,
+          "end": 142.26
+        },
+        {
+          "word": "I",
+          "start": 142.26,
+          "end": 142.32
+        },
+        {
+          "word": "want",
+          "start": 142.32,
+          "end": 142.46
+        },
+        {
+          "word": "to",
+          "start": 142.46,
+          "end": 142.58
+        },
+        {
+          "word": "extend",
+          "start": 142.58,
+          "end": 142.8
+        },
+        {
+          "word": "life",
+          "start": 142.8,
+          "end": 143.04
+        },
+        {
+          "word": "by",
+          "start": 143.04,
+          "end": 143.22
+        },
+        {
+          "word": "this",
+          "start": 143.22,
+          "end": 143.4
+        },
+        {
+          "word": "means,",
+          "start": 143.4,
+          "end": 143.64
+        },
+        {
+          "word": "or",
+          "start": 143.72,
+          "end": 143.84
+        },
+        {
+          "word": "is",
+          "start": 143.84,
+          "end": 143.94
+        },
+        {
+          "word": "there",
+          "start": 143.94,
+          "end": 144.06
+        },
+        {
+          "word": "another",
+          "start": 144.06,
+          "end": 144.38
+        },
+        {
+          "word": "approach",
+          "start": 144.38,
+          "end": 144.86
+        },
+        {
+          "word": "that",
+          "start": 144.86,
+          "end": 145.06
+        },
+        {
+          "word": "may",
+          "start": 145.06,
+          "end": 145.26
+        },
+        {
+          "word": "or",
+          "start": 145.26,
+          "end": 145.38
+        },
+        {
+          "word": "may",
+          "start": 145.38,
+          "end": 145.46
+        },
+        {
+          "word": "not",
+          "start": 145.46,
+          "end": 145.62
+        },
+        {
+          "word": "offer",
+          "start": 145.62,
+          "end": 145.9
+        },
+        {
+          "word": "more",
+          "start": 145.9,
+          "end": 146.1
+        },
+        {
+          "word": "chances",
+          "start": 146.1,
+          "end": 146.46
+        },
+        {
+          "word": "of",
+          "start": 146.46,
+          "end": 146.62
+        },
+        {
+          "word": "prolonging",
+          "start": 146.62,
+          "end": 147.08
+        },
+        {
+          "word": "life,",
+          "start": 147.08,
+          "end": 147.36
+        },
+        {
+          "word": "but",
+          "start": 147.66,
+          "end": 147.74
+        },
+        {
+          "word": "at",
+          "start": 147.74,
+          "end": 147.82
+        },
+        {
+          "word": "least",
+          "start": 147.82,
+          "end": 148.0
+        },
+        {
+          "word": "of",
+          "start": 148.0,
+          "end": 148.18
+        },
+        {
+          "word": "enjoying",
+          "start": 148.18,
+          "end": 148.5
+        },
+        {
+          "word": "life?",
+          "start": 148.5,
+          "end": 149.04
+        },
+        {
+          "word": "I",
+          "start": 175.76,
+          "end": 176.16
+        },
+        {
+          "word": "will",
+          "start": 176.16,
+          "end": 176.26
+        },
+        {
+          "word": "get",
+          "start": 176.26,
+          "end": 176.4
+        },
+        {
+          "word": "the",
+          "start": 176.4,
+          "end": 176.54
+        },
+        {
+          "word": "scans",
+          "start": 176.54,
+          "end": 176.8
+        },
+        {
+          "word": "and",
+          "start": 176.8,
+          "end": 177.0
+        },
+        {
+          "word": "see",
+          "start": 177.0,
+          "end": 177.12
+        },
+        {
+          "word": "what",
+          "start": 177.12,
+          "end": 177.22
+        },
+        {
+          "word": "they",
+          "start": 177.22,
+          "end": 177.36
+        },
+        {
+          "word": "say,",
+          "start": 177.36,
+          "end": 177.74
+        },
+        {
+          "word": "but",
+          "start": 178.02,
+          "end": 178.34
+        },
+        {
+          "word": "doubt",
+          "start": 178.34,
+          "end": 178.56
+        },
+        {
+          "word": "that",
+          "start": 178.56,
+          "end": 178.74
+        },
+        {
+          "word": "I",
+          "start": 178.74,
+          "end": 178.86
+        },
+        {
+          "word": "will",
+          "start": 178.86,
+          "end": 178.98
+        },
+        {
+          "word": "opt",
+          "start": 178.98,
+          "end": 179.2
+        },
+        {
+          "word": "for",
+          "start": 179.2,
+          "end": 179.38
+        },
+        {
+          "word": "the",
+          "start": 179.38,
+          "end": 179.46
+        },
+        {
+          "word": "second",
+          "start": 179.46,
+          "end": 179.68
+        },
+        {
+          "word": "round",
+          "start": 179.68,
+          "end": 179.9
+        },
+        {
+          "word": "of",
+          "start": 179.9,
+          "end": 180.04
+        },
+        {
+          "word": "chemotherapy.",
+          "start": 180.04,
+          "end": 180.52
+        },
+        {
+          "word": "This",
+          "start": 181.02,
+          "end": 181.34
+        },
+        {
+          "word": "choice,",
+          "start": 181.34,
+          "end": 181.72
+        },
+        {
+          "word": "to",
+          "start": 181.88,
+          "end": 182.02
+        },
+        {
+          "word": "me,",
+          "start": 182.02,
+          "end": 182.18
+        },
+        {
+          "word": "is",
+          "start": 182.34,
+          "end": 182.38
+        },
+        {
+          "word": "not",
+          "start": 182.38,
+          "end": 182.52
+        },
+        {
+          "word": "a",
+          "start": 182.52,
+          "end": 182.62
+        },
+        {
+          "word": "resignation",
+          "start": 182.62,
+          "end": 183.0
+        },
+        {
+          "word": "at",
+          "start": 183.0,
+          "end": 183.22
+        },
+        {
+          "word": "all",
+          "start": 183.22,
+          "end": 183.5
+        },
+        {
+          "word": "to",
+          "start": 183.5,
+          "end": 183.7
+        },
+        {
+          "word": "glioblastoma",
+          "start": 183.7,
+          "end": 184.3
+        },
+        {
+          "word": "taking",
+          "start": 184.3,
+          "end": 184.58
+        },
+        {
+          "word": "the",
+          "start": 184.58,
+          "end": 184.76
+        },
+        {
+          "word": "away",
+          "start": 184.76,
+          "end": 185.0
+        },
+        {
+          "word": "from",
+          "start": 185.0,
+          "end": 185.2
+        },
+        {
+          "word": "this",
+          "start": 185.2,
+          "end": 185.3
+        },
+        {
+          "word": "planet",
+          "start": 185.3,
+          "end": 185.56
+        },
+        {
+          "word": "from",
+          "start": 185.56,
+          "end": 185.76
+        },
+        {
+          "word": "this",
+          "start": 185.76,
+          "end": 185.92
+        },
+        {
+          "word": "life.",
+          "start": 185.92,
+          "end": 186.18
+        }
+      ]
+    },
+    {
+      "text": "This choice, to me, is not a resignation at all to glioblastoma taking me away from this planet, from this life. It is an understanding of the information I currently have and discerning the wisest course of action, or in this case the wisest potential inaction. Lao Tsu said, “In doing nothing, everything is accomplished.” Well, that statement runs up against our societal and cultural conditioning, but I learned long ago about the value of waiting when things are not clear. Many times I have walked away from the work I was doing because I could not clearly see what the piece of cherry or maple was telling me at the moment. It always paid off handsomely by letting the fog clear and then the proper course of action would inevitably show itself. That is my status update, just neutral information, and I wanted to share it with you all. It is lightly snowing outside and Rosalita and Solstice, the gray cat, are playing their game of not liking each other under the kitchen table. Have a great day all, enjoy it fully.",
+      "start": 186.68,
+      "end": 231.96,
+      "words": [
+        {
+          "word": "It",
+          "start": 186.68,
+          "end": 186.86
+        },
+        {
+          "word": "is",
+          "start": 186.86,
+          "end": 186.94
+        },
+        {
+          "word": "an",
+          "start": 186.94,
+          "end": 187.04
+        },
+        {
+          "word": "understanding",
+          "start": 187.04,
+          "end": 187.56
+        },
+        {
+          "word": "of",
+          "start": 187.56,
+          "end": 187.78
+        },
+        {
+          "word": "the",
+          "start": 187.78,
+          "end": 187.86
+        },
+        {
+          "word": "information",
+          "start": 187.86,
+          "end": 188.26
+        },
+        {
+          "word": "I",
+          "start": 188.26,
+          "end": 188.4
+        },
+        {
+          "word": "currently",
+          "start": 188.4,
+          "end": 188.66
+        },
+        {
+          "word": "have,",
+          "start": 188.66,
+          "end": 189.12
+        },
+        {
+          "word": "and",
+          "start": 189.52,
+          "end": 189.56
+        },
+        {
+          "word": "discerning",
+          "start": 189.56,
+          "end": 189.94
+        },
+        {
+          "word": "the",
+          "start": 189.94,
+          "end": 190.08
+        },
+        {
+          "word": "wisest",
+          "start": 190.08,
+          "end": 190.52
+        },
+        {
+          "word": "course",
+          "start": 190.52,
+          "end": 190.68
+        },
+        {
+          "word": "of",
+          "start": 190.68,
+          "end": 190.9
+        },
+        {
+          "word": "action,",
+          "start": 190.9,
+          "end": 191.2
+        },
+        {
+          "word": "or",
+          "start": 191.7,
+          "end": 191.78
+        },
+        {
+          "word": "in",
+          "start": 191.78,
+          "end": 191.88
+        },
+        {
+          "word": "this",
+          "start": 191.88,
+          "end": 191.98
+        },
+        {
+          "word": "case",
+          "start": 191.98,
+          "end": 192.18
+        },
+        {
+          "word": "the",
+          "start": 192.18,
+          "end": 192.4
+        },
+        {
+          "word": "wisest",
+          "start": 192.4,
+          "end": 192.78
+        },
+        {
+          "word": "potential",
+          "start": 192.78,
+          "end": 193.08
+        },
+        {
+          "word": "in",
+          "start": 193.08,
+          "end": 193.36
+        },
+        {
+          "word": "action.",
+          "start": 193.36,
+          "end": 193.72
+        },
+        {
+          "word": "Loud",
+          "start": 194.46,
+          "end": 194.62
+        },
+        {
+          "word": "Sioux",
+          "start": 194.62,
+          "end": 194.96
+        },
+        {
+          "word": "said,",
+          "start": 194.96,
+          "end": 195.26
+        },
+        {
+          "word": "in",
+          "start": 195.78,
+          "end": 195.78
+        },
+        {
+          "word": "doing",
+          "start": 195.78,
+          "end": 195.96
+        },
+        {
+          "word": "nothing,",
+          "start": 195.96,
+          "end": 196.34
+        },
+        {
+          "word": "everything",
+          "start": 196.7,
+          "end": 197.02
+        },
+        {
+          "word": "is",
+          "start": 197.02,
+          "end": 197.26
+        },
+        {
+          "word": "accomplished.",
+          "start": 197.26,
+          "end": 197.72
+        },
+        {
+          "word": "Well,",
+          "start": 200.2,
+          "end": 200.6
+        },
+        {
+          "word": "that",
+          "start": 200.72,
+          "end": 200.82
+        },
+        {
+          "word": "statement",
+          "start": 200.82,
+          "end": 201.12
+        },
+        {
+          "word": "runs",
+          "start": 201.12,
+          "end": 201.32
+        },
+        {
+          "word": "up",
+          "start": 201.32,
+          "end": 201.52
+        },
+        {
+          "word": "against",
+          "start": 201.52,
+          "end": 201.74
+        },
+        {
+          "word": "our",
+          "start": 201.74,
+          "end": 201.9
+        },
+        {
+          "word": "societal",
+          "start": 201.9,
+          "end": 202.38
+        },
+        {
+          "word": "and",
+          "start": 202.38,
+          "end": 202.54
+        },
+        {
+          "word": "cultural",
+          "start": 202.54,
+          "end": 202.82
+        },
+        {
+          "word": "conditioning,",
+          "start": 202.82,
+          "end": 203.34
+        },
+        {
+          "word": "but",
+          "start": 203.66,
+          "end": 203.74
+        },
+        {
+          "word": "I",
+          "start": 203.74,
+          "end": 203.84
+        },
+        {
+          "word": "learned",
+          "start": 203.84,
+          "end": 203.98
+        },
+        {
+          "word": "long",
+          "start": 203.98,
+          "end": 204.24
+        },
+        {
+          "word": "ago",
+          "start": 204.24,
+          "end": 204.48
+        },
+        {
+          "word": "about",
+          "start": 204.48,
+          "end": 204.68
+        },
+        {
+          "word": "the",
+          "start": 204.68,
+          "end": 204.8
+        },
+        {
+          "word": "value",
+          "start": 204.8,
+          "end": 205.06
+        },
+        {
+          "word": "of",
+          "start": 205.06,
+          "end": 205.2
+        },
+        {
+          "word": "waiting",
+          "start": 205.2,
+          "end": 205.42
+        },
+        {
+          "word": "when",
+          "start": 205.42,
+          "end": 205.6
+        },
+        {
+          "word": "things",
+          "start": 205.6,
+          "end": 205.78
+        },
+        {
+          "word": "are",
+          "start": 205.78,
+          "end": 205.92
+        },
+        {
+          "word": "not",
+          "start": 205.92,
+          "end": 206.04
+        },
+        {
+          "word": "clear.",
+          "start": 206.04,
+          "end": 206.32
+        },
+        {
+          "word": "Many",
+          "start": 207.16,
+          "end": 207.34
+        },
+        {
+          "word": "times",
+          "start": 207.34,
+          "end": 207.64
+        },
+        {
+          "word": "I",
+          "start": 207.64,
+          "end": 207.8
+        },
+        {
+          "word": "have",
+          "start": 207.8,
+          "end": 207.9
+        },
+        {
+          "word": "walked",
+          "start": 207.9,
+          "end": 208.06
+        },
+        {
+          "word": "away",
+          "start": 208.06,
+          "end": 208.28
+        },
+        {
+          "word": "from",
+          "start": 208.28,
+          "end": 208.46
+        },
+        {
+          "word": "the",
+          "start": 208.46,
+          "end": 208.56
+        },
+        {
+          "word": "work",
+          "start": 208.56,
+          "end": 208.68
+        },
+        {
+          "word": "I",
+          "start": 208.68,
+          "end": 208.86
+        },
+        {
+          "word": "was",
+          "start": 208.86,
+          "end": 209.0
+        },
+        {
+          "word": "doing",
+          "start": 209.0,
+          "end": 209.2
+        },
+        {
+          "word": "because",
+          "start": 209.2,
+          "end": 209.46
+        },
+        {
+          "word": "I",
+          "start": 209.46,
+          "end": 209.58
+        },
+        {
+          "word": "could",
+          "start": 209.58,
+          "end": 209.74
+        },
+        {
+          "word": "not",
+          "start": 209.74,
+          "end": 209.88
+        },
+        {
+          "word": "clearly",
+          "start": 209.88,
+          "end": 210.14
+        },
+        {
+          "word": "see",
+          "start": 210.14,
+          "end": 210.5
+        },
+        {
+          "word": "what",
+          "start": 210.5,
+          "end": 210.64
+        },
+        {
+          "word": "the",
+          "start": 210.64,
+          "end": 210.74
+        },
+        {
+          "word": "piece",
+          "start": 210.74,
+          "end": 210.94
+        },
+        {
+          "word": "of",
+          "start": 210.94,
+          "end": 211.06
+        },
+        {
+          "word": "cherry",
+          "start": 211.06,
+          "end": 211.28
+        },
+        {
+          "word": "or",
+          "start": 211.28,
+          "end": 211.54
+        },
+        {
+          "word": "maple",
+          "start": 211.54,
+          "end": 211.66
+        },
+        {
+          "word": "was",
+          "start": 211.66,
+          "end": 211.96
+        },
+        {
+          "word": "telling",
+          "start": 211.96,
+          "end": 212.16
+        },
+        {
+          "word": "me",
+          "start": 212.16,
+          "end": 212.34
+        },
+        {
+          "word": "at",
+          "start": 212.34,
+          "end": 212.42
+        },
+        {
+          "word": "the",
+          "start": 212.42,
+          "end": 212.5
+        },
+        {
+          "word": "moment.",
+          "start": 212.5,
+          "end": 212.72
+        },
+        {
+          "word": "It",
+          "start": 213.24,
+          "end": 213.4
+        },
+        {
+          "word": "always",
+          "start": 213.4,
+          "end": 213.6
+        },
+        {
+          "word": "paid",
+          "start": 213.6,
+          "end": 213.78
+        },
+        {
+          "word": "off",
+          "start": 213.78,
+          "end": 214.0
+        },
+        {
+          "word": "handsomely",
+          "start": 214.0,
+          "end": 214.46
+        },
+        {
+          "word": "by",
+          "start": 214.46,
+          "end": 214.62
+        },
+        {
+          "word": "letting",
+          "start": 214.62,
+          "end": 214.8
+        },
+        {
+          "word": "the",
+          "start": 214.8,
+          "end": 214.98
+        },
+        {
+          "word": "fog",
+          "start": 214.98,
+          "end": 215.16
+        },
+        {
+          "word": "clear,",
+          "start": 215.16,
+          "end": 215.5
+        },
+        {
+          "word": "and",
+          "start": 216.06,
+          "end": 216.14
+        },
+        {
+          "word": "then",
+          "start": 216.14,
+          "end": 216.24
+        },
+        {
+          "word": "the",
+          "start": 216.24,
+          "end": 216.36
+        },
+        {
+          "word": "proper",
+          "start": 216.36,
+          "end": 216.62
+        },
+        {
+          "word": "course",
+          "start": 216.62,
+          "end": 216.86
+        },
+        {
+          "word": "of",
+          "start": 216.86,
+          "end": 217.06
+        },
+        {
+          "word": "action",
+          "start": 217.06,
+          "end": 217.36
+        },
+        {
+          "word": "would",
+          "start": 217.36,
+          "end": 217.5
+        },
+        {
+          "word": "inevitably",
+          "start": 217.5,
+          "end": 217.82
+        },
+        {
+          "word": "show",
+          "start": 217.82,
+          "end": 218.16
+        },
+        {
+          "word": "itself.",
+          "start": 218.16,
+          "end": 218.56
+        },
+        {
+          "word": "That",
+          "start": 219.32,
+          "end": 219.52
+        },
+        {
+          "word": "is",
+          "start": 219.52,
+          "end": 219.64
+        },
+        {
+          "word": "my",
+          "start": 219.64,
+          "end": 219.8
+        },
+        {
+          "word": "status",
+          "start": 219.8,
+          "end": 220.1
+        },
+        {
+          "word": "update,",
+          "start": 220.1,
+          "end": 220.52
+        },
+        {
+          "word": "just",
+          "start": 220.72,
+          "end": 220.84
+        },
+        {
+          "word": "neutral",
+          "start": 220.84,
+          "end": 221.16
+        },
+        {
+          "word": "information,",
+          "start": 221.16,
+          "end": 221.7
+        },
+        {
+          "word": "and",
+          "start": 222.0,
+          "end": 222.08
+        },
+        {
+          "word": "I",
+          "start": 222.08,
+          "end": 222.16
+        },
+        {
+          "word": "wanted",
+          "start": 222.16,
+          "end": 222.34
+        },
+        {
+          "word": "to",
+          "start": 222.34,
+          "end": 222.48
+        },
+        {
+          "word": "share",
+          "start": 222.48,
+          "end": 222.66
+        },
+        {
+          "word": "it",
+          "start": 222.66,
+          "end": 222.78
+        },
+        {
+          "word": "with",
+          "start": 222.78,
+          "end": 222.88
+        },
+        {
+          "word": "you",
+          "start": 222.88,
+          "end": 223.02
+        },
+        {
+          "word": "all.",
+          "start": 223.02,
+          "end": 223.22
+        },
+        {
+          "word": "It",
+          "start": 223.7,
+          "end": 223.86
+        },
+        {
+          "word": "is",
+          "start": 223.86,
+          "end": 223.98
+        },
+        {
+          "word": "lightly",
+          "start": 223.98,
+          "end": 224.2
+        },
+        {
+          "word": "snowing",
+          "start": 224.2,
+          "end": 224.64
+        },
+        {
+          "word": "outside,",
+          "start": 224.64,
+          "end": 225.06
+        },
+        {
+          "word": "and",
+          "start": 225.38,
+          "end": 225.46
+        },
+        {
+          "word": "Rosalita",
+          "start": 225.46,
+          "end": 225.82
+        },
+        {
+          "word": "and",
+          "start": 225.82,
+          "end": 225.98
+        },
+        {
+          "word": "Solstice,",
+          "start": 225.98,
+          "end": 226.36
+        },
+        {
+          "word": "the",
+          "start": 226.38,
+          "end": 226.54
+        },
+        {
+          "word": "great",
+          "start": 226.54,
+          "end": 226.7
+        },
+        {
+          "word": "cat,",
+          "start": 226.7,
+          "end": 226.96
+        },
+        {
+          "word": "are",
+          "start": 227.44,
+          "end": 227.52
+        },
+        {
+          "word": "playing",
+          "start": 227.52,
+          "end": 227.78
+        },
+        {
+          "word": "their",
+          "start": 227.78,
+          "end": 227.98
+        },
+        {
+          "word": "game",
+          "start": 227.98,
+          "end": 228.16
+        },
+        {
+          "word": "of",
+          "start": 228.16,
+          "end": 228.28
+        },
+        {
+          "word": "not",
+          "start": 228.28,
+          "end": 228.42
+        },
+        {
+          "word": "liking",
+          "start": 228.42,
+          "end": 228.72
+        },
+        {
+          "word": "each",
+          "start": 228.72,
+          "end": 228.96
+        },
+        {
+          "word": "other",
+          "start": 228.96,
+          "end": 229.06
+        },
+        {
+          "word": "under",
+          "start": 229.06,
+          "end": 229.26
+        },
+        {
+          "word": "the",
+          "start": 229.26,
+          "end": 229.4
+        },
+        {
+          "word": "kitchen",
+          "start": 229.4,
+          "end": 229.58
+        },
+        {
+          "word": "table.",
+          "start": 229.58,
+          "end": 229.98
+        },
+        {
+          "word": "Have",
+          "start": 230.42,
+          "end": 230.54
+        },
+        {
+          "word": "a",
+          "start": 230.54,
+          "end": 230.64
+        },
+        {
+          "word": "great",
+          "start": 230.64,
+          "end": 230.78
+        },
+        {
+          "word": "day",
+          "start": 230.78,
+          "end": 230.98
+        },
+        {
+          "word": "all,",
+          "start": 230.98,
+          "end": 231.16
+        },
+        {
+          "word": "enjoy",
+          "start": 231.3,
+          "end": 231.52
+        },
+        {
+          "word": "it",
+          "start": 231.52,
+          "end": 231.7
+        },
+        {
+          "word": "fully.",
+          "start": 231.7,
+          "end": 231.96
+        }
+      ]
+    }
+  ]
+}
