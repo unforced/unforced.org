@@ -68,5 +68,12 @@
     "audio": "/audio/joe/cancer.mp3",
     "timestamps": "/audio/joe/cancer.json",
     "status": "ready"
+  },
+  {
+    "id": "grief",
+    "title": "Grief And Continuance",
+    "audio": "/audio/joe/grief.mp3",
+    "timestamps": "/audio/joe/grief.json",
+    "status": "ready"
   }
 ]
