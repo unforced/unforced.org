@@ -1,9 +1,8 @@
 ---
-title: "Completing the CU Chapter"
-subtitle: "Two years on"
+title: "Two Years at ATLAS"
 date: 2026-04-29
 author: "Aaron G Neyer"
-source: "https://unforced.substack.com/p/completing-the-cu-chapter"
+source: "https://unforced.substack.com/p/two-years-at-atlas"
 tags: []
 ---
 
@@ -75,4 +74,4 @@ With gratitude, I close this chapter and open the next one.
 
 ---
 
-*This piece was written with the help of AI as a thinking and writing partner. See the [process notes](/process/completing-the-cu-chapter/) for how it came together.*
+*This piece was written with the help of AI as a thinking and writing partner. See the [process notes](/process/two-years-at-atlas/) for how it came together.*

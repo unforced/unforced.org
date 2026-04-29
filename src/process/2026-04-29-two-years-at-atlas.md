@@ -1,14 +1,14 @@
 ---
-title: "Process: Completing the CU Chapter"
+title: "Process: Two Years at ATLAS"
 subtitle: "How this piece came together"
 date: 2026-04-29
 author: "Aaron G Neyer"
 tags: []
 ---
 
-This is a process companion to [*Completing the CU Chapter*](/writing/completing-the-cu-chapter/). I'm using AI more and more as a thinking and writing partner — for this piece, that meant working with Claude through several drafts. I want to be transparent about that, so I'm starting to share process notes for pieces where AI was substantially involved. The aim isn't to claim or disclaim — it's to show.
+This is a process companion to [*Two Years at ATLAS*](/writing/two-years-at-atlas/). I'm using AI more and more as a thinking and writing partner — for this piece, that meant working with Claude through several drafts. I want to be transparent about that, so I'm starting to share process notes for pieces where AI was substantially involved. The aim isn't to claim or disclaim — it's to show.
 
-What follows is the journey. The free-write came first, written stream-of-consciousness without much structure. Claude responded with what it heard as the strongest signal, plus a structural outline. I wrote a first draft using that as scaffolding, then we iterated together to the version that's [now published](/writing/completing-the-cu-chapter/).
+What follows is the journey. The free-write came first, written stream-of-consciousness without much structure. Claude responded with what it heard as the strongest signal, plus a structural outline. I wrote a first draft using that as scaffolding, then we iterated together to the version that's [now published](/writing/two-years-at-atlas/).
 
 ---
 
@@ -143,5 +143,6 @@ From there we iterated through several rounds of small targeted edits:
 - Made the pivot story more concrete: rather than saying I had been "building in the wrong direction," named the specific shift — that I had been trying to build too much at once, layering features over an unfinished foundation, when the simpler move was to ship the core (the Vault) first and let everything else grow outward from it.
 - Added a bridge sentence at the top of §3 acknowledging the concrete patterns the project surfaced (solo by default but better with collaborators, over-engineering when unchecked, builder more than presenter) before reaching for the deeper balance insight.
 - Closed the loop with *Practicing Radical Reorganization* at the end, naming the public-facing piece as the outward complement to this inward-facing one.
+- Renamed the piece. The first draft was titled *Completing the CU Chapter*, with the subtitle *Two years on*. On a final pass we landed on the more direct *Two Years at ATLAS* — pointing more closely to what the piece actually is, rather than reaching for an abstract or evocative frame.
 
-The published version is at [Completing the CU Chapter](/writing/completing-the-cu-chapter/).
+The published version is at [Two Years at ATLAS](/writing/two-years-at-atlas/).
