@@ -60,3 +60,7 @@ In Radical Reorganization, I articulated a philosophy and an understanding of ou
 This is the radical reorganization, and we're all part of it. It's up to each of us how we show up for it — locally with us here, or in your own place with your own people. If any of this resonates, I'd love to hear from you.
 
 Eleven years gone, but more present than ever. Unforced.
+
+---
+
+*This piece was written with the help of AI as a thinking and writing partner. See the [process notes](/process/practicing-radical-reorganization/) for how it came together.*
