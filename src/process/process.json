@@ -1,0 +1,5 @@
+{
+  "layout": "post.njk",
+  "tags": "process",
+  "permalink": "/process/{{ page.fileSlug }}/index.html"
+}
