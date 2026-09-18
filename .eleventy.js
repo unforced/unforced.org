@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
   eleventyConfig.addPassthroughCopy({ "src/too-much-fun-dying-to-stop-now.epub": "too-much-fun-dying-to-stop-now.epub" });
   eleventyConfig.addPassthroughCopy({ "src/audio": "audio" });
+  eleventyConfig.addPassthroughCopy({ "src/js": "js" });
 
   // Create posts collection from writing folder
   eleventyConfig.addCollection("posts", function(collectionApi) {

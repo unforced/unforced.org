@@ -1,0 +1,68 @@
+---
+pagination:
+  data: joeCreations
+  size: 1
+  alias: screen
+permalink: "/joe/creations/{% if screen.slug != 'index' %}{{ screen.slug }}/{% endif %}index.html"
+eleventyExcludeFromCollections: true
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ screen.title }} — Joseph Neyer Creations</title>
+  <meta name="description" content="Joseph Neyer's original design-and-build portfolio, restored from the website he created with Suzy. Turning imagination into reality.">
+  <link rel="stylesheet" href="/css/joe-creations.css">
+  <script src="/js/joe-creations.js" defer></script>
+</head>
+<body class="{% if screen.home %}is-home{% else %}is-gallery{% endif %}">
+  <a class="skip-link" href="#project-navigation">Skip to photographs</a>
+  <main>
+    <header class="mobile-heading">
+      <a href="/joe/creations/"><img src="/images/joe-creations/logo.svg" alt="JNC — Joseph Neyer Creations" width="180" height="140"></a>
+      <h1>{{ screen.title }}</h1>
+      <p>Turning Imagination into Reality</p>
+    </header>
+    <section class="original-stage" aria-label="{{ screen.title }} portfolio">
+      <img class="original-artwork" src="{{ screen.background }}" alt="" aria-hidden="true" width="2200" height="1000">
+      {% if screen.home %}
+      <img class="home-slogan" src="/images/joe-creations/slogan.svg" alt="Turning Imagination into Reality">
+      {% else %}
+      <img class="gallery-slogan" src="/images/joe-creations/gallery-slogan.svg" alt="Turning Imagination into Reality">
+      {% endif %}
+      <div class="photograph {% if screen.home %}photograph--oval{% endif %}" style="{{ screen.photoStyle }}">
+        {% if screen.initial %}<img id="selected-photo" src="{{ screen.initial }}" alt="{% if screen.home %}Neyer renovation{% else %}{{ screen.title }} — photograph 1{% endif %}" decoding="async">{% endif %}
+      </div>
+      <nav id="project-navigation" class="thumbnails" aria-label="{% if screen.home %}Projects{% else %}{{ screen.title }} photographs{% endif %}">
+        {% for button in screen.buttons %}
+        <a class="thumbnail" style="{{ button.style }}" aria-label="{{ button.label }}" title="{{ button.label }}"
+           href="{% if screen.home %}/joe/creations/{{ button.target }}/{% else %}{{ button.photo }}{% endif %}"
+           data-photo="{{ button.photo }}" data-label="{{ button.label }}"{% if not screen.home %} data-gallery="true"{% endif %}>
+          <img src="{{ button.photo }}" alt="" loading="lazy">
+          <span>{{ button.label }}</span>
+        </a>
+        {% endfor %}
+      </nav>
+      {% if not screen.home %}<a class="original-home" href="/joe/creations/" aria-label="Joseph Neyer Creations home"><span>Home</span></a>{% endif %}
+    </section>
+    {% if not screen.home %}
+    <div class="gallery-controls" aria-label="Photograph controls">
+      <button type="button" data-step="-1" aria-label="Previous photograph">←</button>
+      <p id="photo-status" role="status">Photograph 1 of {{ screen.buttons.length }}</p>
+      <button type="button" data-step="1" aria-label="Next photograph">→</button>
+      <a id="full-photo" href="{{ screen.initial }}">View full photograph</a>
+    </div>
+    {% endif %}
+    <footer class="archive-footer">
+      <p>Joseph Neyer Creations · Original website by Joe and Suzy · Restored from their files</p>
+      <nav aria-label="Archive navigation">
+        {% if not screen.home %}<a href="/joe/creations/">All projects</a>{% endif %}
+        <a href="/joe/">Joe &amp; his book</a>
+        <a href="/joe/creations/about/">About this restoration</a>
+        {% if screen.home %}<a href="/joe/creations/brreno/">Beery renovation</a>{% endif %}
+      </nav>
+    </footer>
+  </main>
+</body>
+</html>

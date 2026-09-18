@@ -1,0 +1,52 @@
+:root { color-scheme: dark; --gold: #d2ca21; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #000; color: #efeee8; font: 16px/1.6 system-ui, sans-serif; }
+a { color: inherit; }
+a:focus-visible, button:focus-visible { outline: 3px solid var(--gold); outline-offset: 5px; }
+.skip-link { position: absolute; top: -100px; left: 1rem; z-index: 5; background: #000; padding: .5rem; }
+.skip-link:focus { top: 1rem; }
+.mobile-heading { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.original-stage { position: relative; width: 100%; aspect-ratio: 2.2; margin: max(0px, calc((100svh - 100vw / 2.2) / 2)) auto 0; }
+.original-artwork { position: absolute; width: 100%; height: 100%; inset: 0; }
+.home-slogan { position: absolute; left: 41.68%; top: .49%; width: 31.8%; height: 12.6%; }
+.gallery-slogan { position: absolute; left: 48.7%; top: 5.66%; width: 32.75%; height: 4.96%; }
+.photograph { position: absolute; display: flex; justify-content: center; align-items: center; pointer-events: none; }
+.photograph img { display: block; width: 100%; height: 100%; object-fit: contain; filter: drop-shadow(0 0 12px #c6be9e80); }
+.photograph--oval { border-radius: 50%; overflow: hidden; }
+.photograph--oval img { object-fit: cover; filter: none; }
+.thumbnail { position: absolute; border: 0; border-radius: 50%; background: transparent; text-decoration: none; }
+.thumbnail:hover, .thumbnail:focus-visible, .thumbnail[aria-current="true"] { box-shadow: 0 0 10px 3px #dbd524a8; outline: 2px solid #dbd524b0; outline-offset: 1px; }
+.thumbnail img, .thumbnail span { display: none; }
+.original-home { position: absolute; left: 92.6%; top: 91.6%; width: 6.1%; height: 6%; border-radius: 5px; }
+.original-home span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.gallery-controls { display: none; align-items: center; justify-content: center; gap: 1rem; margin: 2rem 1rem; }
+.js .gallery-controls { display: flex; }
+.gallery-controls button { color: var(--gold); background: #151513; border: 1px solid #4d4b35; border-radius: 50%; min-width: 44px; min-height: 44px; font: inherit; cursor: pointer; }
+.gallery-controls p { margin: 0; font-size: .85rem; color: #bbb9af; }
+.gallery-controls a { font-size: .85rem; text-underline-offset: .3em; }
+.archive-footer { text-align: center; padding: 3rem 1.5rem 2rem; font-size: .78rem; color: #b0afa4; }
+.archive-footer p { margin: 0 0 .8rem; }
+.archive-footer nav { display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem 1.4rem; }
+.archive-footer a { text-underline-offset: .35em; }
+@media (max-width: 650px) {
+  .mobile-heading { position: static; width: auto; height: auto; clip-path: none; text-align: center; padding: 1.5rem 1rem; }
+  .mobile-heading img { object-fit: contain; max-width: 150px; height: 115px; }
+  .mobile-heading h1 { font: 1.7rem/1.3 "Segoe Print", "Bradley Hand", cursive; margin: .5rem 0; }
+  .mobile-heading p { color: var(--gold); font-size: .85rem; }
+  .original-stage { width: 100%; aspect-ratio: auto; margin: 0; }
+  .original-artwork, .home-slogan, .gallery-slogan, .original-home { display: none; }
+  .photograph { position: relative; left: auto !important; top: auto !important; width: calc(100% - 2rem) !important; height: 60vw !important; margin: 0 auto 1.5rem; }
+  .photograph img { filter: none; }
+  .is-home .photograph { display: none; }
+  .thumbnails { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; padding: .5rem 1.2rem; }
+  .is-home .thumbnails { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.6rem 1.2rem; }
+  .thumbnail { position: static; width: 100% !important; height: auto !important; border-radius: 1rem; padding: .3rem; }
+  .thumbnail img { display: block; width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 50%; box-shadow: 0 0 7px #e1dcb7; }
+  .is-home .thumbnail span { display: block; font-size: .85rem; text-align: center; padding-top: .8rem; }
+  .gallery-controls { flex-wrap: wrap; gap: .7rem; }
+  .gallery-controls a { flex-basis: 100%; text-align: center; }
+  .archive-footer { padding-top: 2rem; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .thumbnail { transition: box-shadow .15s ease; }
+}
